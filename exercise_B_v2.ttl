@@ -15,8 +15,13 @@
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#assignedBy
 :assignedBy rdf:type owl:ObjectProperty ;
             rdfs:domain :Assignment ;
-            rdfs:range :Chair ,
-                       :Editor .
+            rdfs:range :Manager .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#isManagerOf
+:isManagerOf rdf:type owl:ObjectProperty ;
+             rdfs:domain :Manager ;
+             rdfs:range :Venue .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedPaper
@@ -51,12 +56,14 @@
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isChairOf
 :isChairOf rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf :isManagerOf ;
            rdfs:domain :Chair ;
            rdfs:range :Conference .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isEditorOf
 :isEditorOf rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf :isManagerOf ;
             rdfs:domain :Editor ;
             rdfs:range :Journal .
 
@@ -228,6 +235,11 @@
 #    Classes
 #################################################################
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#Manager
+:Manager rdf:type owl:Class ;
+         rdfs:subClassOf :Person .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area
 :Area rdf:type owl:Class .
 
@@ -243,7 +255,7 @@
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Chair
 :Chair rdf:type owl:Class ;
-       rdfs:subClassOf :Person .
+       rdfs:subClassOf :Manager .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference
@@ -258,7 +270,7 @@
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Editor
 :Editor rdf:type owl:Class ;
-        rdfs:subClassOf :Person .
+        rdfs:subClassOf :Manager .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ExpertGroup
