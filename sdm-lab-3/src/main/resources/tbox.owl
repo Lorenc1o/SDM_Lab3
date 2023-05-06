@@ -1,0 +1,156 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="http://www.bdma.com/#Area">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#is_chair_of">
+    <rdfs:subPropertyOf rdf:resource="http://www.bdma.com/#is_manager_of"/>
+    <rdfs:label xml:lang="en">chair is managing conference</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Conference"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Chair"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Poster">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#submitted_to">
+    <rdfs:label xml:lang="en">paper submitted to venue</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Full_Paper">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Review">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Manager">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Demo_Paper">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#is_editor_of">
+    <rdfs:subPropertyOf rdf:resource="http://www.bdma.com/#is_manager_of"/>
+    <rdfs:label xml:lang="en">editor is managing journal</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Journal"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Editor"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Reviewer">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#assigned_by">
+    <rdfs:label xml:lang="en">review assigned by manager</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Manager"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Review"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#included_in">
+    <rdfs:label xml:lang="en">publication included in venue</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Publications"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Author">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Journal">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Regular_Conference">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Conference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Chair">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Manager"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Workshop">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Conference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Symposium">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Conference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#published_as">
+    <rdfs:label xml:lang="en">paper published as publication</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Publications"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Short_Paper">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Person">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Paper">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Expert_Group">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Conference"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Conference">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#is_manager_of">
+    <rdfs:label xml:lang="en">manager is managing venue</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Manager"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#related_to">
+    <rdfs:label xml:lang="en">paper related to area</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdfs:label xml:lang="en">publication related to area</rdfs:label>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Publications"/>
+    <rdfs:label xml:lang="en">venue related to area</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Area"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Venue"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#has_author">
+    <rdfs:label xml:lang="en">author of the paper</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Author"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Publications">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#assigned_paper">
+    <rdfs:label xml:lang="en">review assigned paper</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Paper"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Review"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#written_by">
+    <rdfs:label xml:lang="en">review written by reviewer</rdfs:label>
+    <rdfs:range rdf:resource="http://www.bdma.com/#Reviewer"/>
+    <rdfs:domain rdf:resource="http://www.bdma.com/#Review"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Venue">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.bdma.com/#Editor">
+    <rdfs:subClassOf rdf:resource="http://www.bdma.com/#Manager"/>
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+</rdf:RDF>
