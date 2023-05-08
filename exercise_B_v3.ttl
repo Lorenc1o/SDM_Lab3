@@ -86,46 +86,16 @@
 #    Data properties
 #################################################################
 
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#hasCitation
-:hasCitation rdf:type owl:DatatypeProperty ;
-             rdfs:domain :FullPaper ;
-             rdfs:range xsd:string .
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#numberOfPapersInProceeding
+:numberOfPapersInProceeding rdf:type owl:DatatypeProperty ;
+                            rdfs:domain :Proceeding ;
+                            rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#hasDate
-:hasDate rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Workshop ;
-         rdfs:range xsd:dateTime .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#isPurposive
-:isPurposive rdf:type owl:DatatypeProperty ;
-             rdfs:domain :ShortPaper ;
-             rdfs:range xsd:boolean .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#numberOfExperts
-:numberOfExperts rdf:type owl:DatatypeProperty ;
-                 rdfs:domain :ExpertGroup ;
-                 rdfs:range xsd:int .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#purpose
-:purpose rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Poster ;
-         rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#subject
-:subject rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Symposium ;
-         rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#yearsOfExperience
-:yearsOfExperience rdf:type owl:DatatypeProperty ;
-                   rdfs:domain :Manager ;
-                   rdfs:range xsd:int .
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#numberOfPapersInVolume
+:numberOfPapersInVolume rdf:type owl:DatatypeProperty ;
+                        rdfs:domain :Volume ;
+                        rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/chairUntil
@@ -164,10 +134,22 @@
              rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasCitation
+:hasCitation rdf:type owl:DatatypeProperty ;
+             rdfs:domain :FullPaper ;
+             rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDOI
 :hasDOI rdf:type owl:DatatypeProperty ;
         rdfs:domain :Publication ;
         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDate
+:hasDate rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Workshop ;
+         rdfs:range xsd:dateTime .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDecision
@@ -233,6 +215,18 @@
         rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isPurposive
+:isPurposive rdf:type owl:DatatypeProperty ;
+             rdfs:domain :ShortPaper ;
+             rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfExperts
+:numberOfExperts rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :ExpertGroup ;
+                 rdfs:range xsd:int .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/periodicity
 :periodicity rdf:type owl:DatatypeProperty ;
              rdfs:domain :RegularConference ;
@@ -250,10 +244,22 @@
                         ] .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose
+:purpose rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Poster ;
+         rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/reviewText
 :reviewText rdf:type owl:DatatypeProperty ;
             rdfs:domain :Review ;
             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/subject
+:subject rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Symposium ;
+         rdfs:range xsd:string .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/urlToDemo
@@ -262,9 +268,25 @@
            rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/yearsOfExperience
+:yearsOfExperience rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :Manager ;
+                   rdfs:range xsd:int .
+
+
 #################################################################
 #    Classes
 #################################################################
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#Proceeding
+:Proceeding rdf:type owl:Class ;
+            rdfs:subClassOf :Publication .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#Volume
+:Volume rdf:type owl:Class ;
+        rdfs:subClassOf :Publication .
+
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area
 :Area rdf:type owl:Class .

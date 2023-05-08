@@ -128,7 +128,7 @@ public class TBOX {
     private static void writeTBOX(OntModel model) {
         try {
             FileOutputStream writerStream = new FileOutputStream(RESOURCES_TBOX_OWL);
-            model.write(writerStream, "RDF/XML");
+            model.write(writerStream, "TTL");
             writerStream.close();
         } catch (IOException e) {
             e.printStackTrace();
