@@ -3,17 +3,16 @@ package com.bdma;
 public class Venue {
 
     String id;
-//    String venue;
     String venueType;
     String conferenceType;
-//    String conference;
-//    String journal;
     String name;
     String editor;
     String chair;
     String url;
     String publication;
     String area;
+    String issn;
+    String periodicity;
 
     public String getId() {
         return id;
@@ -87,9 +86,25 @@ public class Venue {
         this.area = area;
     }
 
+    public String getIssn() {
+        return issn;
+    }
+
+    public void setIssn(String issn) {
+        this.issn = issn;
+    }
+
+    public String getPeriodicity() {
+        return periodicity;
+    }
+
+    public void setPeriodicity(String periodicity) {
+        this.periodicity = periodicity;
+    }
+
     @Override
     public String toString(){
-        return id+ "; " + area+ "; " + publication+ "; " + venueType+ "; " + conferenceType+ "; " + editor+ "; " + url+ "; " + name+ "; " + chair;
+        return id+ "; " + area + "; " + publication+ "; " + venueType+ "; " + conferenceType+ "; " + editor+ "; " + url+ "; " + name+ "; " + chair + "; " + issn + "; " + periodicity;
     }
 
 }

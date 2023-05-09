@@ -10,7 +10,9 @@ import java.util.*;
 public class PreProcessing {
 
     static String[] paperTypes = {"FullPaper", "ShortPaper", "Poster", "DemoPaper"};
-    static String[] conferenceTypes = {"Symposium", "Workshop"};
+    static String[] areas = {"Machine Learning", "Art", "AI", "Graphs", "Algorithms"};
+    static String[] conferenceTypes = {"Symposium", "Workshop", "RegularConference"};
+    static String[] periodicities = {"Weekly", "Monthly", "Yearly"};
 
     public static void main(String[] args) {
         Random random = new Random();
@@ -21,6 +23,7 @@ public class PreProcessing {
             HashMap<String, Paper> paperHashMap = new HashMap<>();
             HashMap<String, Person> personHashMap = new HashMap<>();
             HashMap<String, Venue> venueHashMap = new HashMap<>();
+            HashMap<String, Publications> publicationHashMap = new HashMap<>();
             HashMap<String, String> citiesHashMap = new HashMap<>();
 
             for (CSVRecord record : parser) {
@@ -41,6 +44,7 @@ public class PreProcessing {
                 String publisher = record.get("publisher");
                 String url = record.get("url");
                 String year = record.get("year");
+                String issn = record.get("issn");
 
                 if (!label.equals("")) {
                     switch (label) {
@@ -52,6 +56,7 @@ public class PreProcessing {
                             paper.setPaperType(paperTypes[random.nextInt(4)]);
                             paper.setYear(year);
                             paper.setUrl(url);
+                            paper.setArea(areas[random.nextInt(5)]);
                             paperHashMap.put(id, paper);
                             break;
                         case ":Person":
@@ -68,6 +73,8 @@ public class PreProcessing {
                             venue.setName(name);
                             venue.setUrl(url);
                             venue.setVenueType("Journal");
+                            venue.setIssn(issn);
+                            venue.setPeriodicity(periodicities[random.nextInt(3)]);
                             venueHashMap.put(id, venue);
                             break;
                         }
@@ -77,23 +84,24 @@ public class PreProcessing {
                             venue.setName(name);
                             venue.setUrl(url);
                             venue.setVenueType("Conference");
-                            if (url == null)
-                                venue.setConferenceType(conferenceTypes[random.nextInt(2)]);
+                            venue.setChair(pc);
+                            venue.setPeriodicity(periodicities[random.nextInt(3)]);
+                            if (url.equals(""))
+                                venue.setConferenceType(conferenceTypes[random.nextInt(3)]);
                             else
                                 venue.setConferenceType("ExpertGroup");
                             venueHashMap.put(id, venue);
                             break;
                         }
-                        case ":Proceeding": {
-                            Venue venue = new Venue();
-                            venue.setId(id);
-                            venue.setName(title);
-                            venue.setUrl(url);
-                            venue.setChair(pc);
-                            venue.setVenueType("Conference");
-                            venue.setConferenceType("RegularConference");
-                            venue.setPublication(publisher);
-                            venueHashMap.put(id, venue);
+                        case ":Proceeding":
+                        case ":Volume": {
+                            Publications publications = new Publications();
+                            publications.setId(id);
+                            publications.setTitle(title);
+                            publications.setChair(pc);
+                            publications.setPublisher(publisher);
+                            publications.setYear(year);
+                            publicationHashMap.put(id, publications);
                             break;
                         }
                         case ":City":
@@ -104,10 +112,18 @@ public class PreProcessing {
                 }
                 if (_type != null) {
                     switch (_type) {
+                        case "authored": {
+                            Paper paper = paperHashMap.get(_end);
+                            if (paper.getAuthorID() == null)
+                                paper.setAuthorID(_start);
+                            else
+                                paper.setAuthorID(paper.getAuthorID() + "," +_start);
+                            paperHashMap.replace(_end, paper);
+                            break;
+                        }
                         case "correspondingAuthor": {
                             Paper paper = paperHashMap.get(_end);
-                            Person person = personHashMap.get(_start);
-                            paper.setAuthor(person.getName());
+                            paper.setCorrAuthorID(_start);
                             paperHashMap.replace(_end, paper);
                             break;
                         }
@@ -127,28 +143,43 @@ public class PreProcessing {
                             break;
                         }
                         case "published_in": {
+//                            Venue venue = venueHashMap.get(_end);
+//                            if (venue != null)
+//                                if ( venue.getVenueType().equals("Journal")) {
+//                                    paper.setVenue(venue.getName());
+//                                    paper.setVenueType("Journal");
+//                                    paper.setEditor(venue.getEditor());
+//                                    paper.setManagerType("Editor");
+//                                } else {
+//                                    paper.setVenue(venue.getName());
+//                                    paper.setConferenceType(venue.getConferenceType());
+//                                    paper.setVenueType("Conference");
+//                                    paper.setManager(venue.chair);
+//                                    paper.setManagerType("Chair");
+//                                }
                             Paper paper = paperHashMap.get(_start);
-                            Venue venue = venueHashMap.get(_end);
-                            if (venue != null)
-                            if ( venue.getVenueType().equals("Journal")) {
-                                paper.setVenue(venue.getName());
-                                paper.setVenueType("Journal");
-                                paper.setEditor(venue.getEditor());
-                                paper.setManagerType("Editor");
-                            } else {
-                                paper.setVenue(venue.getName());
-                                paper.setConferenceType(venue.getConferenceType());
-                                paper.setVenueType("Conference");
-                                paper.setManager(venue.chair);
-                                paper.setManagerType("Chair");
+                            Publications publications = publicationHashMap.get(_end);
+                            if (paper.getDecisions_1().equals("Yes") && paper.getDecisions_2().equals("Yes")) {
+                                paper.setPublicationId(_end);
+                                publications.setArea(paper.getArea());
                             }
-                            paperHashMap.replace(_end, paper);
+                            else
+                                paper.setVenueId((String) venueHashMap.keySet().toArray()[random.nextInt(venueHashMap.size())]);
+                            publications.setArea(paper.getArea());
+                            paperHashMap.replace(_start, paper);
+                            publicationHashMap.replace(_end, publications);
+                            break;
+                        }
+                        case "part_of": {
+                            Venue venue = venueHashMap.get(_end);
+                            venue.setPublication(_start);
+                            venueHashMap.replace(_end, venue);
                             break;
                         }
                         case "held_in": {
-                            Venue venue = venueHashMap.get(_start);
-                            venue.setArea(citiesHashMap.get(_end));
-                            venueHashMap.replace(_start, venue);
+                            Publications publication = publicationHashMap.get(_start);
+                            publication.setCity(citiesHashMap.get(_end));
+                            publicationHashMap.replace(_start, publication);
                             break;
                         }
                     }
@@ -160,7 +191,8 @@ public class PreProcessing {
             String eol = System.getProperty("line.separator");
 
             Writer papersWriter = new FileWriter("src/main/resources/cleaned_papers.csv");
-            papersWriter.append("id; paperTitle; area; manager; author; publication; venue; venueType; conferenceType; managerType; conference; journal; reviewer_1; reviewer_2; editor; review_1; review_2; paperType; paperAbstract; decisions_1; decisions_2; year; url").append(eol);
+//            papersWriter.append("id; paperTitle; area; manager; author; publicationID; venue; venueType; conferenceType; managerType; conference; journal; reviewer_1; reviewer_2; editor; review_1; review_2; paperType; paperAbstract; decisions_1; decisions_2; year; url").append(eol);
+            papersWriter.append("id; paperTitle; area; authorID; corrAuthorID; publicationID; venueId; reviewer_1; reviewer_2; review_1; review_2; paperType; paperAbstract; decisions_1; decisions_2; year; url").append(eol);
             for (Map.Entry<String, Paper> entry : paperHashMap.entrySet())
                 papersWriter.append(entry.getValue().toString()).append(eol);
             papersWriter.close();
@@ -172,10 +204,16 @@ public class PreProcessing {
             personsWriter.close();
 
             Writer venuesWriter = new FileWriter("src/main/resources/cleaned_venues.csv");
-            venuesWriter.append("id; area; publication; venueType; conferenceType; editor; url; name; chair").append(eol);
+            venuesWriter.append("id; area; publication; venueType; conferenceType; editor; url; name; chair ;issn ;periodicity").append(eol);
             for (Map.Entry<String, Venue> entry : venueHashMap.entrySet())
                 venuesWriter.append(entry.getValue().toString()).append(eol);
             venuesWriter.close();
+
+            Writer publicationsWriter = new FileWriter("src/main/resources/cleaned_publications.csv");
+            publicationsWriter.append("id ; title ; year ; publisher ; chair ; city ; area").append(eol);
+            for (Map.Entry<String, Publications> entry : publicationHashMap.entrySet())
+                publicationsWriter.append(entry.getValue().toString()).append(eol);
+            publicationsWriter.close();
 
         } catch (IOException e) {
             e.printStackTrace();

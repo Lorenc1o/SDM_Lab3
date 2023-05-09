@@ -5,18 +5,19 @@ public class Paper {
     String id;
     String paperTitle;
     String area;
-    String manager;
-    String author;
-    String publication;
-    String venue;
-    String venueType;
-    String conferenceType;
-    String managerType;
-    String conference;
-    String journal;
+//    String manager;
+    String authorID;
+    String corrAuthorID;
+    String publicationId;
+//    String venue;
+//    String venueType;
+//    String conferenceType;
+//    String managerType;
+//    String conference;
+//    String journal;
     String reviewer_1;
     String reviewer_2;
-    String editor;
+//    String editor;
     String review_1;
     String review_2;
     String paperType;
@@ -25,6 +26,7 @@ public class Paper {
     String decisions_2;
     String year;
     String url;
+    String venueId;
 
     public String getId() {
         return id;
@@ -50,77 +52,69 @@ public class Paper {
         this.area = area;
     }
 
-    public String getManager() {
-        return manager;
-    }
-
-    public void setManager(String manager) {
-        this.manager = manager;
-    }
-
-    public String getPublication() {
-        return publication;
-    }
-
-    public void setPublication(String publication) {
-        this.publication = publication;
-    }
-
-    public String getVenue() {
-        return venue;
-    }
-
-    public void setVenue(String venue) {
-        this.venue = venue;
-    }
-
-    public String getVenueType() {
-        return venueType;
-    }
-
-    public void setVenueType(String venueType) {
-        this.venueType = venueType;
-    }
-
-    public String getConferenceType() {
-        return conferenceType;
-    }
-
-    public void setConferenceType(String conferenceType) {
-        this.conferenceType = conferenceType;
-    }
-
-    public String getManagerType() {
-        return managerType;
-    }
-
-    public void setManagerType(String managerType) {
-        this.managerType = managerType;
-    }
-
-    public String getConference() {
-        return conference;
-    }
-
-    public void setConference(String conference) {
-        this.conference = conference;
-    }
-
-    public String getJournal() {
-        return journal;
-    }
-
-    public void setJournal(String journal) {
-        this.journal = journal;
-    }
-
-    public String getEditor() {
-        return editor;
-    }
-
-    public void setEditor(String editor) {
-        this.editor = editor;
-    }
+//    public String getManager() {
+//        return manager;
+//    }
+//
+//    public void setManager(String manager) {
+//        this.manager = manager;
+//    }
+//
+//    public String getVenue() {
+//        return venue;
+//    }
+//
+//    public void setVenue(String venue) {
+//        this.venue = venue;
+//    }
+//
+//    public String getVenueType() {
+//        return venueType;
+//    }
+//
+//    public void setVenueType(String venueType) {
+//        this.venueType = venueType;
+//    }
+//
+//    public String getConferenceType() {
+//        return conferenceType;
+//    }
+//
+//    public void setConferenceType(String conferenceType) {
+//        this.conferenceType = conferenceType;
+//    }
+//
+//    public String getManagerType() {
+//        return managerType;
+//    }
+//
+//    public void setManagerType(String managerType) {
+//        this.managerType = managerType;
+//    }
+//
+//    public String getConference() {
+//        return conference;
+//    }
+//
+//    public void setConference(String conference) {
+//        this.conference = conference;
+//    }
+//
+//    public String getJournal() {
+//        return journal;
+//    }
+//
+//    public void setJournal(String journal) {
+//        this.journal = journal;
+//    }
+//
+//    public String getEditor() {
+//        return editor;
+//    }
+//
+//    public void setEditor(String editor) {
+//        this.editor = editor;
+//    }
 
     public String getPaperType() {
         return paperType;
@@ -138,12 +132,12 @@ public class Paper {
         this.paperAbstract = paperAbstract;
     }
 
-    public String getAuthor() {
-        return author;
+    public String getAuthorID() {
+        return authorID;
     }
 
-    public void setAuthor(String author) {
-        this.author = author;
+    public void setAuthorID(String authorID) {
+        this.authorID = authorID;
     }
 
     public String getReviewer_1() {
@@ -210,9 +204,33 @@ public class Paper {
         this.url = url;
     }
 
+    public String getPublicationId() {
+        return publicationId;
+    }
+
+    public void setPublicationId(String publicationId) {
+        this.publicationId = publicationId;
+    }
+
+    public String getCorrAuthorID() {
+        return corrAuthorID;
+    }
+
+    public void setCorrAuthorID(String corrAuthorID) {
+        this.corrAuthorID = corrAuthorID;
+    }
+
+    public String getVenueId() {
+        return venueId;
+    }
+
+    public void setVenueId(String venueId) {
+        this.venueId = venueId;
+    }
+
     @Override
     public String toString() {
-        return id + "; " + paperTitle + "; " + area + "; " + manager + "; " + author + "; " + publication + "; " + venue + "; " + venueType + "; " + conferenceType + "; " + managerType + "; " + conference + "; " + journal + "; " + reviewer_1 + "; " + reviewer_2 + "; " + editor + "; " + review_1 + "; " + review_2 + "; " + paperType + "; " + paperAbstract + "; " + decisions_1 + "; " + decisions_2 + "; " + year + "; " + url;
+        return id + "; " + paperTitle + "; " + area + /*"; " + manager +*/ "; " + authorID + "; " + corrAuthorID + "; " + publicationId + "; " + venueId + /* "; " + venueType + "; " + conferenceType + "; " + managerType + "; " + conference + "; " + journal + */"; " + reviewer_1 + "; " + reviewer_2 + /*"; " + editor + */"; " + review_1 + "; " + review_2 + "; " + paperType + "; " + paperAbstract + "; " + decisions_1 + "; " + decisions_2 + "; " + year + "; " + url;
 
     }
 }

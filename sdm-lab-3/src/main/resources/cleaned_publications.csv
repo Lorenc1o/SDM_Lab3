@@ -1,0 +1,1544 @@
+id ; title ; year ; publisher ; chair ; city ; area
+11504; ; 2019; ; ; null; Algorithms
+11988; ; 2006; ; ; null; AI
+12836; ; 2006; ; ; null; Art
+11503; ; 2019; ; ; null; AI
+11987; ; 2006; ; ; null; Algorithms
+12837; ; 2006; ; ; null; Algorithms
+11506; ; 2018; ; ; null; Graphs
+12834; ; 2008; ; ; null; Graphs
+11505; ; 2019; ; ; null; Graphs
+11989; ; 2006; ; ; null; Algorithms
+12835; ; 2008; ; ; null; Algorithms
+11508; ; 2018; ; ; null; Machine Learning
+11507; ; 2018; ; ; null; Graphs
+12838; ; 2003; ; ; null; AI
+11509; ; 2018; ; ; null; AI
+12839; ; 2001; ; ; null; AI
+11980; ; 2008; ; ; null; Machine Learning
+11982; ; 2007; ; ; null; Graphs
+11981; ; 2008; ; ; null; AI
+11500; ; 2020; ; ; null; Algorithms
+11984; ; 2007; ; ; null; AI
+12832; ; 2012; ; ; null; Graphs
+11983; ; 2007; ; ; null; AI
+12833; ; 2011; ; ; null; Graphs
+11502; ; 2019; ; ; null; Algorithms
+11986; ; 2006; ; ; null; Machine Learning
+12830; ; 2014; ; ; null; Graphs
+11501; ; 2020; ; ; null; Graphs
+11985; ; 2007; ; ; null; Art
+12831; ; 2013; ; ; null; Graphs
+11515; ; 2017; ; ; null; Graphs
+11999; ; 2003; ; ; null; AI
+12847; ; 1993; ; ; null; AI
+11514; ; 2017; ; ; null; Art
+11998; ; 2004; ; ; null; Art
+12848; ; 1991; ; ; null; Machine Learning
+11517; ; 2017; ; ; null; Graphs
+12845; ; 1996; ; ; null; Algorithms
+11516; ; 2017; ; ; null; Machine Learning
+12846; ; 1995; ; ; null; Art
+11519; ; 2017; ; ; null; Machine Learning
+11518; ; 2017; ; ; null; AI
+12849; ; 1991; ; ; null; Machine Learning
+11991; ; 2004; ; ; null; Graphs
+11990; ; 2005; ; ; null; Graphs
+12840; ; 2001; ; ; null; Machine Learning
+11993; ; 2008; ; ; null; AI
+11992; ; 2016; ; ; null; Algorithms
+11511; ; 2018; ; ; null; AI
+11995; ; 2007; ; ; null; Art
+12843; ; 1998; ; ; null; Algorithms
+11510; ; 2018; ; ; null; Art
+11994; ; 2007; ; ; null; Art
+12844; ; 1997; ; ; null; Art
+11513; ; 2017; ; ; null; AI
+11997; ; 2005; ; ; null; Art
+12841; ; 2000; ; ; null; AI
+11512; ; 2017; ; ; null; Art
+11996; ; 2005; ; ; null; AI
+12842; ; 1999; ; ; null; AI
+12809; ; 2022; ; ; null; Graphs
+11966; ; 2010; ; ; null; Art
+12814; ; 2022; ; ; null; Graphs
+11965; ; 2010; ; ; null; Art
+12815; ; 2022; ; ; null; Machine Learning
+11968; ; 2009; ; ; null; AI
+12812; ; 2022; ; ; null; Art
+11967; ; 2010; ; ; null; Graphs
+12813; ; 2022; ; ; null; Art
+12818; ; 1922; ; ; null; Machine Learning
+11969; ; 2009; ; ; null; Art
+12819; ; 1960; ; ; null; Graphs
+12816; ; 2021; ; ; null; AI
+12817; ; 2021; ; ; null; Algorithms
+11960; ; 2010; ; ; null; Art
+11962; ; 2010; ; ; null; AI
+12810; ; 2022; ; ; null; Algorithms
+11961; ; 2010; ; ; null; AI
+12811; ; 2022; ; ; null; Art
+11964; ; 2010; ; ; null; Machine Learning
+11963; ; 2010; ; ; null; Art
+11977; ; 2009; ; ; null; AI
+12825; ; 2018; ; ; null; AI
+11976; ; 2009; ; ; null; Graphs
+12826; ; 2018; ; ; null; AI
+11979; ; 2009; ; ; null; Graphs
+12823; ; 2020; ; ; null; Machine Learning
+11978; ; 2009; ; ; null; Graphs
+12824; ; 2019; ; ; null; Machine Learning
+12829; ; 2014; ; ; null; Graphs
+12827; ; 2017; ; ; null; Machine Learning
+12828; ; 2015; ; ; null; Algorithms
+11971; ; 2009; ; ; null; Machine Learning
+11970; ; 2009; ; ; null; Graphs
+11973; ; 2009; ; ; null; Algorithms
+12821; ; 2021; ; ; null; Art
+11972; ; 2009; ; ; null; Algorithms
+12822; ; 2020; ; ; null; Art
+11975; ; 2009; ; ; null; AI
+11974; ; 2009; ; ; null; Graphs
+12820; ; 2021; ; ; null; Art
+11944; ; 2012; ; ; null; Algorithms
+11943; ; 2012; ; ; null; Algorithms
+11946; ; 2012; ; ; null; Algorithms
+11945; ; 2012; ; ; null; Art
+11948; ; 2012; ; ; null; Algorithms
+11947; ; 2012; ; ; null; Machine Learning
+11949; ; 2012; ; ; null; Machine Learning
+11940; ; 2013; ; ; null; Art
+11942; ; 2013; ; ; null; Art
+11941; ; 2013; ; ; null; Art
+11955; ; 2011; ; ; null; Art
+12803; ; 2022; ; ; null; Algorithms
+11954; ; 2011; ; ; null; Graphs
+12804; ; 2022; ; ; null; Machine Learning
+11957; ; 2011; ; ; null; Machine Learning
+12801; ; 2020; ; ; null; Algorithms
+11956; ; 2011; ; ; null; Graphs
+12802; ; 2022; ; ; null; Graphs
+11959; ; 2010; ; ; null; Graphs
+12807; ; 2022; ; ; null; Art
+11958; ; 2010; ; ; null; Algorithms
+12808; ; 2023; ; ; null; Art
+12805; ; 2021; ; ; null; Algorithms
+12806; ; 2021; ; ; null; AI
+11951; ; 2011; ; ; null; Art
+11950; ; 2012; ; ; null; Machine Learning
+12800; ; 2020; ; ; null; Machine Learning
+11953; ; 2011; ; ; null; AI
+11952; ; 2011; ; ; null; Art
+11919; ; 2017; ; ; null; Machine Learning
+11918; ; 2017; ; ; null; Machine Learning
+11922; ; 2016; ; ; null; Algorithms
+11921; ; 2016; ; ; null; Graphs
+11924; ; 2016; ; ; null; Graphs
+11923; ; 2016; ; ; null; Graphs
+11926; ; 2015; ; ; null; Graphs
+11925; ; 2016; ; ; null; Machine Learning
+11928; ; 2015; ; ; null; AI
+11927; ; 2015; ; ; null; Art
+11920; ; 2017; ; ; null; Machine Learning
+11929; ; 2014; ; ; null; Graphs
+11933; ; 2014; ; ; null; Graphs
+11932; ; 2014; ; ; null; Graphs
+11935; ; 2014; ; ; null; Graphs
+11934; ; 2014; ; ; null; Art
+11937; ; 2013; ; ; null; Machine Learning
+11936; ; 2013; ; ; null; AI
+11939; ; 2013; ; ; null; AI
+11938; ; 2013; ; ; null; Art
+11931; ; 2014; ; ; null; Machine Learning
+11930; ; 2014; ; ; null; Graphs
+11580; ; 2011; ; ; null; Algorithms
+11582; ; 2011; ; ; null; Algorithms
+11581; ; 2011; ; ; null; Graphs
+11584; ; 2011; ; ; null; Art
+11583; ; 2011; ; ; null; AI
+11586; ; 2011; ; ; null; Algorithms
+11585; ; 2011; ; ; null; AI
+11588; ; 2010; ; ; null; Algorithms
+11587; ; 2010; ; ; null; AI
+11589; ; 2010; ; ; null; Art
+11591; ; 2010; ; ; null; Machine Learning
+11590; ; 2010; ; ; null; Machine Learning
+11593; ; 2010; ; ; null; Algorithms
+11592; ; 2010; ; ; null; Art
+11595; ; 2009; ; ; null; Graphs
+11594; ; 2009; ; ; null; Graphs
+11597; ; 2009; ; ; null; Graphs
+11596; ; 2009; ; ; null; Algorithms
+11599; ; 2009; ; ; null; AI
+11598; ; 2009; ; ; null; Art
+12890; ; 2023; ; ; null; Art
+12891; ; 2022; ; ; null; Machine Learning
+11560; ; 2018; ; ; null; Algorithms
+11569; ; 2015; ; ; null; AI
+11562; ; 2017; ; ; null; Algorithms
+12894; ; 2022; ; ; null; Algorithms
+11561; ; 2017; ; ; null; Graphs
+12895; ; 2022; ; ; null; Machine Learning
+11564; ; 2016; ; ; null; Art
+12892; ; 2022; ; ; null; Art
+11563; ; 2017; ; ; null; Machine Learning
+12893; ; 2022; ; ; null; Algorithms
+11566; ; 2016; ; ; null; Algorithms
+12898; ; 2022; ; ; null; AI
+11565; ; 2016; ; ; null; Algorithms
+12899; ; 2021; ; ; null; Graphs
+11568; ; 2016; ; ; null; Art
+12896; ; 2022; ; ; null; Machine Learning
+11567; ; 2016; ; ; null; Machine Learning
+12897; ; 2022; ; ; null; Graphs
+11571; ; 2014; ; ; null; Machine Learning
+11570; ; 2014; ; ; null; Machine Learning
+11573; ; 2014; ; ; null; Algorithms
+11572; ; 2014; ; ; null; Machine Learning
+11575; ; 2013; ; ; null; AI
+11574; ; 2013; ; ; null; Art
+11577; ; 2012; ; ; null; Algorithms
+11576; ; 2013; ; ; null; AI
+11579; ; 2011; ; ; null; Machine Learning
+11578; ; 2012; ; ; null; Machine Learning
+11548; ; 1967; ; ; null; Algorithms
+11547; ; 2004; ; ; null; Art
+12878; ; 2022; ; ; null; Algorithms
+11549; ; 2002; ; ; null; Art
+12879; ; 2023; ; ; null; AI
+11540; ; 2005; ; ; null; Algorithms
+12872; ; 2016; ; ; null; Graphs
+12873; ; 2020; ; ; null; Art
+11542; ; 2013; ; ; null; Graphs
+12870; ; 2021; ; ; null; Algorithms
+11541; ; 2004; ; ; null; Machine Learning
+12871; ; 2021; ; ; null; Machine Learning
+11544; ; 2005; ; ; null; AI
+12876; ; 2023; ; ; null; Machine Learning
+11543; ; 2001; ; ; null; Algorithms
+12877; ; 2022; ; ; null; Art
+11546; ; 2005; ; ; null; Graphs
+12874; ; 2020; ; ; null; Graphs
+11545; ; 2006; ; ; null; Algorithms
+12875; ; 2019; ; ; null; AI
+12880; ; 2022; ; ; null; AI
+11559; ; 2019; ; ; null; Graphs
+11558; ; 2019; ; ; null; Graphs
+12889; ; 2023; ; ; null; Graphs
+11551; ; 1968; ; ; null; Art
+12883; ; 2020; ; ; null; Graphs
+11550; ; 1972; ; ; null; AI
+12884; ; 2020; ; ; null; AI
+11553; ; 2021; ; ; null; Algorithms
+12881; ; 2022; ; ; null; Graphs
+11552; ; 2022; ; ; null; Algorithms
+12882; ; 2022; ; ; null; Algorithms
+11555; ; 2020; ; ; null; Graphs
+12887; ; 2023; ; ; null; Art
+11554; ; 2021; ; ; null; Machine Learning
+12888; ; 2023; ; ; null; Graphs
+11557; ; 2020; ; ; null; Machine Learning
+12885; ; 2022; ; ; null; Graphs
+11556; ; 2020; ; ; null; Art
+12886; ; 2020; ; ; null; Graphs
+11526; ; 2016; ; ; null; Art
+12858; ; 2005; ; ; null; Art
+11525; ; 2016; ; ; null; Graphs
+12859; ; 1967; ; ; null; Art
+11528; ; 2016; ; ; null; Machine Learning
+12856; ; 1976; ; ; null; Art
+11527; ; 2016; ; ; null; Art
+12857; ; 1976; ; ; null; Art
+11529; ; 2016; ; ; null; Art
+12850; ; 1988; ; ; null; Algorithms
+12851; ; 1986; ; ; null; Art
+11520; ; 2017; ; ; null; Graphs
+11522; ; 2017; ; ; null; Art
+12854; ; 1978; ; ; null; Machine Learning
+11521; ; 2017; ; ; null; Machine Learning
+12855; ; 1977; ; ; null; Graphs
+11524; ; 2017; ; ; null; Graphs
+12852; ; 1984; ; ; null; AI
+11523; ; 2017; ; ; null; Graphs
+12853; ; 1980; ; ; null; AI
+11537; ; 2014; ; ; null; Machine Learning
+12869; ; 2022; ; ; null; Art
+11536; ; 2015; ; ; null; Algorithms
+11539; ; 1999; ; ; null; Machine Learning
+12867; ; 2022; ; ; null; Algorithms
+11538; ; 2020; ; ; null; AI
+12868; ; 2022; ; ; null; AI
+12861; ; 1965; ; ; null; Machine Learning
+12862; ; 1964; ; ; null; Art
+11531; ; 2018; ; ; null; Machine Learning
+11530; ; 2015; ; ; null; Algorithms
+12860; ; 1966; ; ; null; Graphs
+11533; ; 2019; ; ; null; Graphs
+12865; ; 2020; ; ; null; AI
+11532; ; 2018; ; ; null; Graphs
+12866; ; 2020; ; ; null; Algorithms
+11535; ; 2015; ; ; null; Graphs
+12863; ; 1961; ; ; null; Machine Learning
+11534; ; 2018; ; ; null; AI
+12864; ; 2021; ; ; null; Graphs
+13253; 2022 IEEE International Conference on Robotics and Automation; 2022; PontificiaUniversidadJaveriana,Bogota; Lisa Delgado, Nathan Clark; Indianapoli; Graphs
+13254; 2021 Annual Conference on Genetic and Evolutionary Computation; 2021; Scholarena; Maria Ryan, William Gates; Basel; Machine Learning
+13251; 2017 Heart; 2017; OpenAccessText(OAT); Deborah Hill, Cynthia Taylor; New York; Algorithms
+13252; 2018 Annual Conference on Genetic and Evolutionary Computation; 2018; PontificiaUniversidadJaveriana,Bogota; Shannon Rios, Hector Lester; Munich; AI
+13257; 2022 Parallel Problem Solving from Nature; 2022; AdamMickiewiczUniversity; Colton Nelson, Marc Adams; Tokyo; Art
+13258; 2012 Oceans; 2012; UniversidadeFederaldoEspiritoSanto; Christopher Munoz, Jared Rice; Nagoya; Art
+13255; 2022 Annual Conference on Genetic and Evolutionary Computation; 2022; ScienceandEducationPublishing; Ashley Webb, Gregg Jenkins; Beijing; Art
+13256; 2022 IEEE Symposium Series on Computational Intelligence; 2022; DeGruyter; Brandy Higgins, Sydney Collins; Nagoya; Algorithms
+13259; 2015 Oceans; 2015; APA; Mr. Matthew Henderson, Harold Marshall; Cologne; Art
+13220; 2017 IEEE Wireless Communications and Networking Conference; 2017; Emerald; Jamie Kirk, Steven Andrade; Cologne; Algorithms
+13221; 2018 International Conference on Wireless Communications and Signal Processing; 2018; Longdom; Tina Yang, Tyler Perez; Nagoya; Art
+13224; 2017 IEEE International Symposium on Medical Measurements and Applications; 2017; UniversidadedeSaoPaulo; Shannon Rowe, Shannon Vasquez; Nagoya; AI
+13225; 2022 International Conference on Communications, Computing, Cybersecurity, and Informatics; 2022; UniversitasNegeriYogyakarta; Roger Jones, Anthony Robles; Basel; Algorithms
+13222; 2018 Communication Systems and Applications; 2018; Medcrave; Michelle Wade, Nathan Green; Munich; Art
+13223; 2016 International Joint Conference on Biomedical Engineering Systems and Technologies; 2016; FabrizioSerra; Laura Tapia, Martin Gates; Munich; Machine Learning
+13226; 2021 ISC Conference on Information Security and Cryptology; 2021; PhilosophyDocumentationCenter; Henry Fleming, Jesse Parker; Tokyo; Art
+13227; 2021 International Conference on Computing Communication and Networking Technologies; 2021; UniversidadeFederaldoEspiritoSanto; Courtney Blanchard, Alyssa Hernandez; Beijing; Machine Learning
+13208; 2011 International Conference on Embedded and Multimedia Computing; 2011; IOPPublishing; Dean Dalton, Robert Tucker; San Jose; Machine Learning
+13209; 2009 IEEE Antennas and Propagation Society International Symposium; 2009; Taylor&Francis; Tony Howard, Mark Bright; Nagoya; AI
+13202; 2017 International Conference on Software, Telecommunications and Computer Networks; 2017; UniversitasPendidikanIndonesia; Raymond Mcbride, Joshua Walker; Philadelphia; Graphs
+13203; 2014 International Conference on Electromagnetics in Advanced Applications; 2014; IEEE; Annette Harvey, Jonathan Young; Indianapoli; AI
+13200; 2013 International Conference on Plasma Science; 2013; Scholarena; Paula West, Johnny Smith; Beijing; Algorithms
+13201; 2017 Italian National Conference on Sensors; 2017; AnnexPublishers; Amy Mclaughlin, Elizabeth Sheppard; Tokyo; Machine Learning
+13206; 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society; 2012; WorldScientific; Gina Carpenter, Maurice Campbell; Tokyo; Graphs
+13207; 2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society; 2011; BioMedCentral; Peter Miller, Ian Short; Tokyo; Algorithms
+13204; 2013 International Conference on Software, Telecommunications and Computer Networks; 2013; UniversityofMalaya; Austin Little, Jason Oliver; Detroit; AI
+13205; 2013 International Symposium on High Performance Computing Systems and Applications; 2013; Nauka; Dalton Griffin, Jesse Hatfield; Beijing; Art
+13210; 2012 IEEE International Conference on Solid-State and Integrated Circuit Technology; 2012; AnnexPublishers; Lisa Nelson, Rodney Reed; Munich; Algorithms
+13219; 2012 International Conference on Control, Automation, Robotics and Vision; 2012; UniversitasNegeriSurabaya; Cathy Roy, Jennifer Baker; Nagoya; Art
+13213; 2022 Italian National Conference on Sensors; 2022; ScienceandEducationPublishing; Brian Graham, Cole Barker DDS; Beijing; AI
+13214; 2020 IEEE Wireless Communications and Networking Conference; 2020; Wiley; Andrea Duran, Ryan Brown; Amsterdam; Machine Learning
+13211; 2011 International Conference on Computer Science and Application Engineering; 2011; Springer; Rachel Strong, Dana Richards; San Jose; Graphs
+13212; 2017 International Conference on Cloud Computing Technologies and Applications; 2017; UniversityofHawaiiPress; Cynthia Burke, Dawn Sanchez; Munich; Machine Learning
+13217; 2019 ACS/IEEE International Conference on Computer Systems and Applications; 2019; ConscientiaBeam; Nicholas Gallagher, Carla Stewart; San Jose; AI
+13218; 2018 Cloudification of the Internet of Things; 2018; JSciMedCentral; Dana Reyes, Randy Ramos; Paris; AI
+13215; 2018 International Conference on Cloud Computing Technologies and Applications; 2018; PontificiaUniversidadJaveriana,Bogota; Richard Rogers, William Johnson; Paris; Graphs
+13216; 2018 ACM International Conference on Computing Frontiers; 2018; Pleiades; Julie Morris, Brian Escobar; Paris; Machine Learning
+11481; ; 2019; ; ; null; Algorithms
+11480; ; 2019; ; ; null; Algorithms
+11483; ; 2018; ; ; null; Graphs
+11482; ; 2019; ; ; null; Machine Learning
+11485; ; 2018; ; ; null; Machine Learning
+11484; ; 2018; ; ; null; Graphs
+11487; ; 2015; ; ; null; AI
+11486; ; 2008; ; ; null; AI
+11489; ; 2013; ; ; null; Graphs
+11488; ; 2014; ; ; null; Machine Learning
+11490; ; 2010; ; ; null; AI
+11492; ; 2022; ; ; null; Algorithms
+11491; ; 2022; ; ; null; Algorithms
+11494; ; 2021; ; ; null; Algorithms
+11493; ; 2021; ; ; null; Art
+11496; ; 2020; ; ; null; Art
+11495; ; 2020; ; ; null; AI
+11498; ; 2020; ; ; null; Machine Learning
+11497; ; 2020; ; ; null; Algorithms
+11499; ; 2020; ; ; null; Machine Learning
+11900; ; 1994; ; ; null; Machine Learning
+11902; ; 1991; ; ; null; Graphs
+11901; ; 1992; ; ; null; Graphs
+11904; ; 1983; ; ; null; AI
+11903; ; 1988; ; ; null; Art
+11906; ; 1981; ; ; null; Machine Learning
+11905; ; 1983; ; ; null; AI
+11908; ; 2021; ; ; null; Art
+11907; ; 1980; ; ; null; AI
+11909; ; 2021; ; ; null; Algorithms
+11911; ; 2020; ; ; null; Machine Learning
+11910; ; 2020; ; ; null; AI
+11913; ; 2019; ; ; null; AI
+11912; ; 2020; ; ; null; Algorithms
+11915; ; 2018; ; ; null; AI
+11914; ; 2019; ; ; null; AI
+11917; ; 2018; ; ; null; Algorithms
+11916; ; 2018; ; ; null; Machine Learning
+13282; 2020 Colloquium in Information Science and Technology; 2020; UniversitasDiponegoro; Dwayne Harrison, Darrell Sharp; Bridgeport; AI
+13280; 2022 Annual IEEE International Conference on Pervasive Computing and Communications; 2022; Scholarena; Mark Daniels, Krystal Hayden; Detroit; Machine Learning
+13281; 2021 Brazilian Symposium in Information and Human Language Technology; 2021; AdamMickiewiczUniversity; Heather Flores, Kenneth Lane; Tokyo; Algorithms
+13260; 2015 European Signal Processing Conference; 2015; OpenAccessPub; Calvin Krause, Brooke Perez; London; AI
+13261; 2014 International Conference on Information Photonics; 2014; UniversidaddeBuenosAires; Leslie King, Jeffrey Matthews; Indianapoli; Art
+13264; 2017 Oceans; 2017; PontificiaUniversidadJaveriana,Bogota; Teresa Williams, Sarah Mills; Munich; Art
+13265; 2015 Fusion; 2015; UniversitasAirlangga; Katie Osborn, Anna Reid; San Jose; Algorithms
+13262; 2014 Fusion; 2014; ConscientiaBeam; Lonnie Shaw, Casey Price; Cologne; Machine Learning
+13263; 2019 Oceans; 2019; FrancoAngeliEdizioni; Robin Rhodes, Linda Smith; Tokyo; Graphs
+13268; 2022 International Conference on Multisensor Fusion and Integration for Intelligent Systems; 2022; Bentham; Nicole Larson, Stephen Rodriguez; Cologne; AI
+13269; 2017 International Radar Conference; 2017; UniversitasDiponegoro; Lauren Vega, Taylor Dudley; Detroit; Graphs
+13266; 2021 IEEE Military Communications Conference; 2021; UniversidadeFederaldoRioGrandedoSul; Michael Osborne, Kimberly Raymond; Cologne; Machine Learning
+13267; 2018 International Conference on Intelligent Human-Machine Systems and Cybernetics; 2018; PhilosophyDocumentationCenter; Sarah Farrell, William Wade; Basel; AI
+13271; 2015 International Conference on Computer Science and Network Technology; 2015; Pleiades; Stephen Salas, James Martinez; London; AI
+13272; 2019 International Conference on Electric Power Equipment – Switching Technology; 2019; UniversityofTehran; Dustin Garcia, Maria Vargas; Amsterdam; AI
+13270; 2015 Sensor Data Fusion; 2015; SCIRP; Casey Smith, Brian Graham; Beijing; Algorithms
+13275; 2020 Conference on Software Engineering Education and Training; 2020; UniversidadNacionaldeCordoba; Michelle French, Mary Ball; Basel; Algorithms
+13276; 2021 Brazilian Symposium on Software Quality; 2021; OxfordUniversityPress; Jonathan Cruz, Scott Mitchell; New York; Machine Learning
+13273; 2020 International Conference on Mobile Ad-hoc and Sensor Networks; 2020; Dovepress; Misty Thompson DDS, Adam Ortiz; Munich; Art
+13274; 2022 Symposium on Intelligent Systems and Informatics; 2022; FabrizioSerra; Paul Zamora, Tracy Cox; Munich; Machine Learning
+13279; 2023 Italian National Conference on Sensors; 2023; UniversitasNegeriYogyakarta; Adriana Ramirez, Brian Durham; Philadelphia; AI
+13277; 2022 Brazilian Symposium on Software Quality; 2022; AdamMickiewiczUniversity; Shawn Jennings, Rachel Ferguson; Munich; Art
+13278; 2021 Italian National Conference on Sensors; 2021; PontificiaUniversidadJaveriana,Bogota; Jessica Johnson, Thomas Reynolds; Amsterdam; Algorithms
+11625; ; 2004; ; ; null; Graphs
+12957; ; 2022; ; ; null; Graphs
+11624; ; 2004; ; ; null; Graphs
+12958; ; 2022; ; ; null; Algorithms
+11627; ; 2004; ; ; null; Graphs
+12955; ; 2022; ; ; null; Algorithms
+11626; ; 2004; ; ; null; Graphs
+12956; ; 2022; ; ; null; AI
+11629; ; 2004; ; ; null; Graphs
+11628; ; 2004; ; ; null; AI
+12959; ; 2022; ; ; null; Graphs
+12950; ; 2022; ; ; null; Graphs
+11621; ; 2005; ; ; null; Machine Learning
+12953; ; 2022; ; ; null; Art
+11620; ; 2005; ; ; null; Machine Learning
+12954; ; 2022; ; ; null; Machine Learning
+11623; ; 2004; ; ; null; Machine Learning
+12951; ; 2022; ; ; null; Art
+11622; ; 2004; ; ; null; Algorithms
+12952; ; 2022; ; ; null; AI
+11636; ; 2003; ; ; null; Graphs
+12968; ; 2021; ; ; null; AI
+11635; ; 2003; ; ; null; Art
+12969; ; 2021; ; ; null; Machine Learning
+11638; ; 2002; ; ; null; AI
+12966; ; 2022; ; ; null; Art
+11637; ; 2003; ; ; null; Art
+12967; ; 2021; ; ; null; Algorithms
+11639; ; 2009; ; ; null; Machine Learning
+12960; ; 2022; ; ; null; Algorithms
+12961; ; 2022; ; ; null; Art
+11630; ; 2004; ; ; null; Graphs
+11632; ; 2003; ; ; null; Art
+12964; ; 2021; ; ; null; Art
+11631; ; 2004; ; ; null; Machine Learning
+12965; ; 2021; ; ; null; Graphs
+11634; ; 2003; ; ; null; Art
+12962; ; 2021; ; ; null; Graphs
+11633; ; 2003; ; ; null; Machine Learning
+12963; ; 2021; ; ; null; Graphs
+11603; ; 2009; ; ; null; Art
+12935; ; 2022; ; ; null; Art
+11602; ; 2009; ; ; null; AI
+12936; ; 2022; ; ; null; Art
+11605; ; 2008; ; ; null; Art
+12933; ; 2022; ; ; null; Algorithms
+11604; ; 2008; ; ; null; Algorithms
+12934; ; 2022; ; ; null; Art
+11607; ; 2007; ; ; null; Graphs
+12939; ; 2022; ; ; null; AI
+11606; ; 2008; ; ; null; Machine Learning
+11609; ; 2007; ; ; null; AI
+12937; ; 2022; ; ; null; Graphs
+11608; ; 2007; ; ; null; Machine Learning
+12938; ; 2022; ; ; null; AI
+12931; ; 2023; ; ; null; Algorithms
+12932; ; 2022; ; ; null; Art
+11601; ; 2009; ; ; null; Art
+11600; ; 2009; ; ; null; Machine Learning
+12930; ; 2023; ; ; null; Machine Learning
+11614; ; 2007; ; ; null; Art
+12946; ; 2022; ; ; null; AI
+11613; ; 2007; ; ; null; Machine Learning
+12947; ; 2022; ; ; null; AI
+11616; ; 2007; ; ; null; Art
+12944; ; 2022; ; ; null; Art
+11615; ; 2007; ; ; null; Graphs
+12945; ; 2022; ; ; null; Machine Learning
+11618; ; 2006; ; ; null; AI
+11617; ; 2006; ; ; null; Machine Learning
+12948; ; 2022; ; ; null; Art
+11619; ; 2006; ; ; null; AI
+12949; ; 2022; ; ; null; Art
+11610; ; 2007; ; ; null; AI
+12942; ; 2022; ; ; null; Machine Learning
+12943; ; 2022; ; ; null; Art
+11612; ; 2007; ; ; null; Machine Learning
+12940; ; 2022; ; ; null; Algorithms
+11611; ; 2007; ; ; null; Graphs
+12941; ; 2022; ; ; null; Machine Learning
+12908; ; 2022; ; ; null; Art
+12909; ; 2022; ; ; null; Algorithms
+12913; ; 2023; ; ; null; Graphs
+12914; ; 2022; ; ; null; Graphs
+12911; ; 2022; ; ; null; Machine Learning
+12912; ; 2022; ; ; null; Machine Learning
+12917; ; 2021; ; ; null; AI
+12918; ; 2021; ; ; null; Machine Learning
+12915; ; 2021; ; ; null; Art
+12916; ; 2021; ; ; null; Art
+12910; ; 2022; ; ; null; Art
+12919; ; 2022; ; ; null; AI
+12924; ; 2022; ; ; null; AI
+12925; ; 2021; ; ; null; Machine Learning
+12922; ; 2021; ; ; null; AI
+12923; ; 2022; ; ; null; Graphs
+12928; ; 2023; ; ; null; Machine Learning
+12929; ; 2023; ; ; null; Graphs
+12926; ; 2021; ; ; null; Art
+12927; ; 2021; ; ; null; AI
+12920; ; 2022; ; ; null; Art
+12921; ; 2022; ; ; null; Machine Learning
+12902; ; 2021; ; ; null; Machine Learning
+12903; ; 2020; ; ; null; Graphs
+12900; ; 2021; ; ; null; Algorithms
+12901; ; 2018; ; ; null; Art
+12906; ; 2023; ; ; null; Graphs
+12907; ; 2023; ; ; null; Algorithms
+12904; ; 2020; ; ; null; Machine Learning
+12905; ; 2020; ; ; null; Machine Learning
+11681; ; 2022; ; ; null; Art
+11680; ; 2017; ; ; null; AI
+11683; ; 2020; ; ; null; AI
+11682; ; 2021; ; ; null; Graphs
+11685; ; 2020; ; ; null; AI
+11684; ; 2020; ; ; null; Graphs
+11687; ; 2020; ; ; null; Art
+11686; ; 2020; ; ; null; Algorithms
+11689; ; 2019; ; ; null; Algorithms
+11688; ; 2019; ; ; null; Algorithms
+11690; ; 2019; ; ; null; Graphs
+11692; ; 2018; ; ; null; Algorithms
+11691; ; 2018; ; ; null; Machine Learning
+11694; ; 2018; ; ; null; Machine Learning
+11693; ; 2018; ; ; null; Algorithms
+11696; ; 2018; ; ; null; Algorithms
+11695; ; 2018; ; ; null; Art
+11698; ; 2017; ; ; null; Algorithms
+11697; ; 2018; ; ; null; Graphs
+11699; ; 2017; ; ; null; Machine Learning
+12990; ; 2021; ; ; null; Machine Learning
+11669; ; 1999; ; ; null; Machine Learning
+11668; ; 1977; ; ; null; Algorithms
+12999; ; 2021; ; ; null; AI
+11661; ; 2011; ; ; null; Machine Learning
+12993; ; 2021; ; ; null; Machine Learning
+11660; ; 2008; ; ; null; Machine Learning
+12994; ; 2021; ; ; null; Algorithms
+11663; ; 2018; ; ; null; Art
+12991; ; 2021; ; ; null; AI
+11662; ; 2022; ; ; null; Art
+12992; ; 2021; ; ; null; AI
+11665; ; 1984; ; ; null; Art
+12997; ; 2021; ; ; null; Algorithms
+11664; ; 2012; ; ; null; AI
+12998; ; 2021; ; ; null; Algorithms
+11667; ; 1991; ; ; null; Graphs
+12995; ; 2021; ; ; null; Algorithms
+11666; ; 1987; ; ; null; Art
+12996; ; 2021; ; ; null; Machine Learning
+11670; ; 2006; ; ; null; Art
+11679; ; 2019; ; ; null; Art
+11672; ; 2004; ; ; null; Algorithms
+11671; ; 2005; ; ; null; Art
+11674; ; 2000; ; ; null; Graphs
+11673; ; 2004; ; ; null; Art
+11676; ; 2016; ; ; null; Art
+11675; ; 2007; ; ; null; Machine Learning
+11678; ; 2020; ; ; null; Art
+11677; ; 2008; ; ; null; Graphs
+11647; ; 2005; ; ; null; Machine Learning
+12979; ; 2021; ; ; null; AI
+11646; ; 2011; ; ; null; Algorithms
+11649; ; 1974; ; ; null; Algorithms
+12977; ; 2021; ; ; null; Machine Learning
+11648; ; 1985; ; ; null; AI
+12978; ; 2021; ; ; null; Art
+12971; ; 2021; ; ; null; Algorithms
+12972; ; 2021; ; ; null; Algorithms
+11641; ; 1984; ; ; null; AI
+11640; ; 1999; ; ; null; Algorithms
+12970; ; 2021; ; ; null; AI
+11643; ; 1973; ; ; null; Art
+12975; ; 2021; ; ; null; Machine Learning
+11642; ; 1980; ; ; null; Graphs
+12976; ; 2021; ; ; null; Graphs
+11645; ; 2013; ; ; null; Art
+12973; ; 2021; ; ; null; Algorithms
+11644; ; 2018; ; ; null; AI
+12974; ; 2021; ; ; null; Art
+11658; ; 2014; ; ; null; Algorithms
+11657; ; 2021; ; ; null; Art
+12988; ; 2021; ; ; null; AI
+11659; ; 1998; ; ; null; Graphs
+12989; ; 2021; ; ; null; Art
+11650; ; 1973; ; ; null; Graphs
+12982; ; 2021; ; ; null; Graphs
+12983; ; 2021; ; ; null; AI
+11652; ; 1970; ; ; null; Graphs
+12980; ; 2021; ; ; null; AI
+11651; ; 1970; ; ; null; Algorithms
+12981; ; 2021; ; ; null; Machine Learning
+11654; ; 2017; ; ; null; Graphs
+12986; ; 2021; ; ; null; AI
+11653; ; 1969; ; ; null; Algorithms
+12987; ; 2021; ; ; null; Art
+11656; ; 2022; ; ; null; Art
+12984; ; 2021; ; ; null; Art
+11655; ; 2019; ; ; null; Algorithms
+12985; ; 2021; ; ; null; Machine Learning
+12031; ; 2022; ; ; null; Art
+12030; ; 1996; ; ; null; Algorithms
+12033; ; 2017; ; ; null; Graphs
+12032; ; 2017; ; ; null; Graphs
+12035; ; 2014; ; ; null; Algorithms
+12034; ; 2014; ; ; null; Graphs
+12037; ; 2005; ; ; null; AI
+12036; ; 2007; ; ; null; Art
+12039; ; 2003; ; ; null; AI
+12038; ; 2004; ; ; null; Graphs
+12040; ; 2002; ; ; null; Algorithms
+12042; ; 1998; ; ; null; Machine Learning
+12041; ; 1999; ; ; null; Art
+12044; ; 1995; ; ; null; AI
+12043; ; 1998; ; ; null; AI
+12046; ; 1994; ; ; null; Graphs
+12045; ; 1994; ; ; null; Algorithms
+12048; ; 1992; ; ; null; Machine Learning
+12047; ; 1993; ; ; null; Graphs
+12049; ; 1992; ; ; null; Art
+12011; ; 2002; ; ; null; Algorithms
+12010; ; 2003; ; ; null; Art
+12013; ; 2001; ; ; null; Machine Learning
+12012; ; 2009; ; ; null; Art
+12015; ; 2009; ; ; null; Graphs
+12014; ; 2001; ; ; null; AI
+12017; ; 1997; ; ; null; Art
+12016; ; 1999; ; ; null; Graphs
+12019; ; 2017; ; ; null; Machine Learning
+12018; ; 2021; ; ; null; Algorithms
+12020; ; 2012; ; ; null; Art
+12022; ; 2010; ; ; null; Algorithms
+12021; ; 2011; ; ; null; Art
+12024; ; 2004; ; ; null; Algorithms
+12023; ; 2004; ; ; null; Machine Learning
+12026; ; 2003; ; ; null; Graphs
+12025; ; 2003; ; ; null; Art
+12028; ; 1997; ; ; null; AI
+12027; ; 1999; ; ; null; Graphs
+12029; ; 1996; ; ; null; Algorithms
+12000; ; 2003; ; ; null; Algorithms
+12009; ; 2006; ; ; null; Art
+12002; ; 2000; ; ; null; Art
+12001; ; 2003; ; ; null; Graphs
+12004; ; 1995; ; ; null; Graphs
+12003; ; 1996; ; ; null; Art
+12006; ; 2011; ; ; null; Machine Learning
+12005; ; 2015; ; ; null; Art
+12008; ; 2007; ; ; null; AI
+12007; ; 2007; ; ; null; Art
+12093; ; 2019; ; ; null; Algorithms
+12092; ; 2019; ; ; null; Art
+12095; ; 2018; ; ; null; AI
+12094; ; 2018; ; ; null; AI
+12097; ; 2017; ; ; null; Machine Learning
+12096; ; 2017; ; ; null; Machine Learning
+12099; ; 2016; ; ; null; Machine Learning
+12098; ; 2017; ; ; null; Machine Learning
+12091; ; 2021; ; ; null; Algorithms
+12090; ; 2021; ; ; null; AI
+12071; ; 2008; ; ; null; Algorithms
+12070; ; 2011; ; ; null; Machine Learning
+12073; ; 2005; ; ; null; Art
+12072; ; 2006; ; ; null; Machine Learning
+12075; ; 2022; ; ; null; Machine Learning
+12074; ; 2023; ; ; null; Art
+12077; ; 2021; ; ; null; Art
+12076; ; 2022; ; ; null; Machine Learning
+12079; ; 2021; ; ; null; Machine Learning
+12078; ; 2021; ; ; null; Machine Learning
+12082; ; 2019; ; ; null; Machine Learning
+12081; ; 2019; ; ; null; Art
+12084; ; 2018; ; ; null; Algorithms
+12083; ; 2019; ; ; null; Machine Learning
+12086; ; 2022; ; ; null; Algorithms
+12085; ; 2017; ; ; null; Graphs
+12088; ; 2022; ; ; null; Graphs
+12087; ; 2022; ; ; null; AI
+12080; ; 2019; ; ; null; Art
+12089; ; 2021; ; ; null; Machine Learning
+12051; ; 1988; ; ; null; Graphs
+12050; ; 1991; ; ; null; Art
+12053; ; 1989; ; ; null; Machine Learning
+12052; ; 1990; ; ; null; Algorithms
+12055; ; 2012; ; ; null; Algorithms
+12054; ; 2018; ; ; null; Graphs
+12057; ; 2011; ; ; null; Machine Learning
+12056; ; 2011; ; ; null; Art
+12059; ; 2001; ; ; null; Art
+12058; ; 2009; ; ; null; Algorithms
+12060; ; 2001; ; ; null; Art
+12062; ; 1997; ; ; null; Graphs
+12061; ; 2009; ; ; null; Machine Learning
+12064; ; 1988; ; ; null; Graphs
+12063; ; 1996; ; ; null; AI
+12066; ; 1986; ; ; null; Machine Learning
+12065; ; 1988; ; ; null; Machine Learning
+12068; ; 2015; ; ; null; AI
+12067; ; 1988; ; ; null; Machine Learning
+12069; ; 2012; ; ; null; Machine Learning
+11746; ; 1991; ; ; null; Machine Learning
+11745; ; 1992; ; ; null; AI
+11748; ; 2014; ; ; null; Algorithms
+11747; ; 2021; ; ; null; Machine Learning
+11749; ; 2010; ; ; null; AI
+11740; ; 2018; ; ; null; AI
+11742; ; 1989; ; ; null; Graphs
+11741; ; 2019; ; ; null; Algorithms
+11744; ; 2017; ; ; null; Graphs
+11743; ; 1988; ; ; null; Graphs
+11757; ; 2003; ; ; null; Art
+11756; ; 1999; ; ; null; Graphs
+11759; ; 2000; ; ; null; Art
+11758; ; 2000; ; ; null; Algorithms
+12609; ; 1996; ; ; null; Graphs
+11751; ; 2009; ; ; null; Machine Learning
+11750; ; 2010; ; ; null; AI
+11753; ; 2007; ; ; null; AI
+11752; ; 2008; ; ; null; Graphs
+11755; ; 2005; ; ; null; Art
+11754; ; 2007; ; ; null; Algorithms
+11724; ; 2011; ; ; null; Machine Learning
+11723; ; 2012; ; ; null; AI
+11726; ; 2011; ; ; null; AI
+11725; ; 2011; ; ; null; AI
+11728; ; 2011; ; ; null; AI
+11727; ; 2011; ; ; null; AI
+11729; ; 2010; ; ; null; Graphs
+11720; ; 2013; ; ; null; Art
+11722; ; 2012; ; ; null; Art
+11721; ; 2013; ; ; null; Graphs
+11735; ; 2020; ; ; null; AI
+11734; ; 2016; ; ; null; Algorithms
+11737; ; 2017; ; ; null; Machine Learning
+11736; ; 2017; ; ; null; Machine Learning
+11739; ; 2019; ; ; null; Machine Learning
+11738; ; 2022; ; ; null; Art
+11731; ; 2009; ; ; null; Art
+11730; ; 2009; ; ; null; Machine Learning
+11733; ; 2011; ; ; null; Algorithms
+11732; ; 2015; ; ; null; Art
+11702; ; 2016; ; ; null; AI
+11701; ; 2016; ; ; null; Machine Learning
+11704; ; 2016; ; ; null; Machine Learning
+11703; ; 2016; ; ; null; AI
+11706; ; 2016; ; ; null; AI
+11705; ; 2014; ; ; null; Graphs
+11708; ; 2015; ; ; null; AI
+11707; ; 2015; ; ; null; AI
+11700; ; 2017; ; ; null; Graphs
+11709; ; 2015; ; ; null; Graphs
+11713; ; 2014; ; ; null; Art
+11712; ; 2014; ; ; null; Art
+11715; ; 2014; ; ; null; Graphs
+11714; ; 2014; ; ; null; Machine Learning
+11717; ; 2013; ; ; null; Machine Learning
+11716; ; 2014; ; ; null; AI
+11719; ; 2013; ; ; null; Graphs
+11718; ; 2013; ; ; null; Graphs
+11711; ; 2015; ; ; null; Art
+11710; ; 2015; ; ; null; Graphs
+12670; ; 2011; ; ; null; Machine Learning
+12671; ; 2017; ; ; null; Graphs
+11340; ; 2022; ; ; null; Art
+11349; ; 2021; ; ; null; Art
+11342; ; 2022; ; ; null; Graphs
+12674; ; 2013; ; ; null; Machine Learning
+11341; ; 2022; ; ; null; Graphs
+12675; ; 2021; ; ; null; Machine Learning
+11344; ; 2022; ; ; null; Algorithms
+12672; ; 2017; ; ; null; Machine Learning
+11343; ; 2022; ; ; null; Algorithms
+12673; ; 2013; ; ; null; Algorithms
+11346; ; 2021; ; ; null; Art
+12678; ; 2008; ; ; null; Algorithms
+11345; ; 2022; ; ; null; Art
+12679; ; 2021; ; ; null; Art
+11348; ; 2021; ; ; null; Graphs
+12676; ; 2012; ; ; null; Art
+11347; ; 2021; ; ; null; Algorithms
+12677; ; 2009; ; ; null; Algorithms
+12681; ; 2020; ; ; null; Algorithms
+12682; ; 2020; ; ; null; Graphs
+11351; ; 2021; ; ; null; Art
+11350; ; 2021; ; ; null; AI
+12680; ; 2021; ; ; null; Algorithms
+12207; ; 2021; ; ; null; Algorithms
+11353; ; 2021; ; ; null; Art
+12200; ; 2023; ; ; null; Art
+12685; ; 2018; ; ; null; AI
+11352; ; 2021; ; ; null; Machine Learning
+12686; ; 2018; ; ; null; Graphs
+11355; ; 2020; ; ; null; Art
+12202; ; 2022; ; ; null; Graphs
+12683; ; 2020; ; ; null; Machine Learning
+11354; ; 2021; ; ; null; AI
+12201; ; 2022; ; ; null; Graphs
+12684; ; 2019; ; ; null; Art
+11357; ; 2020; ; ; null; Art
+12204; ; 2022; ; ; null; Graphs
+12689; ; 2017; ; ; null; AI
+11356; ; 2020; ; ; null; Art
+12203; ; 2021; ; ; null; AI
+11359; ; 2020; ; ; null; AI
+12206; ; 2021; ; ; null; AI
+12687; ; 2018; ; ; null; Graphs
+11358; ; 2020; ; ; null; Machine Learning
+12205; ; 2021; ; ; null; AI
+12688; ; 2017; ; ; null; Algorithms
+11328; ; 2022; ; ; null; Algorithms
+11327; ; 2016; ; ; null; Art
+12658; ; 2015; ; ; null; Art
+11329; ; 2022; ; ; null; Algorithms
+12659; ; 2014; ; ; null; AI
+12652; ; 2018; ; ; null; Machine Learning
+12653; ; 2016; ; ; null; Graphs
+12650; ; 2021; ; ; null; Algorithms
+12651; ; 2019; ; ; null; Algorithms
+11324; ; 2020; ; ; null; Algorithms
+12656; ; 2015; ; ; null; Art
+11323; ; 2014; ; ; null; Art
+12657; ; 2015; ; ; null; AI
+11326; ; 2018; ; ; null; Art
+12654; ; 2016; ; ; null; AI
+11325; ; 2020; ; ; null; Graphs
+12655; ; 2015; ; ; null; Algorithms
+12660; ; 2014; ; ; null; Graphs
+11339; ; 2022; ; ; null; Art
+11338; ; 2023; ; ; null; Art
+12669; ; 2011; ; ; null; Graphs
+11331; ; 2021; ; ; null; Machine Learning
+12663; ; 2014; ; ; null; Art
+11330; ; 2022; ; ; null; Algorithms
+12664; ; 2014; ; ; null; Machine Learning
+11333; ; 2021; ; ; null; Art
+12661; ; 2014; ; ; null; Graphs
+11332; ; 2021; ; ; null; Algorithms
+12662; ; 2014; ; ; null; Graphs
+11335; ; 2020; ; ; null; Graphs
+12667; ; 2012; ; ; null; Machine Learning
+11334; ; 2021; ; ; null; Algorithms
+12668; ; 2012; ; ; null; Graphs
+11337; ; 2020; ; ; null; Machine Learning
+12665; ; 2013; ; ; null; Machine Learning
+11336; ; 2020; ; ; null; Algorithms
+12666; ; 2013; ; ; null; Art
+11780; ; 2001; ; ; null; Graphs
+12638; ; 2018; ; ; null; Art
+11789; ; 2022; ; ; null; AI
+12639; ; 2011; ; ; null; AI
+12636; ; 2022; ; ; null; Machine Learning
+12637; ; 2019; ; ; null; Graphs
+11782; ; 1999; ; ; null; Graphs
+12630; ; 2004; ; ; null; AI
+11781; ; 2001; ; ; null; Art
+12631; ; 2000; ; ; null; Art
+11784; ; 1996; ; ; null; Graphs
+11783; ; 1998; ; ; null; Machine Learning
+11786; ; 1994; ; ; null; Machine Learning
+12634; ; 1993; ; ; null; AI
+11785; ; 1995; ; ; null; Art
+12635; ; 2003; ; ; null; Machine Learning
+11788; ; 2022; ; ; null; Algorithms
+12632; ; 1998; ; ; null; Algorithms
+11787; ; 2019; ; ; null; Algorithms
+12633; ; 1995; ; ; null; Algorithms
+11791; ; 2020; ; ; null; Algorithms
+11790; ; 2021; ; ; null; Machine Learning
+12649; ; 2021; ; ; null; Graphs
+12647; ; 2020; ; ; null; Machine Learning
+12648; ; 2020; ; ; null; AI
+11793; ; 2020; ; ; null; Art
+12641; ; 2007; ; ; null; Machine Learning
+11792; ; 2020; ; ; null; Art
+12642; ; 2007; ; ; null; AI
+11795; ; 2023; ; ; null; Machine Learning
+11794; ; 2018; ; ; null; Art
+12640; ; 2008; ; ; null; Algorithms
+11797; ; 2023; ; ; null; Art
+12645; ; 2020; ; ; null; AI
+11796; ; 2022; ; ; null; Machine Learning
+12646; ; 2020; ; ; null; Machine Learning
+11799; ; 2022; ; ; null; Algorithms
+12643; ; 2005; ; ; null; Machine Learning
+11798; ; 2023; ; ; null; Graphs
+12644; ; 2022; ; ; null; Machine Learning
+11768; ; 1995; ; ; null; Graphs
+12616; ; 1994; ; ; null; AI
+11767; ; 1996; ; ; null; Art
+12617; ; 1994; ; ; null; Machine Learning
+12614; ; 1995; ; ; null; Machine Learning
+11769; ; 1995; ; ; null; Algorithms
+12615; ; 1995; ; ; null; Graphs
+12618; ; 1994; ; ; null; Algorithms
+12619; ; 1993; ; ; null; Machine Learning
+11760; ; 1999; ; ; null; Machine Learning
+11762; ; 1998; ; ; null; Graphs
+11761; ; 1999; ; ; null; Machine Learning
+11764; ; 1997; ; ; null; Graphs
+12612; ; 1995; ; ; null; Algorithms
+11763; ; 1997; ; ; null; Graphs
+12613; ; 1995; ; ; null; Art
+11766; ; 1997; ; ; null; AI
+12610; ; 1996; ; ; null; Algorithms
+11765; ; 1997; ; ; null; Graphs
+12611; ; 1996; ; ; null; Machine Learning
+11779; ; 2002; ; ; null; Graphs
+12627; ; 2008; ; ; null; Graphs
+11778; ; 2015; ; ; null; Graphs
+12628; ; 2006; ; ; null; Art
+12625; ; 2009; ; ; null; Graphs
+12626; ; 2008; ; ; null; Machine Learning
+12629; ; 2005; ; ; null; Machine Learning
+11771; ; 1994; ; ; null; Machine Learning
+11770; ; 1994; ; ; null; Algorithms
+12620; ; 1993; ; ; null; Art
+11773; ; 1994; ; ; null; Algorithms
+11772; ; 1994; ; ; null; Art
+11775; ; 1991; ; ; null; Art
+12623; ; 2014; ; ; null; Algorithms
+11774; ; 1992; ; ; null; Algorithms
+12624; ; 2013; ; ; null; Graphs
+11777; ; 2018; ; ; null; Machine Learning
+12621; ; 1993; ; ; null; Graphs
+11776; ; 2019; ; ; null; Art
+12622; ; 1993; ; ; null; Machine Learning
+12150; ; 2017; ; ; null; Algorithms
+12152; ; 2016; ; ; null; Machine Learning
+13000; ; 2021; ; ; null; Machine Learning
+12151; ; 2017; ; ; null; AI
+13001; ; 2021; ; ; null; Graphs
+12154; ; 2015; ; ; null; Graphs
+12153; ; 2016; ; ; null; Machine Learning
+12156; ; 2013; ; ; null; Machine Learning
+13004; ; 2021; ; ; null; AI
+12155; ; 2015; ; ; null; Algorithms
+13005; ; 2021; ; ; null; AI
+12158; ; 2012; ; ; null; Algorithms
+13002; ; 2021; ; ; null; Algorithms
+12157; ; 2013; ; ; null; Art
+13003; ; 2021; ; ; null; Art
+13008; ; 2021; ; ; null; Art
+12159; ; 2012; ; ; null; Art
+13009; ; 2021; ; ; null; Algorithms
+13006; ; 2021; ; ; null; Algorithms
+13007; ; 2021; ; ; null; AI
+12161; ; 2011; ; ; null; AI
+12160; ; 2011; ; ; null; AI
+12163; ; 2010; ; ; null; Graphs
+13011; ; 2021; ; ; null; Graphs
+12162; ; 2011; ; ; null; Machine Learning
+13012; ; 2021; ; ; null; Art
+12165; ; 2009; ; ; null; AI
+12164; ; 2010; ; ; null; Art
+13010; ; 2021; ; ; null; Machine Learning
+12167; ; 2008; ; ; null; Machine Learning
+13015; ; 2021; ; ; null; Graphs
+12166; ; 2009; ; ; null; Machine Learning
+13016; ; 2021; ; ; null; Graphs
+12169; ; 2008; ; ; null; Art
+13013; ; 2021; ; ; null; Graphs
+12168; ; 2008; ; ; null; Art
+13014; ; 2021; ; ; null; Algorithms
+13019; ; 2021; ; ; null; Art
+13017; ; 2021; ; ; null; AI
+13018; ; 2021; ; ; null; Machine Learning
+12130; ; 2017; ; ; null; Art
+12132; ; 2015; ; ; null; Art
+12131; ; 2017; ; ; null; Machine Learning
+12134; ; 2012; ; ; null; Machine Learning
+12133; ; 2013; ; ; null; Algorithms
+12136; ; 2014; ; ; null; Machine Learning
+12135; ; 2009; ; ; null; Art
+12138; ; 2022; ; ; null; Graphs
+12137; ; 2022; ; ; null; Art
+12139; ; 2022; ; ; null; Art
+12141; ; 2020; ; ; null; Machine Learning
+12140; ; 2021; ; ; null; Graphs
+12143; ; 2019; ; ; null; AI
+12142; ; 2020; ; ; null; Machine Learning
+12145; ; 2019; ; ; null; Algorithms
+12144; ; 2019; ; ; null; AI
+12147; ; 2018; ; ; null; Algorithms
+12146; ; 2019; ; ; null; AI
+12149; ; 2018; ; ; null; Machine Learning
+12148; ; 2018; ; ; null; Art
+12110; ; 2022; ; ; null; Machine Learning
+12119; ; 2014; ; ; null; AI
+12112; ; 2021; ; ; null; Machine Learning
+12111; ; 2021; ; ; null; Algorithms
+12114; ; 2019; ; ; null; Art
+12113; ; 2020; ; ; null; Algorithms
+12116; ; 2018; ; ; null; Machine Learning
+12115; ; 2018; ; ; null; Algorithms
+12118; ; 2014; ; ; null; Graphs
+12117; ; 2017; ; ; null; Machine Learning
+12121; ; 2013; ; ; null; Algorithms
+12120; ; 2014; ; ; null; Graphs
+12123; ; 2011; ; ; null; Graphs
+12122; ; 2012; ; ; null; Algorithms
+12125; ; 2021; ; ; null; Graphs
+12124; ; 2021; ; ; null; Art
+12127; ; 2020; ; ; null; Art
+12126; ; 2021; ; ; null; Art
+12129; ; 2019; ; ; null; AI
+12128; ; 2020; ; ; null; Machine Learning
+12109; ; 2023; ; ; null; Graphs
+12108; ; 2013; ; ; null; Machine Learning
+12101; ; 2016; ; ; null; Graphs
+12100; ; 2016; ; ; null; AI
+12103; ; 2015; ; ; null; Algorithms
+12102; ; 2016; ; ; null; Algorithms
+12105; ; 2015; ; ; null; Art
+12104; ; 2015; ; ; null; Art
+12107; ; 2013; ; ; null; Machine Learning
+12106; ; 2015; ; ; null; Algorithms
+13084; ; 2020; ; ; null; Machine Learning
+13085; ; 2020; ; ; null; Art
+13082; ; 2020; ; ; null; Graphs
+13083; ; 2020; ; ; null; Algorithms
+13088; ; 1994; ; ; null; Graphs
+13089; ; 2003; ; ; null; Art
+13086; ; 2020; ; ; null; Graphs
+13087; ; 2020; ; ; null; Machine Learning
+13080; ; 2020; ; ; null; Art
+13081; ; 2020; ; ; null; AI
+13095; ; 2018; ; ; null; AI
+13096; ; 2018; ; ; null; AI
+13093; ; 2019; ; ; null; Art
+13094; ; 2018; ; ; null; Machine Learning
+13099; ; 2016; ; ; null; Machine Learning
+13097; ; 2017; ; ; null; Algorithms
+13098; ; 2017; ; ; null; Machine Learning
+13091; ; 2022; ; ; null; Graphs
+13092; ; 2020; ; ; null; Art
+13090; ; 2000; ; ; null; Art
+13062; ; 2020; ; ; null; AI
+13063; ; 2020; ; ; null; AI
+13060; ; 2020; ; ; null; Graphs
+13061; ; 2020; ; ; null; Art
+13066; ; 2020; ; ; null; Algorithms
+13067; ; 2020; ; ; null; Algorithms
+13064; ; 2020; ; ; null; Graphs
+13065; ; 2020; ; ; null; Graphs
+13068; ; 2020; ; ; null; AI
+13069; ; 2020; ; ; null; Art
+13073; ; 2020; ; ; null; Machine Learning
+13074; ; 2020; ; ; null; Machine Learning
+13071; ; 2020; ; ; null; Algorithms
+13072; ; 2020; ; ; null; AI
+13077; ; 2020; ; ; null; Algorithms
+13078; ; 2020; ; ; null; AI
+13075; ; 2020; ; ; null; AI
+13076; ; 2020; ; ; null; Art
+13070; ; 2020; ; ; null; Machine Learning
+13079; ; 2020; ; ; null; Algorithms
+12192; ; 2003; ; ; null; Machine Learning
+13040; ; 2020; ; ; null; Machine Learning
+12191; ; 2001; ; ; null; Machine Learning
+13041; ; 2020; ; ; null; Algorithms
+12194; ; 2021; ; ; null; Machine Learning
+12193; ; 2019; ; ; null; AI
+12196; ; 2021; ; ; null; Machine Learning
+13044; ; 2021; ; ; null; Algorithms
+12195; ; 2021; ; ; null; Graphs
+13045; ; 2021; ; ; null; AI
+12198; ; 2020; ; ; null; Art
+13042; ; 2021; ; ; null; Art
+12197; ; 2020; ; ; null; AI
+13043; ; 2021; ; ; null; Machine Learning
+12190; ; 2001; ; ; null; Art
+13048; ; 2020; ; ; null; AI
+12199; ; 2019; ; ; null; Art
+13049; ; 2020; ; ; null; Art
+13046; ; 2021; ; ; null; Machine Learning
+13047; ; 2020; ; ; null; Algorithms
+13051; ; 2020; ; ; null; Art
+13052; ; 2020; ; ; null; Algorithms
+13050; ; 2020; ; ; null; AI
+13055; ; 2020; ; ; null; Graphs
+13056; ; 2020; ; ; null; Graphs
+13053; ; 2020; ; ; null; Graphs
+13054; ; 2020; ; ; null; Art
+13059; ; 2020; ; ; null; Machine Learning
+13057; ; 2020; ; ; null; Graphs
+13058; ; 2020; ; ; null; Algorithms
+12170; ; 2008; ; ; null; Algorithms
+12172; ; 2007; ; ; null; Machine Learning
+12171; ; 2007; ; ; null; Art
+12174; ; 1997; ; ; null; Art
+13022; ; 2021; ; ; null; Graphs
+12173; ; 2007; ; ; null; AI
+13023; ; 2021; ; ; null; Graphs
+12176; ; 1999; ; ; null; Graphs
+13020; ; 2021; ; ; null; Art
+12175; ; 2002; ; ; null; AI
+13021; ; 2021; ; ; null; Algorithms
+12178; ; 2013; ; ; null; Algorithms
+13026; ; 2021; ; ; null; Machine Learning
+12177; ; 2016; ; ; null; Graphs
+13027; ; 2021; ; ; null; AI
+13024; ; 2021; ; ; null; Algorithms
+12179; ; 2012; ; ; null; AI
+13025; ; 2021; ; ; null; AI
+13028; ; 2021; ; ; null; AI
+13029; ; 2021; ; ; null; Machine Learning
+12181; ; 2010; ; ; null; Graphs
+12180; ; 2012; ; ; null; AI
+13030; ; 2021; ; ; null; Graphs
+12183; ; 2003; ; ; null; Algorithms
+12182; ; 2005; ; ; null; Algorithms
+12185; ; 2002; ; ; null; Algorithms
+13033; ; 2021; ; ; null; Algorithms
+12184; ; 2002; ; ; null; AI
+13034; ; 2021; ; ; null; Machine Learning
+12187; ; 2002; ; ; null; Algorithms
+13031; ; 2021; ; ; null; Art
+12186; ; 2002; ; ; null; AI
+13032; ; 2021; ; ; null; Art
+12189; ; 2001; ; ; null; Graphs
+13037; ; 2021; ; ; null; Algorithms
+12188; ; 2001; ; ; null; Art
+13038; ; 2021; ; ; null; Algorithms
+13035; ; 2021; ; ; null; AI
+13036; ; 2021; ; ; null; AI
+13039; ; 2021; ; ; null; Art
+11867; ; 2020; ; ; null; AI
+12715; ; 2016; ; ; null; AI
+11866; ; 2020; ; ; null; AI
+12716; ; 2004; ; ; null; Algorithms
+11869; ; 2020; ; ; null; Graphs
+12713; ; 2019; ; ; null; Algorithms
+11868; ; 2022; ; ; null; AI
+12714; ; 2017; ; ; null; Art
+12719; ; 2021; ; ; null; Algorithms
+12717; ; 2011; ; ; null; AI
+12718; ; 2021; ; ; null; Machine Learning
+11861; ; 2022; ; ; null; AI
+11860; ; 2022; ; ; null; Art
+11863; ; 2021; ; ; null; AI
+12711; ; 2016; ; ; null; Art
+11862; ; 2021; ; ; null; Machine Learning
+12712; ; 2016; ; ; null; Graphs
+11865; ; 2021; ; ; null; Machine Learning
+11864; ; 2021; ; ; null; Machine Learning
+12710; ; 2016; ; ; null; Art
+11878; ; 2020; ; ; null; Machine Learning
+12726; ; 2018; ; ; null; AI
+11877; ; 2021; ; ; null; AI
+12727; ; 2022; ; ; null; Machine Learning
+12724; ; 2013; ; ; null; Graphs
+11879; ; 2022; ; ; null; AI
+12725; ; 2013; ; ; null; AI
+12728; ; 2022; ; ; null; AI
+12729; ; 2020; ; ; null; AI
+11870; ; 2020; ; ; null; Machine Learning
+11872; ; 2022; ; ; null; Graphs
+11871; ; 2022; ; ; null; Art
+11874; ; 2022; ; ; null; Art
+12722; ; 2017; ; ; null; Algorithms
+11873; ; 2022; ; ; null; Machine Learning
+12723; ; 2015; ; ; null; Machine Learning
+11876; ; 2021; ; ; null; Algorithms
+12720; ; 2020; ; ; null; Machine Learning
+11875; ; 2021; ; ; null; Machine Learning
+12721; ; 2018; ; ; null; Machine Learning
+11845; ; 2021; ; ; null; Machine Learning
+11844; ; 2022; ; ; null; Art
+11847; ; 2021; ; ; null; Art
+11846; ; 2021; ; ; null; Graphs
+11849; ; 2020; ; ; null; AI
+11848; ; 2021; ; ; null; Graphs
+11841; ; 2022; ; ; null; Algorithms
+11840; ; 2022; ; ; null; AI
+11843; ; 2019; ; ; null; Graphs
+11842; ; 2017; ; ; null; Algorithms
+11856; ; 2018; ; ; null; Algorithms
+12704; ; 2012; ; ; null; Algorithms
+11855; ; 2019; ; ; null; Machine Learning
+12705; ; 2011; ; ; null; AI
+11858; ; 2022; ; ; null; Machine Learning
+12702; ; 2012; ; ; null; Graphs
+11857; ; 2017; ; ; null; Machine Learning
+12703; ; 2012; ; ; null; Machine Learning
+12708; ; 2010; ; ; null; Machine Learning
+11859; ; 2022; ; ; null; Algorithms
+12709; ; 2008; ; ; null; Art
+12706; ; 2010; ; ; null; Algorithms
+12707; ; 2010; ; ; null; Graphs
+11850; ; 2019; ; ; null; Machine Learning
+11852; ; 2021; ; ; null; Art
+12700; ; 2013; ; ; null; Art
+11851; ; 2018; ; ; null; Machine Learning
+12701; ; 2013; ; ; null; Machine Learning
+11854; ; 2020; ; ; null; Algorithms
+11853; ; 2020; ; ; null; Art
+11819; ; 2020; ; ; null; Art
+11823; ; 2020; ; ; null; Algorithms
+11822; ; 2020; ; ; null; Art
+11825; ; 2020; ; ; null; Art
+11824; ; 2020; ; ; null; Machine Learning
+11827; ; 2022; ; ; null; Graphs
+11826; ; 2020; ; ; null; Art
+11829; ; 2022; ; ; null; Art
+11828; ; 2022; ; ; null; AI
+11821; ; 2020; ; ; null; AI
+11820; ; 2020; ; ; null; Machine Learning
+11834; ; 2020; ; ; null; Machine Learning
+11833; ; 2020; ; ; null; Art
+11836; ; 2019; ; ; null; Machine Learning
+11835; ; 2020; ; ; null; Art
+11838; ; 2019; ; ; null; Art
+11837; ; 2018; ; ; null; Graphs
+11839; ; 2022; ; ; null; Graphs
+11830; ; 2022; ; ; null; Graphs
+11832; ; 2021; ; ; null; Algorithms
+11831; ; 2021; ; ; null; Machine Learning
+11801; ; 2022; ; ; null; AI
+11800; ; 2022; ; ; null; Machine Learning
+11803; ; 2022; ; ; null; Machine Learning
+11802; ; 2022; ; ; null; AI
+11805; ; 2022; ; ; null; Art
+11804; ; 2022; ; ; null; AI
+11807; ; 2022; ; ; null; Art
+11806; ; 2022; ; ; null; Art
+11809; ; 2021; ; ; null; Machine Learning
+11808; ; 2022; ; ; null; Art
+11812; ; 2021; ; ; null; Art
+11811; ; 2021; ; ; null; Algorithms
+11814; ; 2021; ; ; null; Algorithms
+11813; ; 2021; ; ; null; Art
+11816; ; 2020; ; ; null; Graphs
+11815; ; 2020; ; ; null; Graphs
+11818; ; 2020; ; ; null; Art
+11817; ; 2020; ; ; null; AI
+11810; ; 2021; ; ; null; Graphs
+12791; ; 2019; ; ; null; Art
+12792; ; 2017; ; ; null; Graphs
+11461; ; 2019; ; ; null; Art
+11460; ; 2019; ; ; null; Graphs
+12790; ; 2019; ; ; null; Art
+11463; ; 2018; ; ; null; Graphs
+12795; ; 2018; ; ; null; Graphs
+11462; ; 2019; ; ; null; Machine Learning
+12796; ; 2018; ; ; null; Art
+11465; ; 2022; ; ; null; Machine Learning
+12793; ; 2018; ; ; null; Machine Learning
+11464; ; 2017; ; ; null; Algorithms
+12794; ; 2018; ; ; null; AI
+11467; ; 2021; ; ; null; Algorithms
+12799; ; 2021; ; ; null; Algorithms
+11466; ; 2021; ; ; null; Graphs
+11469; ; 2021; ; ; null; Art
+12797; ; 2018; ; ; null; Machine Learning
+11468; ; 2021; ; ; null; Graphs
+12798; ; 2022; ; ; null; Machine Learning
+11470; ; 2021; ; ; null; AI
+11472; ; 2020; ; ; null; Art
+11471; ; 2020; ; ; null; AI
+11474; ; 2020; ; ; null; Machine Learning
+11473; ; 2020; ; ; null; Algorithms
+11476; ; 2021; ; ; null; Art
+11475; ; 2022; ; ; null; Machine Learning
+11478; ; 2020; ; ; null; AI
+11477; ; 2021; ; ; null; AI
+11479; ; 2020; ; ; null; Machine Learning
+12770; ; 2021; ; ; null; Algorithms
+11449; ; 2016; ; ; null; AI
+11448; ; 2017; ; ; null; Machine Learning
+12779; ; 2020; ; ; null; Algorithms
+11441; ; 2018; ; ; null; AI
+12773; ; 2021; ; ; null; Art
+11440; ; 2022; ; ; null; AI
+12774; ; 2021; ; ; null; Graphs
+11443; ; 2015; ; ; null; Graphs
+12771; ; 2021; ; ; null; Machine Learning
+11442; ; 2017; ; ; null; Art
+12772; ; 2021; ; ; null; Machine Learning
+11445; ; 2012; ; ; null; Graphs
+12777; ; 2021; ; ; null; Machine Learning
+11444; ; 2015; ; ; null; AI
+12778; ; 2021; ; ; null; Algorithms
+11447; ; 2018; ; ; null; Graphs
+12775; ; 2021; ; ; null; Machine Learning
+11446; ; 2011; ; ; null; AI
+12776; ; 2021; ; ; null; Algorithms
+12780; ; 2020; ; ; null; Art
+12781; ; 2020; ; ; null; Machine Learning
+11450; ; 2005; ; ; null; Art
+11459; ; 2022; ; ; null; Art
+11452; ; 2017; ; ; null; Algorithms
+12784; ; 2019; ; ; null; Machine Learning
+11451; ; 2016; ; ; null; AI
+12785; ; 2019; ; ; null; Algorithms
+11454; ; 2021; ; ; null; AI
+12782; ; 2020; ; ; null; AI
+11453; ; 2021; ; ; null; Graphs
+12783; ; 2020; ; ; null; AI
+11456; ; 2020; ; ; null; AI
+12788; ; 2019; ; ; null; Graphs
+11455; ; 2020; ; ; null; Algorithms
+12789; ; 2019; ; ; null; Art
+11458; ; 2023; ; ; null; Machine Learning
+12786; ; 2019; ; ; null; Graphs
+11457; ; 2016; ; ; null; AI
+12787; ; 2019; ; ; null; Art
+11427; ; 2022; ; ; null; Graphs
+12759; ; 2016; ; ; null; Art
+11426; ; 2022; ; ; null; Machine Learning
+11429; ; 2021; ; ; null; AI
+12757; ; 2020; ; ; null; AI
+11428; ; 2021; ; ; null; Graphs
+12758; ; 2018; ; ; null; Art
+12751; ; 2020; ; ; null; AI
+12752; ; 2022; ; ; null; Art
+11421; ; 2022; ; ; null; Art
+11420; ; 2022; ; ; null; AI
+12750; ; 2021; ; ; null; Machine Learning
+11423; ; 2022; ; ; null; Machine Learning
+12755; ; 2015; ; ; null; AI
+11422; ; 2022; ; ; null; Art
+12756; ; 2019; ; ; null; Algorithms
+11425; ; 2022; ; ; null; Machine Learning
+12753; ; 2017; ; ; null; Machine Learning
+11424; ; 2022; ; ; null; Graphs
+12754; ; 2015; ; ; null; Art
+11438; ; 2007; ; ; null; Graphs
+11437; ; 2021; ; ; null; Art
+12768; ; 2022; ; ; null; Machine Learning
+11439; ; 2010; ; ; null; Graphs
+12769; ; 2022; ; ; null; Machine Learning
+11430; ; 2022; ; ; null; AI
+12762; ; 2019; ; ; null; Art
+12763; ; 2014; ; ; null; Art
+11432; ; 2022; ; ; null; Machine Learning
+12760; ; 2020; ; ; null; Algorithms
+11431; ; 2022; ; ; null; Machine Learning
+12761; ; 2017; ; ; null; Graphs
+11434; ; 2022; ; ; null; AI
+12766; ; 2022; ; ; null; Machine Learning
+11433; ; 2022; ; ; null; Machine Learning
+12767; ; 2022; ; ; null; Machine Learning
+11436; ; 2022; ; ; null; Graphs
+12764; ; 2017; ; ; null; Art
+11435; ; 2022; ; ; null; Art
+12765; ; 2016; ; ; null; AI
+11405; ; 2022; ; ; null; Algorithms
+11889; ; 2018; ; ; null; AI
+12737; ; 2022; ; ; null; AI
+11404; ; 2021; ; ; null; AI
+11888; ; 2019; ; ; null; Art
+12738; ; 2023; ; ; null; Algorithms
+11407; ; 2014; ; ; null; Machine Learning
+12735; ; 2020; ; ; null; Algorithms
+11406; ; 2021; ; ; null; AI
+12736; ; 2023; ; ; null; Algorithms
+11409; ; 2020; ; ; null; Algorithms
+11408; ; 2020; ; ; null; Art
+12739; ; 2022; ; ; null; Algorithms
+11881; ; 2022; ; ; null; Graphs
+11880; ; 2020; ; ; null; AI
+12730; ; 2022; ; ; null; Machine Learning
+11883; ; 2018; ; ; null; Machine Learning
+11882; ; 2022; ; ; null; Machine Learning
+11401; ; 2017; ; ; null; AI
+11885; ; 2020; ; ; null; Machine Learning
+12733; ; 2022; ; ; null; Machine Learning
+11400; ; 2017; ; ; null; Art
+11884; ; 2020; ; ; null; Machine Learning
+12734; ; 2019; ; ; null; AI
+11403; ; 2020; ; ; null; Algorithms
+11887; ; 2019; ; ; null; Machine Learning
+12731; ; 2023; ; ; null; AI
+11402; ; 2017; ; ; null; AI
+11886; ; 2020; ; ; null; AI
+12732; ; 2022; ; ; null; Algorithms
+11890; ; 2018; ; ; null; AI
+11416; ; 2020; ; ; null; Machine Learning
+12748; ; 2021; ; ; null; Machine Learning
+11415; ; 2021; ; ; null; Art
+11899; ; 1977; ; ; null; Art
+12749; ; 2021; ; ; null; Art
+11418; ; 2020; ; ; null; Art
+12746; ; 2020; ; ; null; AI
+11417; ; 2020; ; ; null; AI
+12747; ; 2020; ; ; null; AI
+11419; ; 2023; ; ; null; Graphs
+11892; ; 1984; ; ; null; Graphs
+12740; ; 2022; ; ; null; Machine Learning
+11891; ; 2018; ; ; null; AI
+12741; ; 2022; ; ; null; Machine Learning
+11410; ; 2018; ; ; null; Machine Learning
+11894; ; 2005; ; ; null; AI
+11893; ; 1989; ; ; null; Algorithms
+11412; ; 2022; ; ; null; Machine Learning
+11896; ; 2019; ; ; null; Art
+12744; ; 2021; ; ; null; Machine Learning
+11411; ; 2018; ; ; null; Graphs
+11895; ; 1993; ; ; null; Algorithms
+12745; ; 2021; ; ; null; AI
+11414; ; 2022; ; ; null; Graphs
+11898; ; 2021; ; ; null; Machine Learning
+12742; ; 2021; ; ; null; Art
+11413; ; 2022; ; ; null; AI
+11897; ; 2019; ; ; null; Algorithms
+12743; ; 2021; ; ; null; Algorithms
+12271; ; 1996; ; ; null; Machine Learning
+12270; ; 1996; ; ; null; Art
+12273; ; 1995; ; ; null; AI
+13121; ; 2007; ; ; null; AI
+12272; ; 1996; ; ; null; Machine Learning
+13122; ; 2007; ; ; null; Art
+12275; ; 2002; ; ; null; Art
+12274; ; 1995; ; ; null; Algorithms
+13120; ; 2008; ; ; null; Machine Learning
+12277; ; 1997; ; ; null; Graphs
+13125; ; 2007; ; ; null; Graphs
+12276; ; 1998; ; ; null; AI
+13126; ; 2006; ; ; null; AI
+13123; ; 2007; ; ; null; Algorithms
+13124; ; 2007; ; ; null; Machine Learning
+13129; ; 2005; ; ; null; Machine Learning
+13127; ; 2006; ; ; null; Art
+13128; ; 2006; ; ; null; AI
+13132; ; 2005; ; ; null; AI
+13133; ; 2004; ; ; null; Machine Learning
+13130; ; 2005; ; ; null; Art
+13131; ; 2005; ; ; null; Algorithms
+13136; ; 2004; ; ; null; Graphs
+13137; ; 2004; ; ; null; Graphs
+13134; ; 2004; ; ; null; Graphs
+13135; ; 2004; ; ; null; AI
+13138; ; 2003; ; ; null; Machine Learning
+13139; ; 2003; ; ; null; AI
+12251; ; 2006; ; ; null; Algorithms
+12250; ; 2007; ; ; null; Algorithms
+13100; ; 2015; ; ; null; Algorithms
+12253; ; 2011; ; ; null; AI
+12252; ; 2015; ; ; null; AI
+13109; ; 2011; ; ; null; AI
+12255; ; 2008; ; ; null; Algorithms
+13103; ; 2013; ; ; null; Algorithms
+12254; ; 2010; ; ; null; Art
+13104; ; 2013; ; ; null; Graphs
+12257; ; 1999; ; ; null; Art
+13101; ; 2014; ; ; null; Graphs
+12256; ; 2007; ; ; null; Graphs
+13102; ; 2014; ; ; null; Art
+12259; ; 2003; ; ; null; AI
+13107; ; 2011; ; ; null; Machine Learning
+12258; ; 2004; ; ; null; Graphs
+13108; ; 2011; ; ; null; Algorithms
+13105; ; 2012; ; ; null; Graphs
+13106; ; 2012; ; ; null; AI
+12260; ; 2002; ; ; null; Art
+12262; ; 2001; ; ; null; Art
+13110; ; 2011; ; ; null; AI
+12261; ; 2001; ; ; null; Machine Learning
+13111; ; 2011; ; ; null; AI
+12264; ; 2000; ; ; null; Graphs
+12263; ; 2001; ; ; null; Graphs
+12266; ; 1999; ; ; null; Graphs
+13114; ; 2010; ; ; null; Machine Learning
+12265; ; 2000; ; ; null; AI
+13115; ; 2010; ; ; null; Algorithms
+12268; ; 1997; ; ; null; AI
+13112; ; 2011; ; ; null; Art
+12267; ; 1998; ; ; null; Machine Learning
+13113; ; 2010; ; ; null; Algorithms
+13118; ; 2009; ; ; null; Graphs
+12269; ; 1997; ; ; null; Graphs
+13119; ; 2008; ; ; null; Art
+13116; ; 2010; ; ; null; Graphs
+13117; ; 2010; ; ; null; Graphs
+11380; ; 2016; ; ; null; Graphs
+11382; ; 2022; ; ; null; Machine Learning
+11381; ; 2022; ; ; null; Art
+11384; ; 2021; ; ; null; Machine Learning
+11383; ; 2021; ; ; null; Graphs
+11386; ; 2020; ; ; null; Art
+11385; ; 2020; ; ; null; AI
+11388; ; 2019; ; ; null; Art
+11387; ; 2020; ; ; null; Art
+12237; ; 2014; ; ; null; AI
+11389; ; 2019; ; ; null; Algorithms
+12239; ; 2009; ; ; null; Graphs
+12238; ; 1990; ; ; null; Algorithms
+11391; ; 2019; ; ; null; AI
+11390; ; 2019; ; ; null; AI
+11393; ; 2018; ; ; null; AI
+12240; ; 2006; ; ; null; Graphs
+11392; ; 2019; ; ; null; Graphs
+11395; ; 2019; ; ; null; Machine Learning
+12242; ; 1992; ; ; null; AI
+11394; ; 2018; ; ; null; Graphs
+12241; ; 1993; ; ; null; Graphs
+11397; ; 2019; ; ; null; Algorithms
+12244; ; 1992; ; ; null; Art
+11396; ; 2019; ; ; null; Art
+12243; ; 1992; ; ; null; AI
+11399; ; 2018; ; ; null; Art
+12246; ; 2014; ; ; null; AI
+11398; ; 2018; ; ; null; Algorithms
+12245; ; 2012; ; ; null; AI
+12248; ; 2011; ; ; null; Machine Learning
+12247; ; 2014; ; ; null; AI
+12249; ; 2007; ; ; null; Graphs
+11360; ; 2020; ; ; null; AI
+12692; ; 2015; ; ; null; Algorithms
+12693; ; 2015; ; ; null; Algorithms
+11362; ; 2020; ; ; null; AI
+12690; ; 2016; ; ; null; Graphs
+11361; ; 2020; ; ; null; Algorithms
+12691; ; 2016; ; ; null; Algorithms
+11364; ; 2020; ; ; null; Algorithms
+12696; ; 2015; ; ; null; Art
+11363; ; 2020; ; ; null; Machine Learning
+12697; ; 2014; ; ; null; Algorithms
+11366; ; 2019; ; ; null; Algorithms
+12694; ; 2015; ; ; null; AI
+11365; ; 2019; ; ; null; Algorithms
+12695; ; 2015; ; ; null; Art
+11368; ; 2019; ; ; null; Art
+11367; ; 2019; ; ; null; Graphs
+12698; ; 2014; ; ; null; Graphs
+11369; ; 2019; ; ; null; Algorithms
+12699; ; 2014; ; ; null; Machine Learning
+11371; ; 2018; ; ; null; Graphs
+11370; ; 2018; ; ; null; Machine Learning
+11373; ; 2018; ; ; null; Algorithms
+11372; ; 2018; ; ; null; Algorithms
+11375; ; 2017; ; ; null; Machine Learning
+11374; ; 2018; ; ; null; Machine Learning
+11377; ; 2017; ; ; null; AI
+11376; ; 2017; ; ; null; Art
+11379; ; 2017; ; ; null; AI
+11378; ; 2015; ; ; null; Machine Learning
+13188; 2002 IFIP International Conference on e-Business, e-Services, and e-Society; 2002; Longdom; Jessica Graves, Earl Harris; Philadelphia; Machine Learning
+13189; 2006 International Conference on Advanced Learning Technologies; 2006; GavinPublishers; Margaret Wang, Jesse Burns; Amsterdam; Machine Learning
+13194; 2008 ICON; 2008; IOSPress; Jacob Williams, Mr. Michael Allison; Basel; AI
+13195; 2012 IEEE International Conference on Acoustics, Speech, and Signal Processing; 2012; OpenAccessJournals; Daryl Andrews, Kristen Reyes; Munich; Art
+13192; 2020 IEEE International Conference on High Voltage Engineering and Application; 2020; Frontiers; Andrew Duncan, Amy Hawkins; Bridgeport; Machine Learning
+13193; 2004 Parallel and Distributed Computing Systems (ISCA); 2004; UniversidadeFederaldoEspiritoSanto; Kayla Rivas, Bradley Sanchez; New York; Machine Learning
+13198; 2016 International Symposium on Telecommunications; 2016; SciTechnol; Patricia Jones, Lauren Moore; Nagoya; Algorithms
+13199; 2012 IEEE Conference on Decision and Control; 2012; UniversidadeFederaldoRioGrandedoSul; Katherine Schmidt, Bryan Dunn; Indianapoli; AI
+13196; 2014 IET Networks; 2014; Bentham; Natasha Macias, Jonathon Smith; Nagoya; Art
+13197; 2018 Italian National Conference on Sensors; 2018; JohnHopkinsUniversityPress; Jesse Herrera, Heidi Cummings; Cologne; Machine Learning
+13190; 2009 International Symposium on Information Engineering and Electronic Commerce; 2009; DeGruyter; Kevin Moore, Timothy Hester; Philadelphia; Art
+13191; 2013 Australasian Universities Power Engineering Conference; 2013; PeertechzPublications; Carrie Campbell, Jason Richards; San Jose; Machine Learning
+13140; ; 2003; ; ; null; Art
+13143; ; 2015; ; ; null; Algorithms
+13144; ; 2012; ; ; null; Machine Learning
+13141; ; 2019; ; ; null; Algorithms
+13142; ; 2018; ; ; null; Machine Learning
+13147; ; 2006; ; ; null; Graphs
+13148; ; 2005; ; ; null; AI
+13145; ; 2007; ; ; null; Graphs
+13146; ; 2006; ; ; null; Graphs
+13149; ; 2004; ; ; null; Art
+13150; ; 2004; ; ; null; Machine Learning
+13151; ; 2003; ; ; null; Art
+13152; ; 2003; ; ; null; AI
+13153; ; 2002; ; ; null; AI
