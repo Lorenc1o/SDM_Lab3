@@ -116,10 +116,84 @@
 #    Data properties
 #################################################################
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#periodicity
+:periodicity rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Conference ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DOI
+:DOI rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Publication ;
+     rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ISSN
+:ISSN rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Journal ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Name
+:Name rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Person ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/abstract
+:abstract rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Paper ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/affiliation
+:affiliation rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Author ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaDescription
+:areaDescription rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Area ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaName
+:areaName rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Area ;
+          rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/chairUntil
 :chairUntil rdf:type owl:DatatypeProperty ;
             rdfs:domain :Chair ;
             rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/citation
+:citation rdf:type owl:DatatypeProperty ;
+          rdfs:domain :FullPaper ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/date
+:date rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Workshop ;
+      rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/decision
+:decision rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Review ;
+          rdfs:range [ rdf:type rdfs:Datatype ;
+                       owl:oneOf [ rdf:type rdf:List ;
+                                   rdf:first "Accept" ;
+                                   rdf:rest [ rdf:type rdf:List ;
+                                              rdf:first "Reject" ;
+                                              rdf:rest rdf:nil
+                                            ]
+                                 ]
+                     ] .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/editorUntil
@@ -128,108 +202,9 @@
              rdfs:range xsd:dateTime .
 
 
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAbstract
-:hasAbstract rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Paper ;
-             rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAffiliation
-:hasAffiliation rdf:type owl:DatatypeProperty ;
-                rdfs:domain :Author ;
-                rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAreaDescription
-:hasAreaDescription rdf:type owl:DatatypeProperty ;
-                    rdfs:domain :Area ;
-                    rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAreaName
-:hasAreaName rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Area ;
-             rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasCitation
-:hasCitation rdf:type owl:DatatypeProperty ;
-             rdfs:domain :FullPaper ;
-             rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDOI
-:hasDOI rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Publication ;
-        rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDate
-:hasDate rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Workshop ;
-         rdfs:range xsd:dateTime .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasDecision
-:hasDecision rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Review ;
-             rdfs:range [ rdf:type rdfs:Datatype ;
-                          owl:oneOf [ rdf:type rdf:List ;
-                                      rdf:first "Accept" ;
-                                      rdf:rest [ rdf:type rdf:List ;
-                                                 rdf:first "Reject" ;
-                                                 rdf:rest rdf:nil
-                                               ]
-                                    ]
-                        ] .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasISSN
-:hasISSN rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Journal ;
-         rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasName
-:hasName rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Person ;
-         rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasPublicationDate
-:hasPublicationDate rdf:type owl:DatatypeProperty ;
-                    rdfs:domain :Publication ;
-                    rdfs:range xsd:dateTime .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasSpecialization
-:hasSpecialization rdf:type owl:DatatypeProperty ;
-                   rdfs:domain :Reviewer ;
-                   rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasTitle
-:hasTitle rdf:type owl:DatatypeProperty ;
-          rdfs:domain :Paper ,
-                      :Publication ;
-          rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasVenueDescription
-:hasVenueDescription rdf:type owl:DatatypeProperty ;
-                     rdfs:domain :Venue ;
-                     rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasVenueName
-:hasVenueName rdf:type owl:DatatypeProperty ;
-              rdfs:domain :Venue ;
-              rdfs:range xsd:string .
-
-
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/heldIn
 :heldIn rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Conference ;
+        rdfs:domain :Proceeding ;
         rdfs:range xsd:string .
 
 
@@ -274,6 +249,12 @@
                         ] .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publicationDate
+:publicationDate rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Publication ;
+                 rdfs:range xsd:dateTime .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose
 :purpose rdf:type owl:DatatypeProperty ;
          rdfs:domain :Poster ;
@@ -286,15 +267,40 @@
             rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/specialization
+:specialization rdf:type owl:DatatypeProperty ;
+                rdfs:domain :Reviewer ;
+                rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/subject
 :subject rdf:type owl:DatatypeProperty ;
          rdfs:domain :Symposium ;
          rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/title
+:title rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Paper ,
+                   :Publication ;
+       rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/urlToDemo
 :urlToDemo rdf:type owl:DatatypeProperty ;
            rdfs:domain :DemoPaper ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueDescription
+:venueDescription rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :Venue ;
+                  rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueName
+:venueName rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Venue ;
            rdfs:range xsd:string .
 
 
