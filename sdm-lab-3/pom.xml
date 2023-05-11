@@ -26,6 +26,14 @@
             <version>1.1.1</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.26</version>
+            <scope>provided</scope>
+        </dependency>
+
         <!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.jena/apache-jena-libs &ndash;&gt;-->
 <!--        <dependency>-->
 <!--            <groupId>org.apache.jena</groupId>-->

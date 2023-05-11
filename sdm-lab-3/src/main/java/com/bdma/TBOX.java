@@ -13,7 +13,7 @@ import org.apache.jena.rdf.model.ModelFactory;
 public class TBOX {
 
     private static final String BASE_URI = "http://www.bdma.com/#";
-    public static final String RESOURCES_TBOX_OWL = "./src/main/resources/tbox.owl";
+    public static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox2.owl";
 
     public static void main(String[] args) {
         createTBOX();
@@ -128,7 +128,7 @@ public class TBOX {
     private static void writeTBOX(OntModel model) {
         try {
             FileOutputStream writerStream = new FileOutputStream(RESOURCES_TBOX_OWL);
-            model.write(writerStream, "TTL");
+            model.write(writerStream, "RDF/XML");
             writerStream.close();
         } catch (IOException e) {
             e.printStackTrace();

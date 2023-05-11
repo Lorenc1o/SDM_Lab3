@@ -1,5 +1,14 @@
 package com.bdma;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class Publications {
 
     String id;
@@ -10,64 +19,8 @@ public class Publications {
     String city;
     String area;
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public String getYear() {
-        return year;
-    }
-
-    public void setYear(String year) {
-        this.year = year;
-    }
-
-    public String getPublisher() {
-        return publisher;
-    }
-
-    public void setPublisher(String publisher) {
-        this.publisher = publisher;
-    }
-
-    public String getChair() {
-        return chair;
-    }
-
-    public void setChair(String chair) {
-        this.chair = chair;
-    }
-
-    public String getCity() {
-        return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
-    }
-
-    public String getArea() {
-        return area;
-    }
-
-    public void setArea(String area) {
-        this.area = area;
-    }
-
     @Override
     public String toString(){
-        return id + "; " + title + "; " + year + "; " + publisher + "; " + chair + "; " + city + "; " + area;
+        return id + ";" + title + ";" + year + ";" + publisher + ";" + chair + ";" + city + ";" + area;
     }
 }

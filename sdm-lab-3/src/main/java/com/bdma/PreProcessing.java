@@ -10,7 +10,7 @@ import java.util.*;
 public class PreProcessing {
 
     static String[] paperTypes = {"FullPaper", "ShortPaper", "Poster", "DemoPaper"};
-    static String[] areas = {"Machine Learning", "Art", "AI", "Graphs", "Algorithms"};
+    static String[] areas = {"Machine Learning", "Art", "AI", "Graphs", "Algorithms", "Databases"};
     static String[] conferenceTypes = {"Symposium", "Workshop", "RegularConference"};
     static String[] periodicities = {"Weekly", "Monthly", "Yearly"};
 
@@ -52,7 +52,7 @@ public class PreProcessing {
                             Paper paper = new Paper();
                             paper.setId(id);
                             paper.setPaperAbstract(anAbstract.replaceAll("\n", ", "));
-                            paper.setPaperTitle(title.replaceAll("\n", ", "));
+                            paper.setPaperTitle(title.replaceAll("\n", ", ").replaceAll("\"",""));
                             paper.setPaperType(paperTypes[random.nextInt(4)]);
                             paper.setYear(year);
                             paper.setUrl(url);
@@ -63,7 +63,7 @@ public class PreProcessing {
                             Person person = new Person();
                             person.setDob(dob);
                             person.setId(id);
-                            person.setName(name);
+                            person.setName(name.replaceAll("\n", ", "));
                             personHashMap.put(id, person);
                             break;
                         case ":Journal": {
@@ -131,11 +131,11 @@ public class PreProcessing {
                             Paper paper = paperHashMap.get(_end);
                             Person person = personHashMap.get(_start);
                             if (paper.getReviewer_1() == null) {
-                                paper.setReviewer_1(person.getName());
+                                paper.setReviewer_1(person.getName().replaceAll("\n", ", "));
                                 paper.setReview_1(review.replaceAll("\n", ", "));
                                 paper.setDecisions_1(decision);
                             } else {
-                                paper.setReviewer_2(person.getName());
+                                paper.setReviewer_2(person.getName().replaceAll("\n", ", "));
                                 paper.setReview_2(review.replaceAll("\n", ", "));
                                 paper.setDecisions_2(decision);
                             }
@@ -191,26 +191,26 @@ public class PreProcessing {
             String eol = System.getProperty("line.separator");
 
             Writer papersWriter = new FileWriter("src/main/resources/cleaned_papers.csv");
-//            papersWriter.append("id; paperTitle; area; manager; author; publicationID; venue; venueType; conferenceType; managerType; conference; journal; reviewer_1; reviewer_2; editor; review_1; review_2; paperType; paperAbstract; decisions_1; decisions_2; year; url").append(eol);
-            papersWriter.append("id; paperTitle; area; authorID; corrAuthorID; publicationID; venueId; reviewer_1; reviewer_2; review_1; review_2; paperType; paperAbstract; decisions_1; decisions_2; year; url").append(eol);
+//            papersWriter.append("id;paperTitle;area;manager;author;publicationID;venue;venueType;conferenceType;managerType;conference;journal;reviewer_1;reviewer_2;editor;review_1;review_2;paperType;paperAbstract;decisions_1;decisions_2;year;url").append(eol);
+            papersWriter.append("id;paperTitle;area;authorID;corrAuthorID;publicationID;venueId;reviewer_1;reviewer_2;review_1;review_2;paperType;paperAbstract;decisions_1;decisions_2;year;url").append(eol);
             for (Map.Entry<String, Paper> entry : paperHashMap.entrySet())
                 papersWriter.append(entry.getValue().toString()).append(eol);
             papersWriter.close();
 
             Writer personsWriter = new FileWriter("src/main/resources/cleaned_persons.csv");
-            personsWriter.append("id; name; dob").append(eol);
+            personsWriter.append("id;name;dob").append(eol);
             for (Map.Entry<String, Person> entry : personHashMap.entrySet())
                 personsWriter.append(entry.getValue().toString()).append(eol);
             personsWriter.close();
 
             Writer venuesWriter = new FileWriter("src/main/resources/cleaned_venues.csv");
-            venuesWriter.append("id; area; publication; venueType; conferenceType; editor; url; name; chair ;issn ;periodicity").append(eol);
+            venuesWriter.append("id;area;publication;venueType;conferenceType;editor;url;name;chair;issn;periodicity").append(eol);
             for (Map.Entry<String, Venue> entry : venueHashMap.entrySet())
                 venuesWriter.append(entry.getValue().toString()).append(eol);
             venuesWriter.close();
 
             Writer publicationsWriter = new FileWriter("src/main/resources/cleaned_publications.csv");
-            publicationsWriter.append("id ; title ; year ; publisher ; chair ; city ; area").append(eol);
+            publicationsWriter.append("id;title;year;publisher;chair;city;area").append(eol);
             for (Map.Entry<String, Publications> entry : publicationHashMap.entrySet())
                 publicationsWriter.append(entry.getValue().toString()).append(eol);
             publicationsWriter.close();

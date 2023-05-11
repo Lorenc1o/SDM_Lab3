@@ -1,0 +1,679 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/"
+     xml:base="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedPaper -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedPaper">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAuthor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/hasAuthor">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Author"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedIn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInConference -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInConference">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedIn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Proceeding"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInJournal -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInJournal">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedIn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Volume"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isChairOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isChairOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isManagerOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Chair"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isEditorOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isEditorOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isManagerOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Editor"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isManagerOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isManagerOf">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publishedAs -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publishedAs">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/relatedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/relatedTo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/reviewWrittenBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/reviewWrittenBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Reviewer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedTo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToConference -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToConference">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedTo"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToJournal -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToJournal">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedTo"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DemoPaper"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/FullPaper"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ShortPaper"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DOI -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DOI">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ISSN -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ISSN">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/abstract -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/abstract">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/affiliation -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/affiliation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Author"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaDescription -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaDescription">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/areaName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/chairUntil -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/chairUntil">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Chair"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/citation -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/citation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/FullPaper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/date -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/date">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Workshop"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/decision -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/decision">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+        <rdfs:range>
+            <rdfs:Datatype>
+                <owl:oneOf>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                        <rdf:first>Accept</rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                <rdf:first>Reject</rdf:first>
+                                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </owl:oneOf>
+            </rdfs:Datatype>
+        </rdfs:range>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/editorUntil -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/editorUntil">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Editor"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/heldIn -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/heldIn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Proceeding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isPurposive -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isPurposive">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ShortPaper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfExperts -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfExperts">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ExpertGroup"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfPapersInProceeding -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfPapersInProceeding">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Proceeding"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfPapersInVolume -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/numberOfPapersInVolume">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Volume"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/periodicity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/periodicity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/RegularConference"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:range>
+            <rdfs:Datatype>
+                <owl:oneOf>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                        <rdf:first>Monthly</rdf:first>
+                        <rdf:rest>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                <rdf:first>Weekly</rdf:first>
+                                <rdf:rest>
+                                    <rdf:Description>
+                                        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+                                        <rdf:first>Yearly</rdf:first>
+                                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                                    </rdf:Description>
+                                </rdf:rest>
+                            </rdf:Description>
+                        </rdf:rest>
+                    </rdf:Description>
+                </owl:oneOf>
+            </rdfs:Datatype>
+        </rdfs:range>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publicationDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publicationDate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Poster"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/reviewText -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/reviewText">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/specialization -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/specialization">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Reviewer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/subject -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/subject">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Symposium"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/title -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/title">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/urlToDemo -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/urlToDemo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DemoPaper"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueDescription -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueDescription">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/venueName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/yearsOfExperience -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/yearsOfExperience">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Author -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Author">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Chair -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Chair">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DemoPaper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DemoPaper">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Editor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Editor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ExpertGroup -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ExpertGroup">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/FullPaper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/FullPaper">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Journal">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Manager">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/relatedTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Poster -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Poster">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Proceeding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Proceeding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/relatedTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/RegularConference -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/RegularConference">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Review"/>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Reviewer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Reviewer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ShortPaper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ShortPaper">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Paper"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Symposium -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Symposium">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Venue">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/relatedTo"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Area"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Volume -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Volume">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Publication"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Workshop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Workshop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/Conference"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+
