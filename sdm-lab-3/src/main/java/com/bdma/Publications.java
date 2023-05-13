@@ -1,14 +1,12 @@
 package com.bdma;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
+@NonNull
 public class Publications {
 
     String id;
@@ -18,9 +16,11 @@ public class Publications {
     String chair;
     String city;
     String area;
+    String type;
+    String venueId;
 
     @Override
     public String toString(){
-        return id + ";" + title + ";" + year + ";" + publisher + ";" + chair + ";" + city + ";" + area;
+        return id + ";" + title + ";" + year + ";" + publisher + ";" + chair + ";" + city + ";" + area + ";" + type + ";" + venueId;
     }
 }
