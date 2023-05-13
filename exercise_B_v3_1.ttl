@@ -12,36 +12,6 @@
 #    Object Properties
 #################################################################
 
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#includedInConference
-:includedInConference rdf:type owl:ObjectProperty ;
-                      rdfs:subPropertyOf :includedIn ;
-                      rdfs:domain :Proceeding ;
-                      rdfs:range :Conference .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#includedInJournal
-:includedInJournal rdf:type owl:ObjectProperty ;
-                   rdfs:subPropertyOf :includedIn ;
-                   rdfs:domain :Volume ;
-                   rdfs:range :Journal .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#submittedToConference
-:submittedToConference rdf:type owl:ObjectProperty ;
-                       rdfs:subPropertyOf :submittedTo ;
-                       rdfs:domain :Paper ;
-                       rdfs:range :Conference .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#submittedToJournal
-:submittedToJournal rdf:type owl:ObjectProperty ;
-                    rdfs:subPropertyOf :submittedTo ;
-                    rdfs:domain :DemoPaper ,
-                                :FullPaper ,
-                                :ShortPaper ;
-                    rdfs:range :Journal .
-
-
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/assignedBy
 :assignedBy rdf:type owl:ObjectProperty ;
             rdfs:domain :Review ;
@@ -64,6 +34,20 @@
 :includedIn rdf:type owl:ObjectProperty ;
             rdfs:domain :Publication ;
             rdfs:range :Venue .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInConference
+:includedInConference rdf:type owl:ObjectProperty ;
+                      rdfs:subPropertyOf :includedIn ;
+                      rdfs:domain :Proceeding ;
+                      rdfs:range :Conference .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/includedInJournal
+:includedInJournal rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf :includedIn ;
+                   rdfs:domain :Volume ;
+                   rdfs:range :Journal .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/isChairOf
@@ -112,21 +96,25 @@
              rdfs:range :Venue .
 
 
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToConference
+:submittedToConference rdf:type owl:ObjectProperty ;
+                       rdfs:subPropertyOf :submittedTo ;
+                       rdfs:domain :Paper ;
+                       rdfs:range :Conference .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/submittedToJournal
+:submittedToJournal rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf :submittedTo ;
+                    rdfs:domain :DemoPaper ,
+                                :FullPaper ,
+                                :ShortPaper ;
+                    rdfs:range :Journal .
+
+
 #################################################################
 #    Data properties
 #################################################################
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B#periodicity
-:periodicity rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Conference ;
-             rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DOI
-:DOI rdf:type owl:DatatypeProperty ;
-     rdfs:domain :Publication ;
-     rdfs:range xsd:string .
-
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ISSN
 :ISSN rdf:type owl:DatatypeProperty ;
@@ -234,8 +222,9 @@
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/periodicity
 :periodicity rdf:type owl:DatatypeProperty ;
-             rdfs:domain :RegularConference ;
-             rdfs:range [ rdf:type rdfs:Datatype ;
+             rdfs:domain :Conference ;
+             rdfs:range xsd:string ,
+                        [ rdf:type rdfs:Datatype ;
                           owl:oneOf [ rdf:type rdf:List ;
                                       rdf:first "Monthly" ;
                                       rdf:rest [ rdf:type rdf:List ;
@@ -253,6 +242,12 @@
 :publicationDate rdf:type owl:DatatypeProperty ;
                  rdfs:domain :Publication ;
                  rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publicationWebsite
+:publicationWebsite rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Publication ;
+                    rdfs:range xsd:string .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose

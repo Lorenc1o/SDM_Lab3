@@ -45,7 +45,7 @@ SELECT DISTINCT ?paper
 WHERE {
   :{AuthorURI} :hasWritten ?paper .
   ?paper :publishedAs ?proceedings .
-  ?proceedings :includedInConference ?conference
+  ?proceedings :includedInConference ?conference .
   ?conference :relatedTo ?area .
   ?area :hasAreaName "Databases"^^xsd:string .
 }
