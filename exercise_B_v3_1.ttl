@@ -116,12 +116,6 @@
 #    Data properties
 #################################################################
 
-###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/DOI
-:DOI rdf:type owl:DatatypeProperty ;
-     rdfs:domain :Publication ;
-     rdfs:range xsd:string .
-
-
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/ISSN
 :ISSN rdf:type owl:DatatypeProperty ;
       rdfs:domain :Journal ;
@@ -248,6 +242,12 @@
 :publicationDate rdf:type owl:DatatypeProperty ;
                  rdfs:domain :Publication ;
                  rdfs:range xsd:dateTime .
+
+
+###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/publicationWebsite
+:publicationWebsite rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Publication ;
+                    rdfs:range xsd:string .
 
 
 ###  http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/purpose
