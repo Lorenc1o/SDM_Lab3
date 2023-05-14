@@ -7,6 +7,7 @@ import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
+import org.apache.jena.datatypes.RDFDatatype;
 import org.apache.jena.ontology.OntModel;
 import org.apache.jena.ontology.OntClass;
 import org.apache.jena.ontology.OntProperty;
@@ -14,17 +15,18 @@ import org.apache.jena.ontology.OntModelSpec;
 import org.apache.jena.ontology.Individual;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
+import org.apache.jena.vocabulary.XSD;
 
 public class ABOX {
 
     private static final String BASE_URI = "http://www.bdma.com/";
     //    private static final String BASE_URI = "http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/";
-    private static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox3.owl";
+    private static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox4.owl";
     private static final String PAPERS_DATA_FILE_PATH = "src/main/resources/cleaned_papers2.csv";
     private static final String PERSONS_DATA_FILE_PATH = "src/main/resources/cleaned_persons2.csv";
     private static final String PUBLICATIONS_DATA_FILE_PATH = "src/main/resources/cleaned_publications2.csv";
     private static final String VENUES_DATA_FILE_PATH = "src/main/resources/cleaned_venues2.csv";
-    private static final String ABOX_MODEL_PATH = "./src/main/resources/abox3.nt";
+    private static final String ABOX_MODEL_PATH = "./src/main/resources/abox4.nt";
 
     public static void createAndSaveABOX() {
 
@@ -84,7 +86,8 @@ public class ABOX {
             OntProperty assignedBy = model.getOntProperty(BASE_URI.concat("assignedBy"));
             OntProperty assignedPaper = model.getOntProperty(BASE_URI.concat("assignedPaper"));
             OntProperty writtenBy = model.getOntProperty(BASE_URI.concat("writtenBy"));
-
+            OntProperty title = model.getOntProperty(BASE_URI.concat("title"));
+            OntProperty abstrac = model.getOntProperty((BASE_URI.concat("abstract")));
             //===============================================
             // Read & Parse the csv file
             //===============================================
@@ -110,6 +113,9 @@ public class ABOX {
                                 __paper = poster;
                         }
 
+                        String paperTitle = value.paperTitle;
+                        String paperAbstract = value.paperAbstract;
+
                         Individual _paper = __paper.createIndividual(BASE_URI.concat(value.paperTitle.replaceAll(" ", "_")));
 
                         String[] authors = value.getAuthorID().split(",");
@@ -120,6 +126,18 @@ public class ABOX {
                             _paper.addProperty(hasAuthor, _author);
                             }
                         }
+
+                        if (paperTitle == null){
+                            paperTitle = "No title.";
+                        }
+
+                        if (paperAbstract == null){
+                            paperAbstract = "No abstract.";
+                        }
+
+                        _paper.addProperty(title,model.createTypedLiteral(paperTitle));
+                        _paper.addProperty(abstrac,model.createTypedLiteral(paperAbstract));
+
 
                         Individual _area = area.createIndividual(BASE_URI.concat(value.getArea().replaceAll(" ", "_")));
                         _paper.addProperty(relatedTo, _area);
