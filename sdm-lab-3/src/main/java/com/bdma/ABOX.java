@@ -242,6 +242,7 @@ public class ABOX {
                                     _review1.addProperty(assignedBy, _editor);
                                     _review2.addProperty(assignedBy, _editor);
                                     _journal.addProperty(issn, model.createTypedLiteral(__venue.getIssn() != null ? __venue.getIssn() : "no ISSN"));
+                                    _journal.addProperty(relatedTo, _area);
 
                                     // Generate a random date in the future (within the next 5 years)
                                     LocalDate now = LocalDate.now();
@@ -284,6 +285,7 @@ public class ABOX {
                                             _expertGroup.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
                                             _expertGroup.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
                                             _expertGroup.addProperty(numberOfExperts, model.createTypedLiteral(random.nextInt(10) * 8));
+                                            _expertGroup.addProperty(relatedTo, _area);
 
                                             // Generate a random date in the future (within the next 5 years)
                                             LocalDate now = LocalDate.now();
@@ -317,6 +319,7 @@ public class ABOX {
                                             _symposium.addProperty(subject, model.createTypedLiteral(areas[random.nextInt(6)]));
                                             _proceeding.addProperty(includedInConference, _symposium);
                                             _paper.addProperty(submittedToConference, _symposium);
+                                            _symposium.addProperty(relatedTo, _area);
 
                                             // Generate a random date in the future (within the next 5 years)
                                             now = LocalDate.now();
@@ -345,6 +348,7 @@ public class ABOX {
                                             _workshop.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
                                             _workshop.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
                                             _proceeding.addProperty(includedInConference, _workshop);
+                                            _workshop.addProperty(relatedTo, _area);
 
                                             // Generate a random date in the past (within the past 5 years)
                                             LocalDate now2 = LocalDate.now();
@@ -389,6 +393,7 @@ public class ABOX {
                                             _regularConference.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
                                             _proceeding.addProperty(includedInConference, _regularConference);
                                             _paper.addProperty(submittedToConference, _regularConference);
+                                            _regularConference.addProperty(relatedTo, _area);
 
                                             // Generate a random date in the future (within the next 5 years)
                                             now = LocalDate.now();

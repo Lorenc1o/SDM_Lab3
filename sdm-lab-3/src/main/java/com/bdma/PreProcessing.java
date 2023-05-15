@@ -10,7 +10,6 @@ import java.util.*;
 public class PreProcessing {
 
     static String[] paperTypes = {"FullPaper", "ShortPaper", "DemoPaper", "Poster"};
-//    static String[] areas = {"Machine Learning", "Art", "AI", "Graphs", "Algorithms", "Databases"};
     static String[] conferenceTypes = {"Symposium", "Workshop", "RegularConference"};
     static String[] periodicities = {"Weekly", "Monthly", "Yearly"};
 
@@ -52,10 +51,8 @@ public class PreProcessing {
                             paper.setId(_id);
                             paper.setPaperAbstract(str_clean(anAbstract));
                             paper.setPaperTitle(str_clean(title));
-//                            paper.setPaperType(paperTypes[random.nextInt(4)]);
                             paper.setYear(year);
                             paper.setUrl(url);
-//                            paper.setArea(areas[random.nextInt(5)]);
                             paperHashMap.put(_id, paper);
                             break;
                         case ":Person":
@@ -83,7 +80,6 @@ public class PreProcessing {
                             venue.setName(str_clean(name));
                             venue.setUrl(url);
                             venue.setVenueType("Conference");
-//                            venue.setChair(pc);
                             venue.setPeriodicity(periodicities[random.nextInt(3)]);
                             if (url.equals(""))
                                 venue.setConferenceType(conferenceTypes[random.nextInt(3)]);
@@ -146,7 +142,7 @@ public class PreProcessing {
                     }
                     case "authored": {
                         Paper paper = paperHashMap.get(_end);
-                        paper.setAuthorID( paper.getAuthorID() == null ? _start : paper.getAuthorID() + "," +_start);
+                        paper.setAuthorID(paper.getAuthorID() == null ? _start : paper.getAuthorID() + "," + _start);
                         paperHashMap.replace(_end, paper);
                         break;
                     }
@@ -172,20 +168,6 @@ public class PreProcessing {
                         break;
                     }
                     case "published_in": {
-//                            Venue venue = venueHashMap.get(_end);
-//                            if (venue != null)
-//                                if ( venue.getVenueType().equals("Journal")) {
-//                                    paper.setVenue(venue.getName());
-//                                    paper.setVenueType("Journal");
-//                                    paper.setEditor(venue.getEditor());
-//                                    paper.setManagerType("Editor");
-//                                } else {
-//                                    paper.setVenue(venue.getName());
-//                                    paper.setConferenceType(venue.getConferenceType());
-//                                    paper.setVenueType("Conference");
-//                                    paper.setManager(venue.chair);
-//                                    paper.setManagerType("Chair");
-//                                }
                         Paper paper = paperHashMap.get(_start);
                         if (paper.getDecisions_1().equals("Yes") && paper.getDecisions_2().equals("Yes")) {
                             Publications publications = publicationHashMap.get(_end);
@@ -193,13 +175,11 @@ public class PreProcessing {
                             publications.setArea(paper.getArea());
                             publicationHashMap.replace(_end, publications);
                         }
-//                        else {
-                            String venueId = (String) venueHashMap.keySet().toArray()[random.nextInt(venueHashMap.size())];
-                            Venue venue = venueHashMap.get(venueId);
-                            paper.setPaperType(venue.getVenueType().equals("Journal") ? paperTypes[random.nextInt(3)] : paperTypes[random.nextInt(4)]);
-                            paper.setVenueId(venueId);
-                            venue.setArea(paper.getArea());
-//                        }
+                        String venueId = (String) venueHashMap.keySet().toArray()[random.nextInt(venueHashMap.size())];
+                        Venue venue = venueHashMap.get(venueId);
+                        paper.setPaperType(venue.getVenueType().equals("Journal") ? paperTypes[random.nextInt(3)] : paperTypes[random.nextInt(4)]);
+                        paper.setVenueId(venueId);
+                        venue.setArea(paper.getArea());
                         paperHashMap.replace(_start, paper);
                         break;
                     }
@@ -296,6 +276,6 @@ public class PreProcessing {
                 .replace("#", "")
                 .replaceAll("\n", "")
                 .replaceAll("[\\p{Ps}\\p{Pe}]", "") // To remove all opening & closing brackets (https://stackoverflow.com/a/25853119/6390175)
-                .replaceAll("[^A-Za-z0-9] ","");
+                .replaceAll("[^A-Za-z0-9] ", "");
     }
 }
