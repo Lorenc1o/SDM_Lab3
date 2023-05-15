@@ -24,7 +24,7 @@ WHERE {
 
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX : <http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/>
+PREFIX : <http://www.bdma.com/>
 
 SELECT DISTINCT ?property
 WHERE {
@@ -39,14 +39,14 @@ WHERE {
 
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX : <http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/>
+PREFIX : <http://www.bdma.com/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 SELECT DISTINCT ?paper
 WHERE {
-  :{AuthorURI} :hasWritten ?paper .
-  ?paper :publishedAs ?proceedings .
-  ?proceedings :includedInConference ?conference .
+  ?paper :hasAuthor :John_Daniel_Bossér .
+  ?paper :publishedAs ?proceeding .
+  ?proceeding :includedInConference ?conference .
   ?conference :relatedTo ?area .
-  ?area :hasAreaName "Databases"^^xsd:string .
+  ?area :areaName "Computer Science"^^xsd:string .
 }
-
