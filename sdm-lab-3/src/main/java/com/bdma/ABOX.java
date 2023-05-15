@@ -2,12 +2,12 @@ package com.bdma;
 
 import java.io.*;
 import java.util.HashMap;
+import java.util.Random;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 
-import org.apache.jena.datatypes.RDFDatatype;
 import org.apache.jena.ontology.OntModel;
 import org.apache.jena.ontology.OntClass;
 import org.apache.jena.ontology.OntProperty;
@@ -15,20 +15,26 @@ import org.apache.jena.ontology.OntModelSpec;
 import org.apache.jena.ontology.Individual;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
-import org.apache.jena.vocabulary.XSD;
+import org.apache.jena.datatypes.xsd.XSDDatatype;
+import org.apache.jena.rdf.model.Literal;
+
+import java.time.LocalDate;
+import java.time.temporal.ChronoUnit;
 
 public class ABOX {
 
     private static final String BASE_URI = "http://www.bdma.com/";
-    //    private static final String BASE_URI = "http://www.semanticweb.org/SDM_lab3_jose_abd/exercise_B/";
-    private static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox4.owl";
-    private static final String PAPERS_DATA_FILE_PATH = "src/main/resources/cleaned_papers2.csv";
-    private static final String PERSONS_DATA_FILE_PATH = "src/main/resources/cleaned_persons2.csv";
-    private static final String PUBLICATIONS_DATA_FILE_PATH = "src/main/resources/cleaned_publications2.csv";
-    private static final String VENUES_DATA_FILE_PATH = "src/main/resources/cleaned_venues2.csv";
-    private static final String ABOX_MODEL_PATH = "./src/main/resources/abox4.nt";
+    private static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox.owl";
+    private static final String PAPERS_DATA_FILE_PATH = "src/main/resources/cleaned_papers.csv";
+    private static final String PERSONS_DATA_FILE_PATH = "src/main/resources/cleaned_persons.csv";
+    private static final String PUBLICATIONS_DATA_FILE_PATH = "src/main/resources/cleaned_publications.csv";
+    private static final String VENUES_DATA_FILE_PATH = "src/main/resources/cleaned_venues.csv";
+    private static final String ABOX_MODEL_PATH = "./src/main/resources/abox.nt";
 
     public static void createAndSaveABOX() {
+
+        Random random = new Random();
+        String[] areas = {"Machine Learning", "Art", "AI", "Graphs", "Algorithms", "Databases"};
 
         try {
 
@@ -68,26 +74,58 @@ public class ABOX {
             OntClass proceeding = model.getOntClass(BASE_URI.concat("Proceeding"));
 
             //===============================================
-            // Getting all Ontology Properties from TBOX
+            // Getting all Object Properties from TBOX
             //===============================================
 
             OntProperty relatedTo = model.getOntProperty(BASE_URI.concat("relatedTo"));
             OntProperty isManagerOf = model.getOntProperty(BASE_URI.concat("isManagerOf"));
-//            OntProperty isChairOf = model.getOntProperty(BASE_URI.concat("isChairOf"));
-//            OntProperty isEditorOf = model.getOntProperty(BASE_URI.concat("isEditorOf"));
+            OntProperty isChairOf = model.getOntProperty(BASE_URI.concat("isChairOf"));
+            OntProperty isEditorOf = model.getOntProperty(BASE_URI.concat("isEditorOf"));
             OntProperty includedIn = model.getOntProperty(BASE_URI.concat("includedIn"));
-//            OntProperty includedInJournal = model.getOntProperty(BASE_URI.concat("includedInJournal"));
-//            OntProperty includedInConference = model.getOntProperty(BASE_URI.concat("includedInConference"));
+            OntProperty includedInJournal = model.getOntProperty(BASE_URI.concat("includedInJournal"));
+            OntProperty includedInConference = model.getOntProperty(BASE_URI.concat("includedInConference"));
             OntProperty hasAuthor = model.getOntProperty(BASE_URI.concat("hasAuthor"));
             OntProperty publishedAs = model.getOntProperty(BASE_URI.concat("publishedAs"));
             OntProperty submittedTo = model.getOntProperty(BASE_URI.concat("submittedTo"));
-//            OntProperty submittedToConference = model.getOntProperty(BASE_URI.concat("submittedToConference"));
-//            OntProperty submittedToJournal = model.getOntProperty(BASE_URI.concat("submittedToJournal"));
+            OntProperty submittedToConference = model.getOntProperty(BASE_URI.concat("submittedToConference"));
+            OntProperty submittedToJournal = model.getOntProperty(BASE_URI.concat("submittedToJournal"));
             OntProperty assignedBy = model.getOntProperty(BASE_URI.concat("assignedBy"));
             OntProperty assignedPaper = model.getOntProperty(BASE_URI.concat("assignedPaper"));
             OntProperty writtenBy = model.getOntProperty(BASE_URI.concat("writtenBy"));
+
+            //===============================================
+            // Getting all Data Properties from TBOX
+            //===============================================
+
             OntProperty title = model.getOntProperty(BASE_URI.concat("title"));
-            OntProperty abstrac = model.getOntProperty((BASE_URI.concat("abstract")));
+            OntProperty _abstract = model.getOntProperty(BASE_URI.concat("abstract"));
+            OntProperty affiliation = model.getOntProperty(BASE_URI.concat("affiliation"));
+            OntProperty areaDesc = model.getOntProperty(BASE_URI.concat("areaDescription"));
+            OntProperty additionalRemarks = model.getOntProperty(BASE_URI.concat("additionalRemarks"));
+            OntProperty areaName = model.getOntProperty(BASE_URI.concat("areaName"));
+            OntProperty chairUntil = model.getOntProperty(BASE_URI.concat("chairUntil"));
+            OntProperty publicationDate = model.getOntProperty(BASE_URI.concat("publicationDate"));
+            OntProperty date = model.getOntProperty(BASE_URI.concat("date"));
+            OntProperty decision = model.getOntProperty(BASE_URI.concat("decision"));
+            OntProperty editorUntil = model.getOntProperty(BASE_URI.concat("editorUntil"));
+            OntProperty heldIn = model.getOntProperty(BASE_URI.concat("heldIn"));
+            OntProperty isPurposive = model.getOntProperty(BASE_URI.concat("isPurposive"));
+            OntProperty issn = model.getOntProperty(BASE_URI.concat("ISSN"));
+            OntProperty name = model.getOntProperty(BASE_URI.concat("name"));
+            OntProperty numberOfExperts = model.getOntProperty(BASE_URI.concat("numberOfExperts"));
+            OntProperty numberOfPapersInProceeding = model.getOntProperty(BASE_URI.concat("numberOfPapersInProceeding"));
+            OntProperty numberOfPapersInVolume = model.getOntProperty(BASE_URI.concat("numberOfPapersInVolume"));
+            OntProperty venueDesc = model.getOntProperty(BASE_URI.concat("venueDescription"));
+            OntProperty venueName = model.getOntProperty(BASE_URI.concat("venueName"));
+            OntProperty periodicity = model.getOntProperty(BASE_URI.concat("periodicity"));
+            OntProperty purpose = model.getOntProperty(BASE_URI.concat("purpose"));
+            OntProperty specialization = model.getOntProperty(BASE_URI.concat("specialization"));
+            OntProperty subject = model.getOntProperty(BASE_URI.concat("subject"));
+            OntProperty reviewText = model.getOntProperty(BASE_URI.concat("reviewText"));
+            OntProperty urlToDemo = model.getOntProperty(BASE_URI.concat("urlToDemo"));
+            OntProperty publicationWebsite = model.getOntProperty(BASE_URI.concat("publicationWebsite"));
+            OntProperty yearsOfExperience = model.getOntProperty(BASE_URI.concat("yearsOfExperience"));
+
             //===============================================
             // Read & Parse the csv file
             //===============================================
@@ -111,6 +149,7 @@ public class ABOX {
                                 break;
                             default:
                                 __paper = poster;
+                                break;
                         }
 
                         String paperTitle = value.paperTitle;
@@ -118,40 +157,68 @@ public class ABOX {
 
                         Individual _paper = __paper.createIndividual(BASE_URI.concat(value.paperTitle.replaceAll(" ", "_")));
 
+                        switch (value.getPaperType()) {
+                            case "FullPaper":
+                                _paper.addProperty(additionalRemarks, model.createTypedLiteral("These are additional remarks."));
+                                break;
+                            case "ShortPaper":
+                                _paper.addProperty(isPurposive, model.createTypedLiteral(random.nextInt(2) % 2 == 0));
+                                break;
+                            case "DemoPaper":
+                                _paper.addProperty(urlToDemo, model.createTypedLiteral(value.getUrl()));
+                                break;
+                            case "Poster":
+                                _paper.addProperty(purpose, model.createTypedLiteral("describe " + areas[random.nextInt(6)]));
+                                break;
+                        }
+
                         String[] authors = value.getAuthorID().split(",");
                         for (String authorId : authors) {
                             Person __person = personHashMap.get(authorId);
                             if (__person != null) {
-                            Individual _author = author.createIndividual(BASE_URI.concat(__person.getName().replaceAll(" ", "_")));
-                            _paper.addProperty(hasAuthor, _author);
+                                Individual _author = author.createIndividual(BASE_URI.concat(__person.getName().replaceAll(" ", "_")));
+                                _paper.addProperty(hasAuthor, _author);
+                                _author.addProperty(name, model.createTypedLiteral(__person.getName()));
+                                _author.addProperty(affiliation, model.createTypedLiteral(__person.getAffiliation()));
                             }
                         }
 
-                        if (paperTitle == null){
+                        if (paperTitle == null) {
                             paperTitle = "No title.";
                         }
 
-                        if (paperAbstract == null){
+                        if (paperAbstract == null) {
                             paperAbstract = "No abstract.";
                         }
 
-                        _paper.addProperty(title,model.createTypedLiteral(paperTitle));
-                        _paper.addProperty(abstrac,model.createTypedLiteral(paperAbstract));
+                        _paper.addProperty(title, model.createTypedLiteral(paperTitle));
+                        _paper.addProperty(_abstract, model.createTypedLiteral(paperAbstract));
 
+                        String areaNameInstance = value.getArea();
 
                         Individual _area = area.createIndividual(BASE_URI.concat(value.getArea().replaceAll(" ", "_")));
+                        _area.addProperty(areaName, model.createTypedLiteral(areaNameInstance));
+                        _area.addProperty(areaDesc, model.createTypedLiteral("This is the description of the area."));
                         _paper.addProperty(relatedTo, _area);
 
                         Individual _review1 = review.createIndividual(BASE_URI.concat(value.getDecisions_1().replaceAll(" ", "_")));
                         _review1.addProperty(assignedPaper, _paper);
+                        _review1.addProperty(reviewText, model.createTypedLiteral(value.getDecisions_1()));
                         Individual _review2 = review.createIndividual(BASE_URI.concat(value.getDecisions_2().replaceAll(" ", "_")));
                         _review2.addProperty(assignedPaper, _paper);
+                        _review2.addProperty(reviewText, model.createTypedLiteral(value.getDecisions_2()));
+
 
                         Individual _reviewer1 = reviewer.createIndividual(BASE_URI.concat(value.getReviewer_1().replaceAll(" ", "_")));
                         _review1.addProperty(writtenBy, _reviewer1);
+                        _review1.addProperty(decision, model.createTypedLiteral(value.getDecisions_1()));
+                        _reviewer1.addProperty(name, model.createTypedLiteral(value.getReviewer_1()));
+                        _reviewer1.addProperty(specialization, model.createTypedLiteral(areas[random.nextInt(6)]));
                         Individual _reviewer2 = reviewer.createIndividual(BASE_URI.concat(value.getReviewer_2().replaceAll(" ", "_")));
                         _review2.addProperty(writtenBy, _reviewer2);
-
+                        _review2.addProperty(decision, model.createTypedLiteral(value.getDecisions_2()));
+                        _reviewer2.addProperty(name, model.createTypedLiteral(value.getReviewer_2()));
+                        _reviewer2.addProperty(specialization, model.createTypedLiteral(areas[random.nextInt(6)]));
 
                         if (value.getPublicationId() != null) {
                             Publications __publication = publicationHashMap.get(value.getPublicationId().replaceAll(" ", "_"));
@@ -162,65 +229,180 @@ public class ABOX {
                                     Individual _volume = volume.createIndividual(BASE_URI.concat(__publication.getTitle().replaceAll(" ", "_")));
                                     _paper.addProperty(publishedAs, _volume);
                                     _volume.addProperty(relatedTo, _area);
+                                    _volume.addProperty(publicationWebsite, model.createTypedLiteral(__venue.getUrl() != null ? __venue.getUrl() : "this publication has no URL."));
+                                    _volume.addProperty(publicationDate, model.createTypedLiteral(__publication.getYear(), XSDDatatype.XSDdate));
+                                    _volume.addProperty(numberOfPapersInVolume, model.createTypedLiteral(random.nextInt(10) * 10));
 
                                     Individual _journal = journal.createIndividual(BASE_URI.concat(__venue.getName().replaceAll(" ", "_")));
                                     String __editor = __venue.getEditor();
                                     Individual _editor = editor.createIndividual(BASE_URI.concat(__editor.replaceAll(" ", "_")));
-                                    _editor.addProperty(isManagerOf, _journal);
+                                    _editor.addProperty(name, model.createTypedLiteral(__editor));
+                                    _editor.addProperty(isEditorOf, _journal);
+                                    _editor.addProperty(yearsOfExperience, model.createTypedLiteral(random.nextInt(15)));
                                     _review1.addProperty(assignedBy, _editor);
                                     _review2.addProperty(assignedBy, _editor);
+                                    _journal.addProperty(issn, model.createTypedLiteral(__venue.getIssn() != null ? __venue.getIssn() : "no ISSN"));
 
-                                    _journal.addProperty(includedIn, _volume);
-                                    _paper.addProperty(submittedTo, _journal);
+                                    // Generate a random date in the future (within the next 5 years)
+                                    LocalDate now = LocalDate.now();
+                                    int randomDaysToAdd = new Random().nextInt(365 * 5); // up to 5 years
+                                    LocalDate futureDate = now.plus(randomDaysToAdd, ChronoUnit.DAYS);
+
+                                    // Convert the future date to an XSD date string
+                                    String futureDateString = futureDate.toString();
+
+                                    // Create a typed literal for the future date
+                                    Literal futureDateLiteral = model.createTypedLiteral(futureDateString, XSDDatatype.XSDdate);
+
+                                    // Add the future date property to the editor
+                                    _editor.addProperty(editorUntil, futureDateLiteral);
+
+                                    _journal.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
+                                    _journal.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
+
+                                    _volume.addProperty(includedInJournal, _journal);
+                                    _paper.addProperty(submittedToJournal, _journal);
                                 } else {
                                     Individual _proceeding = proceeding.createIndividual(BASE_URI.concat(__publication.getTitle().replaceAll(" ", "_")));
                                     _paper.addProperty(publishedAs, _proceeding);
                                     _proceeding.addProperty(relatedTo, _area);
+                                    _proceeding.addProperty(publicationWebsite, model.createTypedLiteral(__venue.getUrl() != null ? __venue.getUrl() : "this publication has no URL."));
+                                    _proceeding.addProperty(numberOfPapersInProceeding, model.createTypedLiteral(random.nextInt(10) * 10));
+                                    _proceeding.addProperty(heldIn, model.createTypedLiteral("Barcelona"));
 
                                     switch (__venue.getConferenceType()) {
                                         case "ExpertGroup":
                                             Individual _expertGroup = expertGroup.createIndividual(BASE_URI.concat(__venue.getName().replaceAll(" ", "_")));
                                             String __chair = __venue.getChair();
                                             Individual _chair = chair.createIndividual(BASE_URI.concat(__chair.replaceAll(" ", "_")));
-                                            _chair.addProperty(isManagerOf, _expertGroup);
+                                            _chair.addProperty(name, model.createTypedLiteral(__chair));
+                                            _chair.addProperty(isChairOf, _expertGroup);
+                                            _chair.addProperty(yearsOfExperience, model.createTypedLiteral(random.nextInt(15)));
                                             _review1.addProperty(assignedBy, _chair);
                                             _review2.addProperty(assignedBy, _chair);
+                                            _expertGroup.addProperty(periodicity, model.createTypedLiteral(__venue.getPeriodicity()));
+                                            _expertGroup.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
+                                            _expertGroup.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
+                                            _expertGroup.addProperty(numberOfExperts, model.createTypedLiteral(random.nextInt(10) * 8));
 
-                                            _expertGroup.addProperty(includedIn, _proceeding);
-                                            _paper.addProperty(submittedTo, _expertGroup);
+                                            // Generate a random date in the future (within the next 5 years)
+                                            LocalDate now = LocalDate.now();
+                                            int randomDaysToAdd = new Random().nextInt(365 * 5); // up to 5 years
+                                            LocalDate futureDate = now.plus(randomDaysToAdd, ChronoUnit.DAYS);
+
+                                            // Convert the future date to an XSD date string
+                                            String futureDateString = futureDate.toString();
+
+                                            // Create a typed literal for the future date
+                                            Literal futureDateLiteral = model.createTypedLiteral(futureDateString, XSDDatatype.XSDdate);
+
+                                            // Add the future date property to the chair
+                                            _chair.addProperty(chairUntil, futureDateLiteral);
+
+                                            _expertGroup.addProperty(includedInConference, _proceeding);
+                                            _paper.addProperty(submittedToConference, _expertGroup);
                                             break;
                                         case "Symposium":
                                             Individual _symposium = symposium.createIndividual(BASE_URI.concat(__venue.getName().replaceAll(" ", "_")));
                                             __chair = __venue.getChair();
                                             _chair = chair.createIndividual(BASE_URI.concat(__chair.replaceAll(" ", "_")));
-                                            _chair.addProperty(isManagerOf, _symposium);
+                                            _chair.addProperty(name, model.createTypedLiteral(__chair));
+                                            _chair.addProperty(isChairOf, _symposium);
+                                            _chair.addProperty(yearsOfExperience, model.createTypedLiteral(random.nextInt(15)));
                                             _review1.addProperty(assignedBy, _chair);
                                             _review2.addProperty(assignedBy, _chair);
+                                            _symposium.addProperty(periodicity, model.createTypedLiteral(__venue.getPeriodicity()));
+                                            _symposium.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
+                                            _symposium.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
+                                            _symposium.addProperty(subject, model.createTypedLiteral(areas[random.nextInt(6)]));
+                                            _proceeding.addProperty(includedInConference, _symposium);
+                                            _paper.addProperty(submittedToConference, _symposium);
 
-                                            _symposium.addProperty(includedIn, _proceeding);
-                                            _paper.addProperty(submittedTo, _symposium);
+                                            // Generate a random date in the future (within the next 5 years)
+                                            now = LocalDate.now();
+                                            randomDaysToAdd = new Random().nextInt(365 * 5); // up to 5 years
+                                            futureDate = now.plus(randomDaysToAdd, ChronoUnit.DAYS);
+
+                                            // Convert the future date to an XSD date string
+                                            futureDateString = futureDate.toString();
+
+                                            // Create a typed literal for the future date
+                                            futureDateLiteral = model.createTypedLiteral(futureDateString, XSDDatatype.XSDdate);
+
+                                            // Add the future date property to the chair
+                                            _chair.addProperty(chairUntil, futureDateLiteral);
                                             break;
                                         case "Workshop":
                                             Individual _workshop = workshop.createIndividual(BASE_URI.concat(__venue.getName().replaceAll(" ", "_")));
                                             __chair = __venue.getChair();
                                             _chair = chair.createIndividual(BASE_URI.concat(__chair.replaceAll(" ", "_")));
-                                            _chair.addProperty(isManagerOf, _workshop);
+                                            _chair.addProperty(name, model.createTypedLiteral(__chair));
+                                            _chair.addProperty(isChairOf, _workshop);
+                                            _chair.addProperty(yearsOfExperience, model.createTypedLiteral(random.nextInt(15)));
                                             _review1.addProperty(assignedBy, _chair);
                                             _review2.addProperty(assignedBy, _chair);
+                                            _workshop.addProperty(periodicity, model.createTypedLiteral(__venue.getPeriodicity()));
+                                            _workshop.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
+                                            _workshop.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
+                                            _proceeding.addProperty(includedInConference, _workshop);
 
-                                            _workshop.addProperty(includedIn, _proceeding);
-                                            _paper.addProperty(submittedTo, _workshop);
+                                            // Generate a random date in the past (within the past 5 years)
+                                            LocalDate now2 = LocalDate.now();
+                                            int randomDaysToSubtract = new Random().nextInt(365 * 5); // up to 5 years
+                                            LocalDate pastDate = now2.minus(randomDaysToSubtract, ChronoUnit.DAYS);
+
+                                            // Convert the past date to an XSD date string
+                                            String pastDateString = pastDate.toString();
+
+                                            // Create a typed literal for the past date
+                                            Literal pastDateLiteral = model.createTypedLiteral(pastDateString, XSDDatatype.XSDdate);
+
+                                            // Add the past date property to the workshop
+                                            _workshop.addProperty(date, pastDateLiteral);
+                                            _paper.addProperty(submittedToConference, _workshop);
+
+                                            // Generate a random date in the future (within the next 5 years)
+                                            now = LocalDate.now();
+                                            randomDaysToAdd = new Random().nextInt(365 * 5); // up to 5 years
+                                            futureDate = now.plus(randomDaysToAdd, ChronoUnit.DAYS);
+
+                                            // Convert the future date to an XSD date string
+                                            futureDateString = futureDate.toString();
+
+                                            // Create a typed literal for the future date
+                                            futureDateLiteral = model.createTypedLiteral(futureDateString, XSDDatatype.XSDdate);
+
+                                            // Add the future date property to the chair
+                                            _chair.addProperty(chairUntil, futureDateLiteral);
                                             break;
                                         default:
                                             Individual _regularConference = regularConference.createIndividual(BASE_URI.concat(__venue.getName().replaceAll(" ", "_")));
                                             __chair = __venue.getChair();
                                             _chair = chair.createIndividual(BASE_URI.concat(__chair.replaceAll(" ", "_")));
-                                            _chair.addProperty(isManagerOf, _regularConference);
+                                            _chair.addProperty(name, model.createTypedLiteral(__chair));
+                                            _chair.addProperty(isChairOf, _regularConference);
+                                            _chair.addProperty(yearsOfExperience, model.createTypedLiteral(random.nextInt(15)));
                                             _review1.addProperty(assignedBy, _chair);
                                             _review2.addProperty(assignedBy, _chair);
+                                            _regularConference.addProperty(periodicity, model.createTypedLiteral(__venue.getPeriodicity()));
+                                            _regularConference.addProperty(venueName, model.createTypedLiteral(__venue.getName()));
+                                            _regularConference.addProperty(venueDesc, model.createTypedLiteral(__venue.getName() + " about " + __venue.getArea()));
+                                            _proceeding.addProperty(includedInConference, _regularConference);
+                                            _paper.addProperty(submittedToConference, _regularConference);
 
-                                            _regularConference.addProperty(includedIn, _proceeding);
-                                            _paper.addProperty(submittedTo, _regularConference);
+                                            // Generate a random date in the future (within the next 5 years)
+                                            now = LocalDate.now();
+                                            randomDaysToAdd = new Random().nextInt(365 * 5); // up to 5 years
+                                            futureDate = now.plus(randomDaysToAdd, ChronoUnit.DAYS);
+
+                                            // Convert the future date to an XSD date string
+                                            futureDateString = futureDate.toString();
+
+                                            // Create a typed literal for the future date
+                                            futureDateLiteral = model.createTypedLiteral(futureDateString, XSDDatatype.XSDdate);
+
+                                            // Add the future date property to the chair
+                                            _chair.addProperty(chairUntil, futureDateLiteral);
 
                                             break;
                                     }
@@ -230,23 +412,6 @@ public class ABOX {
                     }
             );
 
-//            venueHashMap.forEach((key, value) -> {
-//                        Venue __venue = venueHashMap.get(value.getId());
-//                        Individual _venue = venue.createIndividual(BASE_URI.concat(__venue.getName()));
-//                        _venue.addProperty(relatedTo, __venue.getArea());
-//
-//                        if (__venue.getVenueType().equals("Journal")) {
-//                            Individual _journal = journal.createIndividual(BASE_URI.concat(__venue.getName()));
-//                            Individual _editor = editor.createIndividual(BASE_URI.concat(__venue.getEditor()));
-//                            _editor.addProperty(isManagerOf, _journal);
-//                        } else {
-//                            Individual _conference = conference.createIndividual(BASE_URI.concat(__venue.getName()));
-//                            Individual _chair = chair.createIndividual(BASE_URI.concat(__venue.getChair()));
-//                            _chair.addProperty(isManagerOf, _conference);
-//                        }
-//
-//                    }
-//            );
             FileOutputStream writerStream = new FileOutputStream(ABOX_MODEL_PATH);
             model.write(writerStream, "N-TRIPLE");
             writerStream.close();
@@ -299,8 +464,9 @@ public class ABOX {
                 String id = record.get("id");
                 String name = record.get("name");
                 String dob = record.get("dob");
+                String affiliation = record.get("affiliation");
 
-                personsHashMap.put(id, new Person(id, name, dob));
+                personsHashMap.put(id, new Person(id, name, dob, affiliation));
             }
         } catch (IOException e) {
             e.printStackTrace();

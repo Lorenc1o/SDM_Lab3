@@ -18,7 +18,7 @@ import org.apache.jena.ontology.Individual;
 public class TBOX {
 
     private static final String BASE_URI = "http://www.bdma.com/";
-    public static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox5.owl";
+    public static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox.owl";
 
     public static void main(String[] args) {
         createTBOX();
@@ -47,26 +47,7 @@ public class TBOX {
 
         createDatatypeProperty(model, venue, XSD.xstring, "venueDescription", "description of the venue");
         createDatatypeProperty(model, venue, XSD.xstring, "venueName", "name of the venue");
-
-        // Create periodicity property
-        DatatypeProperty periodicity = model.createDatatypeProperty(BASE_URI.concat("periodicity"));
-        periodicity.addDomain(conference);
-        periodicity.addRange(XSD.xstring);
-
-        // Create EnumeratedClass for periodicity
-        EnumeratedClass periodicityEnum = model.createEnumeratedClass(null, null);
-
-        // Add individuals to the enumerated class
-        Individual monthly = model.createIndividual(BASE_URI.concat("Monthly"), null);
-        Individual yearly = model.createIndividual(BASE_URI.concat("Yearly"), null);
-        Individual weekly = model.createIndividual(BASE_URI.concat("Weekly"), null);
-
-        periodicityEnum.addOneOf(monthly);
-        periodicityEnum.addOneOf(yearly);
-        periodicityEnum.addOneOf(weekly);
-
-        // Set the range of periodicity property to be the enumerated class
-        periodicity.setRange(periodicityEnum);
+        createDatatypeProperty(model, conference, XSD.xstring, "periodicity", "periodicity of a conference");
 
         // Create ISSN property
         DatatypeProperty issn = model.createDatatypeProperty(BASE_URI.concat("ISSN"));
@@ -172,7 +153,7 @@ public class TBOX {
         title.addDomain(paper);
 
         createDatatypeProperty(model, paper, XSD.xstring, "abstract", "abstract of the paper");
-        createDatatypeProperty(model, fullPaper, XSD.xstring, "citation", "citation of the full paper");
+        createDatatypeProperty(model, fullPaper, XSD.xstring, "additionalRemarks", "remarks by the author(s)");
         createDatatypeProperty(model, shortPaper, XSD.xboolean, "isPurposive", "indicates whether the short paper is purposive or not");
         createDatatypeProperty(model, demoPaper, XSD.xstring, "urlToDemo", "url to the demo of the demo paper");
         createDatatypeProperty(model, poster, XSD.xstring, "purpose", "purpose of the poster");
@@ -186,24 +167,7 @@ public class TBOX {
         createProperty(model, review, reviewer, "writtenBy", "review written by reviewer");
 
         createDatatypeProperty(model, review, XSD.xstring, "reviewText", "text of the review");
-
-        // Create decision property
-        DatatypeProperty decision = model.createDatatypeProperty(BASE_URI.concat("decision"));
-        decision.addDomain(review);
-        decision.addRange(XSD.xstring);
-
-        // Create EnumeratedClass for decision
-        EnumeratedClass decisionEnum = model.createEnumeratedClass(null, null);
-
-        // Add individuals to the enumerated class
-        Individual accept = model.createIndividual(BASE_URI.concat("Accept"), null);
-        Individual reject = model.createIndividual(BASE_URI.concat("Reject"), null);
-
-        decisionEnum.addOneOf(accept);
-        decisionEnum.addOneOf(reject);
-
-        // Set the range of decision property to be the enumerated class
-        decision.setRange(decisionEnum);
+        createDatatypeProperty(model, review, XSD.xstring, "decision", "decision of the review");
 
         writeTBOX(model);
     }

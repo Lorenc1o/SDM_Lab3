@@ -12,9 +12,10 @@ public class Person {
     String id;
     String name;
     String dob;
+    String affiliation;
 
     @Override
     public String toString(){
-        return id + ";" + name + ";" + dob;
+        return id + ";" + name + ";" + dob + ";" + affiliation;
     }
 }

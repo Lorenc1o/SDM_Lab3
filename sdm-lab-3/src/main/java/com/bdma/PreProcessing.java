@@ -25,6 +25,7 @@ public class PreProcessing {
             HashMap<String, Venue> venueHashMap = new HashMap<>();
             HashMap<String, Publications> publicationHashMap = new HashMap<>();
             HashMap<String, String> citiesHashMap = new HashMap<>();
+            HashMap<String, String> affiliationsHashMap = new HashMap<>();
             HashMap<String, String> areasHashMap = new HashMap<>();
 
             for (CSVRecord record : nodesParser) {
@@ -118,6 +119,9 @@ public class PreProcessing {
                         case ":Keyword":
                             areasHashMap.put(_id, value);
                             break;
+                        case ":Affiliation":
+                            affiliationsHashMap.put(_id, name);
+                            break;
                     }
                 }
             }
@@ -207,7 +211,6 @@ public class PreProcessing {
                             publications.setChair(venue.getEditor());
                         else
                             venue.setChair(publications.getChair());
-//                        venue.setPublication(_start);
                         publications.setVenueId(publications.getVenueId() == null ? _end : publications.getVenueId() + "," + _end);
                         venueHashMap.replace(_end, venue);
                         publicationHashMap.replace(_start, publications);
@@ -219,30 +222,36 @@ public class PreProcessing {
                         publicationHashMap.replace(_start, publication);
                         break;
                     }
+                    case "affiliated_with": {
+                        Person person = personHashMap.get(_start);
+                        person.setAffiliation(affiliationsHashMap.get(_end));
+                        personHashMap.replace(_start, person);
+                        break;
+                    }
                 }
             }
 
             String eol = System.getProperty("line.separator");
 
-            Writer papersWriter = new FileWriter("src/main/resources/cleaned_papers2.csv");
+            Writer papersWriter = new FileWriter("src/main/resources/cleaned_papers.csv");
             papersWriter.append("id;paperTitle;area;authorID;corrAuthorID;publicationID;venueId;reviewer_1;reviewer_2;review_1;review_2;paperType;paperAbstract;decisions_1;decisions_2;year;url").append(eol);
             for (Map.Entry<String, Paper> entry : paperHashMap.entrySet())
                 papersWriter.append(entry.getValue().toString()).append(eol);
             papersWriter.close();
 
-            Writer personsWriter = new FileWriter("src/main/resources/cleaned_persons2.csv");
-            personsWriter.append("id;name;dob").append(eol);
+            Writer personsWriter = new FileWriter("src/main/resources/cleaned_persons.csv");
+            personsWriter.append("id;name;dob;affiliation").append(eol);
             for (Map.Entry<String, Person> entry : personHashMap.entrySet())
                 personsWriter.append(entry.getValue().toString()).append(eol);
             personsWriter.close();
 
-            Writer venuesWriter = new FileWriter("src/main/resources/cleaned_venues2.csv");
+            Writer venuesWriter = new FileWriter("src/main/resources/cleaned_venues.csv");
             venuesWriter.append("id;area;publication;venueType;conferenceType;editor;url;name;chair;issn;periodicity").append(eol);
             for (Map.Entry<String, Venue> entry : venueHashMap.entrySet())
                 venuesWriter.append(entry.getValue().toString()).append(eol);
             venuesWriter.close();
 
-            Writer publicationsWriter = new FileWriter("src/main/resources/cleaned_publications2.csv");
+            Writer publicationsWriter = new FileWriter("src/main/resources/cleaned_publications.csv");
             publicationsWriter.append("id;title;year;publisher;chair;city;area;type;venueId").append(eol);
             for (Map.Entry<String, Publications> entry : publicationHashMap.entrySet())
                 publicationsWriter.append(entry.getValue().toString()).append(eol);
