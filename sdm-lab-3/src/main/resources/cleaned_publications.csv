@@ -1,60 +1,60 @@
 id;title;year;publisher;chair;city;area;type;venueId
 11504;99eff7d0_fd55_42ff_ad81_900205b0402d39_1;2019;;Richard_Bates;null;Data Management;Volume;10963
 11988;e73fdd29_df4a_4a35_a2e4_2989fb8158c728_2;2006;;Oscar_Anderson;null;Data Management;Volume;11263
-12836;ac48ca58_6a78_4475_8bd5_3b9283517bfd289_6;2006;;Joshua_Macdonald;null;null;Volume;12400
-11503;ffaa4409_29fb_4245_a496_c51b151f9f5f68;2019;;Emily_Beck;null;null;Volume;10954
+12836;ac48ca58_6a78_4475_8bd5_3b9283517bfd289_6;2006;;Joshua_Macdonald;null;Psychology,Data Management;Volume;12400
+11503;ffaa4409_29fb_4245_a496_c51b151f9f5f68;2019;;Emily_Beck;null;Data Management;Volume;10954
 11987;e1f2b2ea_7393_4401_8e7b_d687d959a76f67;2006;;Lisa_Scott;null;Materials Science,Data Management;Volume;11255
 12837;6b9b25c9_296d_472b_a8e1_e54c668e35dd50_6;2006;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
-11506;0d2df46f_7259_4a75_a21c_417ba0ddc6ca106;2018;;Ronnie_Lawrence;null;null;Volume;10965
-12834;6b9b25c9_296d_472b_a8e1_e54c668e35dd55_2;2008;;Joy_Lynch;null;null;Volume;12394
+11506;0d2df46f_7259_4a75_a21c_417ba0ddc6ca106;2018;;Ronnie_Lawrence;null;Data Management;Volume;10965
+12834;6b9b25c9_296d_472b_a8e1_e54c668e35dd55_2;2008;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
 11505;3928bc8f_4d8b_4c19_aa4b_cb27efa78ecc39;2019;;Shannon_Hall;null;Data Management;Volume;10964
-11989;4be18401_ac0f_4284_886e_67f94717e7277;2006;;David_Bailey;null;null;Volume;11250
+11989;4be18401_ac0f_4284_886e_67f94717e7277;2006;;David_Bailey;null;Data Management;Volume;11250
 12835;6c24a0a0_b07d_4d7b_a19b_fd09a3ed453a452;2008;;Anne_Williams;null;Geography,Data Management;Volume;11041
-11508;2f9efc65_e6db_47e4_aace_1b75e2e3cf9219;2018;;Hannah_Crawford;null;null;Volume;10967
+11508;2f9efc65_e6db_47e4_aace_1b75e2e3cf9219;2018;;Hannah_Crawford;null;Data Management;Volume;10967
 11507;7648aaf1_d5db_4b7d_9403_65e391974d7a116_4;2018;;Anna_Townsend;null;Data Management;Volume;10966
-12838;aee7917d_222b_4e62_bb83_97ba7719d28fSuppl_37;2003;;Tammy_Russell;null;null;Volume;12398
+12838;aee7917d_222b_4e62_bb83_97ba7719d28fSuppl_37;2003;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11509;ffaa4409_29fb_4245_a496_c51b151f9f5f67;2018;;Emily_Beck;null;Data Management;Volume;10954
 12839;6b9b25c9_296d_472b_a8e1_e54c668e35dd41_5;2001;;Joy_Lynch;null;Geography,Data Management;Volume;12394
 11980;4be18401_ac0f_4284_886e_67f94717e7279;2008;;David_Bailey;null;Data Management;Volume;11250
 11982;2ffaf997_f719_4744_8142_983c334b1797132_2;2007;;Jeffrey_Esparza;null;Data Management;Volume;11224
-11981;31233a06_aa49_468c_8e22_f801dc33e6f778_3;2008;;Michael_Jackson;null;null;Volume;11233
+11981;31233a06_aa49_468c_8e22_f801dc33e6f778_3;2008;;Michael_Jackson;null;Materials Science,Data Management;Volume;11233
 11500;9832d9dd_d434_408b_938c_a6d02baeaddc20;2020;;Kelly_Martinez;null;Data Management;Volume;10961
 11984;23dc6714_3f22_43eb_8a2e_bd96897f9c3f29_3;2007;;Teresa_Wilson;null;Data Management;Volume;11241
 12832;f61cbcda_bf99_45c1_848b_2aae84ef37c221;2012;;Kathleen_Kennedy;null;Data Management,Big Data;Volume;12399
 11983;31233a06_aa49_468c_8e22_f801dc33e6f777_4;2007;;Michael_Jackson;null;Data Management;Volume;11233
-12833;6b9b25c9_296d_472b_a8e1_e54c668e35dd61_1;2011;;Joy_Lynch;null;null;Volume;12394
+12833;6b9b25c9_296d_472b_a8e1_e54c668e35dd61_1;2011;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
 11502;a82aefe4_5203_4295_b463_46a4506b641b13;2019;;Jessica_Pena;null;Data Management;Volume;10962
 11986;23dc6714_3f22_43eb_8a2e_bd96897f9c3f28_5;2006;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
 12830;6b9b25c9_296d_472b_a8e1_e54c668e35dd72;2014;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
 11501;a25f0f0c_6f67_4e9b_8f42_ffddbf2b3f5535;2020;;Ronald_King;null;Data Management;Volume;10959
 11985;2ffaf997_f719_4744_8142_983c334b1797131_2;2007;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12831;6b9b25c9_296d_472b_a8e1_e54c668e35dd64_5;2013;;Joy_Lynch;null;null;Volume;12394
+12831;6b9b25c9_296d_472b_a8e1_e54c668e35dd64_5;2013;;Joy_Lynch;null;Geography,Data Management;Volume;12394
 11515;f01cecb2_2e15_44d4_97ce_2575886e7d0123;2017;;Andrew_Quinn;null;Data Management;Volume;10969
 11999;23dc6714_3f22_43eb_8a2e_bd96897f9c3f25_6;2003;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
 12847;6c24a0a0_b07d_4d7b_a19b_fd09a3ed453a362;1993;;Anne_Williams;null;Geography,Data Management;Volume;11041
 11514;6d321751_3a9f_40e1_96b3_b5e3904cce9f29;2017;;Linda_Griffith;null;Data Management;Volume;10968
 11998;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b31;2004;;David_Khan;null;Materials Science,Data Management;Volume;11264
 12848;aee7917d_222b_4e62_bb83_97ba7719d28f86_4;1991;;Tammy_Russell;null;Geography,Data Management;Volume;12398
-11517;eacf3df5_edb0_41b1_b1f2_b3369bd272c262;2017;;Stephanie_Kirk;null;null;Volume;10971
-12845;aee7917d_222b_4e62_bb83_97ba7719d28f100_3;1996;;Tammy_Russell;null;null;Volume;12398
+11517;eacf3df5_edb0_41b1_b1f2_b3369bd272c262;2017;;Stephanie_Kirk;null;Data Management;Volume;10971
+12845;aee7917d_222b_4e62_bb83_97ba7719d28f100_3;1996;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11516;218c9cfa_3df1_4d78_b023_ff529cde82b828;2017;;Beverly_Dixon;null;Data Management;Volume;10970
-12846;aee7917d_222b_4e62_bb83_97ba7719d28f96_4;1995;;Tammy_Russell;null;null;Volume;12398
-11519;7a4a2cd2_0615_44b1_83c3_d07ad89415b411_5;2017;;Wendy_Johnson;null;null;Volume;10953
+12846;aee7917d_222b_4e62_bb83_97ba7719d28f96_4;1995;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
+11519;7a4a2cd2_0615_44b1_83c3_d07ad89415b411_5;2017;;Wendy_Johnson;null;Data Management;Volume;10953
 11518;ffaa4409_29fb_4245_a496_c51b151f9f5f64;2017;;Emily_Beck;null;Data Management;Volume;10954
-12849;32a242e9_e011_45f5_ba1d_f55630214ca747;1991;;Jennifer_Hughes;null;null;Volume;12401
+12849;32a242e9_e011_45f5_ba1d_f55630214ca747;1991;;Jennifer_Hughes;null;Data Storage;Volume;12401
 11991;4be18401_ac0f_4284_886e_67f94717e7275;2004;;David_Bailey;null;Data Management;Volume;11250
 11990;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b199;2005;;David_Khan;null;Data Management;Volume;11264
-12840;aee7917d_222b_4e62_bb83_97ba7719d28f114_1;2001;;Tammy_Russell;null;null;Volume;12398
-11993;4d5d2064_1e1d_4324_9a5d_acf2ba70d9751_3;2008;;Anna_Craig;null;null;Volume;11265
+12840;aee7917d_222b_4e62_bb83_97ba7719d28f114_1;2001;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
+11993;4d5d2064_1e1d_4324_9a5d_acf2ba70d9751_3;2008;;Anna_Craig;null;Data Management;Volume;11265
 11992;e7b43e87_f462_44e0_b6a3_a7e66e14f75410;2016;;Timothy_Estrada;null;Data Management;Volume;10882
 11511;7a4a2cd2_0615_44b1_83c3_d07ad89415b412;2018;;Wendy_Johnson;null;Data Management;Volume;10953
 11995;31233a06_aa49_468c_8e22_f801dc33e6f777_1;2007;;Michael_Jackson;null;Data Management,Materials Science;Volume;11233
 12843;aee7917d_222b_4e62_bb83_97ba7719d28f107_2;1998;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11510;cf1b9554_455e_4565_a1ae_aa7d9a10b8ab53_5;2018;;Gary_Smith;null;Data Management;Volume;10952
-11994;2ffaf997_f719_4744_8142_983c334b1797132_6;2007;;Jeffrey_Esparza;null;null;Volume;11224
-12844;6b9b25c9_296d_472b_a8e1_e54c668e35dd33_2_3;1997;;Joy_Lynch;null;null;Volume;12394
-11513;6bce25d3_21dd_4549_83c0_301f4d5d4c5b26_6;2017;;Christopher_Goodman;null;null;Volume;10832
-11997;e1f2b2ea_7393_4401_8e7b_d687d959a76f60;2005;;Lisa_Scott;null;null;Volume;11255
+11994;2ffaf997_f719_4744_8142_983c334b1797132_6;2007;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
+12844;6b9b25c9_296d_472b_a8e1_e54c668e35dd33_2_3;1997;;Joy_Lynch;null;Geography,Data Management;Volume;12394
+11513;6bce25d3_21dd_4549_83c0_301f4d5d4c5b26_6;2017;;Christopher_Goodman;null;Data Management;Volume;10832
+11997;e1f2b2ea_7393_4401_8e7b_d687d959a76f60;2005;;Lisa_Scott;null;Materials Science;Volume;11255
 12841;6b9b25c9_296d_472b_a8e1_e54c668e35dd39_5;2000;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
 11512;ffaa4409_29fb_4245_a496_c51b151f9f5f66;2017;;Emily_Beck;null;Data Management;Volume;10954
 11996;23dc6714_3f22_43eb_8a2e_bd96897f9c3f27_5;2005;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
@@ -62,130 +62,130 @@ id;title;year;publisher;chair;city;area;type;venueId
 12809;7dd493ea_462e_4e22_b9a7_071f2a8c444d353;2022;;Eric_Zamora;null;Data Management;Volume;12368
 11966;836b921e_9c79_430d_9d4a_1f24a6ede58121_3;2010;;Alexander_Hayes;null;Data Processing,Data Management;Volume;11256
 12814;e0684943_c33d_43ae_a55d_9e0fb87a9bde355;2022;;Angela_Kelly;null;Data Management;Volume;12388
-11965;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c8_1;2010;;Kevin_Clark;null;null;Volume;11252
+11965;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c8_1;2010;;Kevin_Clark;null;Data Management;Volume;11252
 12815;0822950e_275a_4312_9114_b1a6a5898af52022;2022;;Jeffrey_Brooks;null;Data Management;Volume;12389
 11968;c27172da_75e6_4060_be54_4f335cd8318388;2009;;Craig_Salinas;null;Data Management;Volume;11257
 12812;8bbffbf0_5dfc_4485_b4b1_d177fd330b212022;2022;;Thomas_Cox;null;Data Management;Volume;12332
 11967;9fa4f4f1_6547_4978_99b0_d1855d126cdc14;2010;;Samantha_Gonzales;null;Data Management;Volume;11244
 12813;20c552c0_1691_41b9_b3ac_ed93b55843f4167;2022;;Gabrielle_Cook;null;Data Management;Volume;12387
-12818;3c4394f2_588b_43c0_bcf9_a0ef028e11e259;1922;;Beth_Brown;null;null;Volume;12392
+12818;3c4394f2_588b_43c0_bcf9_a0ef028e11e259;1922;;Beth_Brown;null;Data Modeling;Volume;12392
 11969;5a976bc9_5a1f_4eaa_8301_e7762dea1123137_11_12;2009;;Sandy_Miller;null;Data Management;Volume;11258
 12819;77ea5ab3_9839_4d77_bc43_30bcb5c4ab301;1960;;Jamie_Allen;null;Data Storage;Volume;12393
 12816;d696161e_4408_4457_a0e2_39bb3a2ca1f6163;2021;;Rose_Obrien;null;Data Management;Volume;12390
-12817;abc0c598_b988_4841_a8c5_65bfa6f3df779;2021;;Samuel_Johnson;null;null;Volume;12391
+12817;abc0c598_b988_4841_a8c5_65bfa6f3df779;2021;;Samuel_Johnson;null;Data Management;Volume;12391
 11960;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c8_3;2010;;Kevin_Clark;null;Data Management;Volume;11252
-11962;6c7e851f_14ff_4ce8_a24f_a04ca61722a34;2010;;Brittney_Parker;null;null;Volume;11253
-12810;d51b2800_13e9_4cbf_990e_111e5d452f538;2022;;Carrie_Morris;null;null;Volume;12385
-11961;2ffaf997_f719_4744_8142_983c334b1797138_2;2010;;Jeffrey_Esparza;null;null;Volume;11224
+11962;6c7e851f_14ff_4ce8_a24f_a04ca61722a34;2010;;Brittney_Parker;null;Data Management;Volume;11253
+12810;d51b2800_13e9_4cbf_990e_111e5d452f538;2022;;Carrie_Morris;null;Data Management;Volume;12385
+11961;2ffaf997_f719_4744_8142_983c334b1797138_2;2010;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12811;baea33cc_0a71_4b2a_9f01_5071f7b1abc913;2022;;Anthony_Dennis;null;Data Management;Volume;12386
-11964;23dc6714_3f22_43eb_8a2e_bd96897f9c3f32_3;2010;;Teresa_Wilson;null;null;Volume;11241
+11964;23dc6714_3f22_43eb_8a2e_bd96897f9c3f32_3;2010;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
 11963;d13e6cb9_ba36_4f7b_ab46_9c057607ad9468;2010;;Teresa_Bailey;null;Data Management;Volume;11246
 11977;2ffaf997_f719_4744_8142_983c334b1797135_2;2009;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12825;aee7917d_222b_4e62_bb83_97ba7719d28f168_1;2018;;Tammy_Russell;null;null;Volume;12398
+12825;aee7917d_222b_4e62_bb83_97ba7719d28f168_1;2018;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11976;33cb7fab_19c0_417d_ba1c_f88428a775aa9_1;2009;;Kevin_West;null;Data Management;Volume;11248
-12826;0aed7a40_85f3_4c66_9e1b_c1556c57001b13;2018;;Cassie_Munoz;null;null;Volume;10854
-11979;a284d466_5406_4377_85aa_a20e0df2bf5453_1;2009;;Theodore_Davis;null;null;Volume;11262
+12826;0aed7a40_85f3_4c66_9e1b_c1556c57001b13;2018;;Cassie_Munoz;null;Geography,Data Management;Volume;10854
+11979;a284d466_5406_4377_85aa_a20e0df2bf5453_1;2009;;Theodore_Davis;null;Data Management;Volume;11262
 12823;4c51f596_2d20_450d_a56d_b63cad91d0c6303;2020;;Laura_Garcia;null;Data Management,Geography;Volume;12397
 11978;cab31350_0612_4ab0_808a_15035928828121;2009;;Alyssa_Riley;null;Data Management;Volume;11261
-12824;6b9b25c9_296d_472b_a8e1_e54c668e35dd131;2019;;Joy_Lynch;null;null;Volume;12394
-12829;6b9b25c9_296d_472b_a8e1_e54c668e35dd77;2014;;Joy_Lynch;null;null;Volume;12394
+12824;6b9b25c9_296d_472b_a8e1_e54c668e35dd131;2019;;Joy_Lynch;null;Data Management,Big Data;Volume;12394
+12829;6b9b25c9_296d_472b_a8e1_e54c668e35dd77;2014;;Joy_Lynch;null;Geography,Data Management;Volume;12394
 12827;6b9b25c9_296d_472b_a8e1_e54c668e35dd103;2017;;Joy_Lynch;null;Big Data,Data Management;Volume;12394
 12828;aee7917d_222b_4e62_bb83_97ba7719d28f156_3;2015;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
-11971;e798376b_f2ba_4c85_9dd7_99e9f529e4d010;2009;;Brittany_Williams;null;null;Volume;11259
+11971;e798376b_f2ba_4c85_9dd7_99e9f529e4d010;2009;;Brittany_Williams;null;Data Management;Volume;11259
 11970;2ffaf997_f719_4744_8142_983c334b1797136_4;2009;;Jeffrey_Esparza;null;Data Processing,Data Management;Volume;11224
 11973;23dc6714_3f22_43eb_8a2e_bd96897f9c3f31_4;2009;;Teresa_Wilson;null;Data Management;Volume;11241
 12821;a8663535_cd95_4bc5_8890_c37e7fb2ae2036;2021;;Jessica_Martinez;null;Geography;Volume;12395
 11972;5e4a860e_a6f7_45d2_bc96_095078db90d640_8;2009;;Lisa_Perry;null;Data Management;Volume;11260
 12822;111644b3_f1fb_4efa_a7cf_9a6b74af6da5107;2020;;Nathan_Gross;null;Data Management,Big Data;Volume;12396
 11975;2ffaf997_f719_4744_8142_983c334b1797135_5;2009;;Jeffrey_Esparza;null;Data Processing,Data Management;Volume;11224
-11974;31233a06_aa49_468c_8e22_f801dc33e6f779_1;2009;;Michael_Jackson;null;Data Management;Volume;11233
+11974;31233a06_aa49_468c_8e22_f801dc33e6f779_1;2009;;Michael_Jackson;null;Materials Science,Data Management;Volume;11233
 12820;6b9b25c9_296d_472b_a8e1_e54c668e35dd161;2021;;Joy_Lynch;null;Data Management;Volume;12394
 11944;2446a1c9_3822_4107_8a20_234d4bcd084342;2012;;Alexis_Miller;null;Data Management;Volume;11232
-11943;6a717a60_0e06_45ad_b70e_26a32bc681429;2012;;Robert_Summers;null;null;Volume;11247
+11943;6a717a60_0e06_45ad_b70e_26a32bc681429;2012;;Robert_Summers;null;Data Management,Data Processing;Volume;11247
 11946;2ffaf997_f719_4744_8142_983c334b1797141_5;2012;;Jeffrey_Esparza;null;Data Management;Volume;11224
 11945;33cb7fab_19c0_417d_ba1c_f88428a775aa12_3;2012;;Kevin_West;null;Data Management;Volume;11248
 11948;c6308b65_ff55_439a_8508_e185daf22f5911;2012;;Amy_Mccarty;null;Data Management,Data Processing;Volume;11249
-11947;31233a06_aa49_468c_8e22_f801dc33e6f782_6;2012;;Michael_Jackson;null;null;Volume;11233
-11949;4be18401_ac0f_4284_886e_67f94717e72713;2012;;David_Bailey;null;null;Volume;11250
+11947;31233a06_aa49_468c_8e22_f801dc33e6f782_6;2012;;Michael_Jackson;null;Data Processing,Data Management;Volume;11233
+11949;4be18401_ac0f_4284_886e_67f94717e72713;2012;;David_Bailey;null;Data Management;Volume;11250
 11940;7485124f_7893_4c7d_8cb0_b1baa4c3aeb625_2;2013;;Kelly_Jackson;null;Data Management;Volume;11245
-11942;d13e6cb9_ba36_4f7b_ab46_9c057607ad9471;2013;;Teresa_Bailey;null;null;Volume;11246
+11942;d13e6cb9_ba36_4f7b_ab46_9c057607ad9471;2013;;Teresa_Bailey;null;Data Management;Volume;11246
 11941;31233a06_aa49_468c_8e22_f801dc33e6f783_2;2013;;Michael_Jackson;null;Data Management,Materials Science;Volume;11233
 11955;2ffaf997_f719_4744_8142_983c334b1797140_1;2011;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12803;9a25ecac_80bf_4e42_80c7_a43bf86fb24120;2022;;Jaime_Meza;null;Data Management;Volume;12381
-11954;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c9_3;2011;;Kevin_Clark;null;null;Volume;11252
-12804;bcceef73_759c_40a8_8d97_2b80648c0e14114;2022;;Henry_Bailey;null;null;Volume;12382
+11954;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c9_3;2011;;Kevin_Clark;null;Materials Science,Data Management;Volume;11252
+12804;bcceef73_759c_40a8_8d97_2b80648c0e14114;2022;;Henry_Bailey;null;Data Management;Volume;12382
 11957;9fa4f4f1_6547_4978_99b0_d1855d126cdc15;2011;;Samantha_Gonzales;null;Data Management;Volume;11244
 12801;c4cce098_67c9_4eb6_9b40_11f7e426310313;2020;;Amy_Washington;null;Data Management;Volume;12380
 11956;2ffaf997_f719_4744_8142_983c334b1797139_5;2011;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12802;3bc0e661_dc2a_454a_9ff5_6515430ce9ff9;2022;;Tara_Cunningham;null;Data Management;Volume;12358
 11959;e1f2b2ea_7393_4401_8e7b_d687d959a76f71;2010;;Lisa_Scott;null;Data Management;Volume;11255
 12807;3bc0e661_dc2a_454a_9ff5_6515430ce9ff79;2022;;Tara_Cunningham;null;Data Management;Volume;12358
-11958;4e7a085c_eaab_4b98_84a9_1e5b7614fafd44;2010;;Bryan_Stevens;null;null;Volume;11254
+11958;4e7a085c_eaab_4b98_84a9_1e5b7614fafd44;2010;;Bryan_Stevens;null;Data Management;Volume;11254
 12808;9a25ecac_80bf_4e42_80c7_a43bf86fb24121;2023;;Jaime_Meza;null;Data Management;Volume;12381
 12805;439d70ad_d909_4791_bdc6_dc765447bd42128;2021;;Crystal_Carr;null;Data Management;Volume;12383
-12806;5b97da83_0106_4e9f_aef2_4c3006afbb2c9;2021;;Candace_Olsen;null;null;Volume;12384
-11951;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c9_4;2011;;Kevin_Clark;null;null;Volume;11252
-11950;6730c732_b29c_4213_8879_61ee1c4cf87762_1;2012;;Jeffery_Brown;null;null;Volume;11251
+12806;5b97da83_0106_4e9f_aef2_4c3006afbb2c9;2021;;Candace_Olsen;null;Data Management;Volume;12384
+11951;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c9_4;2011;;Kevin_Clark;null;Data Processing,Data Management;Volume;11252
+11950;6730c732_b29c_4213_8879_61ee1c4cf87762_1;2012;;Jeffery_Brown;null;Data Management;Volume;11251
 12800;3bedb548_ac57_41b6_b1d9_0ed8aec2fac330;2020;;Larry_Pearson;null;Materials Science;Volume;12379
 11953;6c7e851f_14ff_4ce8_a24f_a04ca61722a35;2011;;Brittney_Parker;null;Data Management;Volume;11253
 11952;4be18401_ac0f_4284_886e_67f94717e72712;2011;;David_Bailey;null;Data Management;Volume;11250
-11919;b9e012b8_6038_4347_9b1f_ff2d6bb6c1be33_3;2017;;Michael_King;null;null;Volume;11235
+11919;b9e012b8_6038_4347_9b1f_ff2d6bb6c1be33_3;2017;;Michael_King;null;Materials Science,Data Management;Volume;11235
 11918;03488962_570a_41fa_af2c_f4d6f945eaa06;2017;;James_Harris;null;Data Management;Volume;11234
-11922;3ff12f84_6af1_4591_815e_7e9bde3c65827;2016;;Jennifer_Lewis;null;null;Volume;11238
+11922;3ff12f84_6af1_4591_815e_7e9bde3c65827;2016;;Jennifer_Lewis;null;Data Management;Volume;11238
 11921;0391d1c1_6372_4781_944d_e3d21facfba917_3;2016;;Garrett_Jones;null;Data Management;Volume;11237
-11924;06c0125a_1b0b_4e9c_9c0c_59a5988f7ca119_1;2016;;Charles_Valdez;null;null;Volume;11239
+11924;06c0125a_1b0b_4e9c_9c0c_59a5988f7ca119_1;2016;;Charles_Valdez;null;Data Management;Volume;11239
 11923;73064ef3_c116_4d69_b91b_90e6b26387ed45;2016;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
-11926;23dc6714_3f22_43eb_8a2e_bd96897f9c3f37_6;2015;;Teresa_Wilson;null;null;Volume;11241
-11925;487e11a9_5eb8_41e8_9eee_b8e3f2f93c3214_2;2016;;John_Martin;null;null;Volume;11240
+11926;23dc6714_3f22_43eb_8a2e_bd96897f9c3f37_6;2015;;Teresa_Wilson;null;Data Management;Volume;11241
+11925;487e11a9_5eb8_41e8_9eee_b8e3f2f93c3214_2;2016;;John_Martin;null;Data Management;Volume;11240
 11928;c9125759_2577_4308_a6aa_8e3ce39e7e5d86_3;2015;;Leslie_Wilson;null;Databases,Data Management;Volume;11242
 11927;137df871_0be4_4ea4_9f85_52b2b36070a3146_9;2015;;Bryan_Taylor;null;Data Management;Volume;10889
-11920;80800125_9008_48bc_ad64_7f8c70b13f9d8;2017;;Daniel_Charles;null;null;Volume;11236
+11920;80800125_9008_48bc_ad64_7f8c70b13f9d8;2017;;Daniel_Charles;null;Data Management;Volume;11236
 11929;c9125759_2577_4308_a6aa_8e3ce39e7e5d85_3;2014;;Leslie_Wilson;null;Data Management;Volume;11242
 11933;23dc6714_3f22_43eb_8a2e_bd96897f9c3f36_1;2014;;Teresa_Wilson;null;Data Management;Volume;11241
 11932;31233a06_aa49_468c_8e22_f801dc33e6f784_2;2014;;Michael_Jackson;null;Data Processing,Data Management;Volume;11233
 11935;9fa4f4f1_6547_4978_99b0_d1855d126cdc18;2014;;Samantha_Gonzales;null;Materials Science,Data Management;Volume;11244
-11934;501527a8_d179_4c3c_a9d2_b7f3bd0ec78119;2014;;Sandra_Smith_MD;null;null;Volume;11243
+11934;501527a8_d179_4c3c_a9d2_b7f3bd0ec78119;2014;;Sandra_Smith_MD;null;Data Management;Volume;11243
 11937;89b43a1b_d783_4c68_829e_0ead529514b27;2013;;Patrick_Burke;null;Data Management;Volume;11228
 11936;e7b43e87_f462_44e0_b6a3_a7e66e14f75412;2013;;Timothy_Estrada;null;Data Management;Volume;10882
-11939;2ffaf997_f719_4744_8142_983c334b1797143_4_Suppl;2013;;Jeffrey_Esparza;null;null;Volume;11224
-11938;2ffaf997_f719_4744_8142_983c334b1797144_1;2013;;Jeffrey_Esparza;null;null;Volume;11224
-11931;5b8fa84c_8f83_422e_96c7_c3fac38103ea14;2014;;Rachel_Lee;null;null;Volume;10897
-11930;31233a06_aa49_468c_8e22_f801dc33e6f784_3;2014;;Michael_Jackson;null;null;Volume;11233
+11939;2ffaf997_f719_4744_8142_983c334b1797143_4_Suppl;2013;;Jeffrey_Esparza;null;Mathematics,Data Management;Volume;11224
+11938;2ffaf997_f719_4744_8142_983c334b1797144_1;2013;;Jeffrey_Esparza;null;Data Management;Volume;11224
+11931;5b8fa84c_8f83_422e_96c7_c3fac38103ea14;2014;;Rachel_Lee;null;Data Management;Volume;10897
+11930;31233a06_aa49_468c_8e22_f801dc33e6f784_3;2014;;Michael_Jackson;null;Data Management;Volume;11233
 11580;64838252_a209_4424_a778_3b86b4a83c48439_2;2011;;Michael_Watson;null;Big Data,Data Management;Volume;11009
 11582;4aac6151_4e52_4a07_b0e7_68b1fdb03117157_Pt_10;2011;;Mark_Rodriguez;null;Big Data,Data Management;Volume;11011
 11581;a8b67272_b576_41c8_affb_5ea4982012a682;2011;;Joshua_Martinez;null;Big Data,Data Management;Volume;11010
 11584;6fa18ffd_a3c3_4260_9a9a_9da6896ec37237;2011;;Joanne_Carroll;null;Big Data,Data Management;Volume;11013
-11583;419fc6db_c7c4_4275_80ef_4b89c59bec1142_3;2011;;Edward_Barry;null;null;Volume;11012
-11586;e8dd3fcd_bb89_4d10_ad54_a929dbd8e1a966_2;2011;;Crystal_Perry;null;null;Volume;11015
+11583;419fc6db_c7c4_4275_80ef_4b89c59bec1142_3;2011;;Edward_Barry;null;Big Data,Data Management;Volume;11012
+11586;e8dd3fcd_bb89_4d10_ad54_a929dbd8e1a966_2;2011;;Crystal_Perry;null;Data Management,Big Data;Volume;11015
 11585;aa061475_8248_43ff_81af_ad4fd4ab06a431;2011;;Amanda_Molina;null;Big Data,Data Management;Volume;11014
 11588;ae7a3201_e479_4666_8a93_3d35d6bf7cd149_49;2010;;Brett_Smith;null;Big Data,Data Management;Volume;10989
 11587;da96c220_cd39_4894_bae6_d2d77c8e7aa939;2010;;Christina_Carr;null;Data Management,Big Data;Volume;11005
-11589;b7109e59_a04f_484e_8561_f00b49e21f5f29;2010;;Chase_Anderson;null;null;Volume;11016
+11589;b7109e59_a04f_484e_8561_f00b49e21f5f29;2010;;Chase_Anderson;null;Big Data,Data Management;Volume;11016
 11591;9e82ad8e_fd51_4f04_a90a_8dc5f52dccab62_1;2010;;Daniel_Wright;null;Big Data,Data Management;Volume;11017
 11590;08ee3346_e195_4333_b008_be3a4f9e23cd1804_8;2010;;Ricardo_Johns;null;Data Management,Big Data;Volume;11002
 11593;30b423bd_bbec_4115_9821_aab00805515931_2;2010;;Travis_Martinez;null;Big Data,Data Management;Volume;11019
 11592;7b32fa10_02cb_49a7_a303_15aa60030b9b30;2010;;Stephanie_Crosby_MD;null;Data Management,Big Data;Volume;11018
 11595;8da4e903_46ea_4063_be7c_e9aee65a6d098;2009;;William_Miller;null;Big Data,Data Management;Volume;11020
-11594;099a2ecc_54f9_42d3_9ea0_0189027aa04f285;2009;;David_Waller;null;null;Volume;10990
+11594;099a2ecc_54f9_42d3_9ea0_0189027aa04f285;2009;;David_Waller;null;Big Data,Data Management;Volume;10990
 11597;08ee3346_e195_4333_b008_be3a4f9e23cd1790_10;2009;;Ricardo_Johns;null;Big Data,Data Management;Volume;11002
 11596;099a2ecc_54f9_42d3_9ea0_0189027aa04f284;2009;;David_Waller;null;Big Data,Data Management;Volume;10990
 11599;dcc71bf1_b117_4dfa_8438_cbf5efdf7aa173;2009;;Ashley_Hobbs;null;Big Data,Data Management;Volume;11022
-11598;cd58c18c_fbae_4a72_bd95_865ed14c76ba20;2009;;Jason_Mckinney;null;null;Volume;11021
+11598;cd58c18c_fbae_4a72_bd95_865ed14c76ba20;2009;;Jason_Mckinney;null;Data Management,Big Data;Volume;11021
 12890;c563eb70_3c1a_4b43_bd83_8215a2719ecb32;2023;;Mrs__Jessica_Daniels_MD;null;Data Management;Volume;12422
 12891;68bcd9d0_b9cf_469d_9206_b4409c150eeb43_4;2022;;Eric_Melton;null;Data Management;Volume;12423
-11560;099a2ecc_54f9_42d3_9ea0_0189027aa04f293;2018;;David_Waller;null;null;Volume;10990
-11569;ced13a92_1aaf_460d_bf1d_18e73127386d31;2015;;Nicole_King;null;null;Volume;11003
+11560;099a2ecc_54f9_42d3_9ea0_0189027aa04f293;2018;;David_Waller;null;Data Management,Data Processing;Volume;10990
+11569;ced13a92_1aaf_460d_bf1d_18e73127386d31;2015;;Nicole_King;null;Big Data,Data Management;Volume;11003
 11562;0aed7a40_85f3_4c66_9e1b_c1556c57001b12;2017;;Cassie_Munoz;null;Big Data,Data Management;Volume;10854
 12894;0f8cb318_e730_4a2c_b328_2d1b8c9a3a0579_4;2022;;Jerry_Reyes;null;Data Management;Volume;12425
-11561;f99f77b7_b1b6_44d3_984a_f288e9884b9b7;2017;;Tanya_Allen;null;null;Volume;10996
+11561;f99f77b7_b1b6_44d3_984a_f288e9884b9b7;2017;;Tanya_Allen;null;Big Data,Data Management;Volume;10996
 12895;f9a08b14_bcba_4a8e_bfa5_22f6856c5ce157;2022;;Jesse_Rios;null;Data Management;Volume;12426
 11564;883c4931_50cd_44e1_a9cb_06b9f8a104a517;2016;;Sheryl_Miller;null;Big Data,Data Management;Volume;10998
 12892;0c81a42e_60a6_4ffb_801e_846184aa6e7482;2022;;Emily_White;null;Data Management;Volume;12424
 11563;2132f348_fc4d_44c0_8717_e40a728868af199;2017;;Wayne_Hudson;null;Big Data,Data Management;Volume;10997
-12893;87c855fc_c59a_4443_832a_e5b1ca14b9f314_9;2022;;Allison_Long;null;null;Volume;10845
+12893;87c855fc_c59a_4443_832a_e5b1ca14b9f314_9;2022;;Allison_Long;null;Data Management;Volume;10845
 11566;ed29e34d_f5a1_46d1_aa25_10e20a98f0637;2016;;Lindsay_Reeves;null;Data Management;Volume;11000
 12898;f0bbc392_36cf_439b_a357_412ea25e570615;2022;;Brittany_Reeves;null;Data Management;Volume;12428
-11565;a7e02317_e329_4136_ae6a_7073c0ecc5cc19_5;2016;;Thomas_Ali;null;null;Volume;10999
+11565;a7e02317_e329_4136_ae6a_7073c0ecc5cc19_5;2016;;Thomas_Ali;null;Big Data,Data Management;Volume;10999
 12899;a96b84b8_8164_4f76_b662_fd016c8a8f8d17;2021;;Paige_Henry;null;Data Management;Volume;12429
 11568;08ee3346_e195_4333_b008_be3a4f9e23cd1863_1;2016;;Ricardo_Johns;null;Data Management,Big Data;Volume;11002
 12896;40742290_7c4b_438e_8bbd_b937a9d707e4111;2022;;Patrick_Baird;null;Data Management;Volume;12427
@@ -193,19 +193,19 @@ id;title;year;publisher;chair;city;area;type;venueId
 12897;fcf68436_815b_41ff_9912_c435ac68766329;2022;;Amanda_Turner;null;Data Management;Volume;11116
 11571;0aed7a40_85f3_4c66_9e1b_c1556c57001b9;2014;;Cassie_Munoz;null;Big Data,Data Management;Volume;10854
 11570;8d09038b_20d2_4a56_99d0_59da6481744023;2014;;Steve_Monroe;null;Data Management,Big Data;Volume;11004
-11573;c8e39466_477c_40ac_9c96_54c7ada401cc12_8;2014;;Julie_Smith;null;null;Volume;11006
+11573;c8e39466_477c_40ac_9c96_54c7ada401cc12_8;2014;;Julie_Smith;null;Data Processing,Data Management;Volume;11006
 11572;da96c220_cd39_4894_bae6_d2d77c8e7aa942;2014;;Christina_Carr;null;Big Data,Data Management;Volume;11005
 11575;f59506a8_d8bb_4101_b3d4_c4ac3ed03dad339;2013;;Roger_Walker;null;Data Management,Data Processing,Big Data;Volume;11008
 11574;6fccd61b_6529_4c58_bb83_76a7ad7596774;2013;;Jesse_Smith;null;Big Data,Data Management;Volume;11007
 11577;099a2ecc_54f9_42d3_9ea0_0189027aa04f287;2012;;David_Waller;null;Big Data,Data Management;Volume;10990
-11576;0aed7a40_85f3_4c66_9e1b_c1556c57001b8;2013;;Cassie_Munoz;null;null;Volume;10854
-11579;e6c1bf53_107b_4771_9d0c_42ab1467717b27_4;2011;;Jessica_Davis;null;null;Volume;10880
+11576;0aed7a40_85f3_4c66_9e1b_c1556c57001b8;2013;;Cassie_Munoz;null;Data Management,Big Data;Volume;10854
+11579;e6c1bf53_107b_4771_9d0c_42ab1467717b27_4;2011;;Jessica_Davis;null;Data Management;Volume;10880
 11578;ae7a3201_e479_4666_8a93_3d35d6bf7cd151_1;2012;;Brett_Smith;null;Big Data,Data Management;Volume;10989
 11548;d1d486ec_2c87_4721_8bca_f399625d18e5120_1;1967;;David_Aguirre;null;Data Processing,Data Management;Volume;10987
 11547;3c26139d_3b45_4ab8_97d3_05924631270515;2004;;Marcus_Hickman;null;Big Data;Volume;10938
 12878;10a4a695_8417_42c7_983d_742df48b3905187;2022;;Michael_Taylor;null;Computer Science;Volume;12412
 11549;67ec2d57_96f9_4eb6_b7a2_b1766aee610a19;2002;;Andrew_Stewart;null;Big Data,Data Management;Volume;10988
-12879;119227a6_1b94_433e_a52d_8445a387dbbe40;2023;;Jennifer_Henry;null;null;Volume;12413
+12879;119227a6_1b94_433e_a52d_8445a387dbbe40;2023;;Jennifer_Henry;null;Computer Science;Volume;12413
 11540;35bf2199_1e1d_4937_92f4_495b221177aa41;2005;;Dr__Karen_Landry_MD;null;Physics;Volume;10982
 12872;d741ad2b_c57e_4b4a_a8b7_1aaeb70d96b410;2016;;Rebecca_Simmons;null;Materials Science;Volume;12407
 12873;5012d97c_98b7_4f53_90cf_1b8eb8c0429565;2020;;Aaron_Walsh;null;Materials Science;Volume;12408
@@ -218,81 +218,81 @@ id;title;year;publisher;chair;city;area;type;venueId
 11543;95963234_0e2e_41cf_ac96_18e60778aa7e38_1_2;2001;;Bradley_Moore;null;Data Management,Big Data;Volume;10984
 12877;be0ad9ff_aa43_4af1_b3b5_4a41c9f81cb022;2022;;Patricia_Garcia_DDS;null;Computer Science;Volume;12411
 11546;6a8258f3_0ded_435c_bc66_5a3af1b5d00543;2005;;Kevin_Anderson;null;Big Data;Volume;10986
-12874;f417b974_1993_4b8d_b05b_6457e1ab02c754;2020;;Joseph_Crosby;null;null;Volume;12409
+12874;f417b974_1993_4b8d_b05b_6457e1ab02c754;2020;;Joseph_Crosby;null;Materials Science;Volume;12409
 11545;6a8258f3_0ded_435c_bc66_5a3af1b5d00544;2006;;Kevin_Anderson;null;Environmental Science;Volume;10986
-12875;d741ad2b_c57e_4b4a_a8b7_1aaeb70d96b413;2019;;Rebecca_Simmons;null;null;Volume;12407
+12875;d741ad2b_c57e_4b4a_a8b7_1aaeb70d96b413;2019;;Rebecca_Simmons;null;Data Processing;Volume;12407
 12880;b92ca8ba_0a3a_4761_84f4_c4153dd65567168;2022;;Nancy_Kim;null;Computer Science;Volume;12414
 11559;09246bed_4d95_4656_9c5b_5ce1b3074cb3179;2019;;Peggy_Shannon;null;Data Management,Data Processing;Volume;10995
 11558;4cef6328_6f94_4a84_a545_b91ed049205e;2019;;Eric_Romero;null;Big Data,Data Management;Volume;10994
 12889;e4d61c90_c789_4d7e_a906_30d2d1c16a8c49;2023;;Darlene_Carey;null;Data Management;Volume;12421
 11551;d1d486ec_2c87_4721_8bca_f399625d18e5124_1;1968;;David_Aguirre;null;Data Processing,Data Management;Volume;10987
-12883;88f368e9_1c91_453a_b74e_b3421b0b3dd73;2020;;Christopher_Olsen;null;null;Volume;12417
+12883;88f368e9_1c91_453a_b74e_b3421b0b3dd73;2020;;Christopher_Olsen;null;Computer Science,Mathematics;Volume;12417
 11550;ae7a3201_e479_4666_8a93_3d35d6bf7cd111_8;1972;;Brett_Smith;null;Data Processing,Data Management;Volume;10989
 12884;b4e58d87_c012_4bee_8e4c_fea04b5094f0113_5;2020;;Scott_Davis;null;Data Management;Volume;12418
 11553;a75714cc_ae87_4828_a0a2_e7f8d57a56328;2021;;Nathaniel_Newman;null;Data Management;Volume;10991
 12881;f8c1288e_7248_48b1_9c43_c80bb91e8cad10;2022;;Timothy_Duran;null;Computer Science;Volume;12415
 11552;099a2ecc_54f9_42d3_9ea0_0189027aa04f298;2022;;David_Waller;null;Data Management;Volume;10990
-12882;64ae7767_9467_4e70_9e31_e4185f9f16ff155;2022;;Erica_Young;null;null;Volume;12416
-11555;7946ed64_b41c_474b_bcba_636664f5df02288;2020;;Robert_Anderson;null;null;Volume;10992
+12882;64ae7767_9467_4e70_9e31_e4185f9f16ff155;2022;;Erica_Young;null;Computer Science;Volume;12416
+11555;7946ed64_b41c_474b_bcba_636664f5df02288;2020;;Robert_Anderson;null;Data Management,Data Processing;Volume;10992
 12887;abc0c598_b988_4841_a8c5_65bfa6f3df7711;2023;;Samuel_Johnson;null;Data Management;Volume;12391
 11554;099a2ecc_54f9_42d3_9ea0_0189027aa04f296;2021;;David_Waller;null;Data Management;Volume;10990
 12888;8c502236_f3b9_40c1_a98f_9929d4f709ae11;2023;;Brandon_Mitchell;null;Data Management;Volume;12420
 11557;ba1150c2_99a1_4ca8_98b9_d2fad1a048ff42;2020;;Abigail_Hernandez;null;Data Processing,Data Management;Volume;10993
-12885;3c77be64_fcd3_444d_a98d_f563ab841a7e14;2022;;Samantha_Mann;null;null;Volume;12419
+12885;3c77be64_fcd3_444d_a98d_f563ab841a7e14;2022;;Samantha_Mann;null;Data Management;Volume;12419
 11556;099a2ecc_54f9_42d3_9ea0_0189027aa04f295;2020;;David_Waller;null;Data Management,Data Processing;Volume;10990
 12886;7fe84005_586f_4604_98ee_fa60fe8ae61810;2020;;Laura_Chambers;null;Data Management;Volume;11285
 11526;f01cecb2_2e15_44d4_97ce_2575886e7d0122;2016;;Andrew_Quinn;null;Data Management;Volume;10969
 12858;aee7917d_222b_4e62_bb83_97ba7719d28f42_1;2005;;Tammy_Russell;null;Mathematics,Data Management;Volume;12398
 11525;7a4a2cd2_0615_44b1_83c3_d07ad89415b411;2016;;Wendy_Johnson;null;Data Management;Volume;10953
 12859;77ea5ab3_9839_4d77_bc43_30bcb5c4ab308;1967;;Jamie_Allen;null;Sociology;Volume;12393
-11528;2454536a_2ddc_47b4_9a0f_4f58f1d261de12;2016;;Eric_Smith;null;null;Volume;10977
+11528;2454536a_2ddc_47b4_9a0f_4f58f1d261de12;2016;;Eric_Smith;null;Data Management;Volume;10977
 12856;77ea5ab3_9839_4d77_bc43_30bcb5c4ab3017;1976;;Jamie_Allen;null;Sociology;Volume;12393
 11527;68c57ab3_56d3_49e7_9eb3_6960b415216348_12;2016;;Janice_Mcintyre;null;Data Management;Volume;10976
 12857;aee7917d_222b_4e62_bb83_97ba7719d28f44_1;1976;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
-11529;a4703d12_de7e_415b_916c_a73b1a57228446;2016;;William_Brooks;null;null;Volume;10852
+11529;a4703d12_de7e_415b_916c_a73b1a57228446;2016;;William_Brooks;null;Data Management;Volume;10852
 12850;f905eaaf_beb0_4c14_a953_2f1c7436a305156;1988;;Nancy_Gordon;null;Big Data,Data Management;Volume;12360
 12851;aee7917d_222b_4e62_bb83_97ba7719d28f69_1;1986;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
-11520;b584320a_9e3c_4c68_a677_a15f68472cb645;2017;;Colleen_Carter;null;null;Volume;10972
+11520;b584320a_9e3c_4c68_a677_a15f68472cb645;2017;;Colleen_Carter;null;Data Management;Volume;10972
 11522;6806a4fd_e465_4e63_aa7f_b8151ddee3a423;2017;;Brian_Flores;null;Data Management;Volume;10974
 12854;aee7917d_222b_4e62_bb83_97ba7719d28f50_1;1978;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11521;32df3807_b551_4342_ae9e_be1854d1e7d8112;2017;;Dawn_Knight;null;Data Management;Volume;10973
 12855;aee7917d_222b_4e62_bb83_97ba7719d28f47_3;1977;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
 11524;1f2e345a_d825_4ce5_ae6d_a0c8c7c7135764_1;2017;;Stacey_Smith;null;Data Management;Volume;10863
-12852;d44f5a05_54b8_4cdc_bf88_feb622ecd0db10;1984;;Cynthia_Brooks;null;null;Volume;12402
-11523;881b5da1_2c82_406b_898a_8c5775424cc319;2017;;Sarah_Stein;null;null;Volume;10975
+12852;d44f5a05_54b8_4cdc_bf88_feb622ecd0db10;1984;;Cynthia_Brooks;null;Big Data;Volume;12402
+11523;881b5da1_2c82_406b_898a_8c5775424cc319;2017;;Sarah_Stein;null;Data Management;Volume;10975
 12853;aee7917d_222b_4e62_bb83_97ba7719d28f53_2;1980;;Tammy_Russell;null;Geography,Data Management;Volume;12398
 11537;99b00e0c_56b4_4079_91b7_0fa64b30b1ca64;2014;;Don_Jordan;null;Data Management;Volume;10979
 12869;2633f5b2_c15c_49fe_80f5_07523e770c26PP;2022;;Mark_Payne;null;Computer Science;Volume;10921
 11536;ffaa4409_29fb_4245_a496_c51b151f9f5f60;2015;;Emily_Beck;null;Data Management;Volume;10954
-11539;da2b0ed8_1760_4b17_98dc_a312d1c13a6a11;1999;;Lauren_Sanders;null;null;Volume;10981
+11539;da2b0ed8_1760_4b17_98dc_a312d1c13a6a11;1999;;Lauren_Sanders;null;Materials Science;Volume;10981
 12867;4b85084f_20f0_4592_a3c6_2f38acb5c0b3103;2022;;Vanessa_Wagner;null;Data Management;Volume;12406
 11538;3d733e72_3b81_451a_afa3_881218de20ae20;2020;;Charles_Phillips;null;Data Management;Volume;10980
-12868;e1b18316_e0d4_4006_aa13_129890a757fc36;2022;;Cindy_Shields;null;null;Volume;12405
+12868;e1b18316_e0d4_4006_aa13_129890a757fc36;2022;;Cindy_Shields;null;Computer Science;Volume;12405
 12861;77ea5ab3_9839_4d77_bc43_30bcb5c4ab306;1965;;Jamie_Allen;null;Data Modeling;Volume;12393
-12862;aee7917d_222b_4e62_bb83_97ba7719d28f22_1;1964;;Tammy_Russell;null;null;Volume;12398
-11531;6806a4fd_e465_4e63_aa7f_b8151ddee3a425_3;2018;;Brian_Flores;null;null;Volume;10974
+12862;aee7917d_222b_4e62_bb83_97ba7719d28f22_1;1964;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
+11531;6806a4fd_e465_4e63_aa7f_b8151ddee3a425_3;2018;;Brian_Flores;null;Data Management;Volume;10974
 11530;6806a4fd_e465_4e63_aa7f_b8151ddee3a422;2015;;Brian_Flores;null;Data Management;Volume;10974
 12860;aee7917d_222b_4e62_bb83_97ba7719d28f25_3;1966;;Tammy_Russell;null;Big Data,Data Management;Volume;12398
-11533;cf1b9554_455e_4565_a1ae_aa7d9a10b8ab54_7;2019;;Gary_Smith;null;null;Volume;10952
+11533;cf1b9554_455e_4565_a1ae_aa7d9a10b8ab54_7;2019;;Gary_Smith;null;Data Management;Volume;10952
 12865;e95c8d18_09be_464f_a3cf_5b2637f0eff616;2020;;Daniel_Esparza;null;Computer Science;Volume;12404
 11532;a82aefe4_5203_4295_b463_46a4506b641b12;2018;;Jessica_Pena;null;Data Management;Volume;10962
 12866;e1b18316_e0d4_4006_aa13_129890a757fc28;2020;;Cindy_Shields;null;Computer Science;Volume;12405
-11535;8103aefe_8d6f_4e98_934f_1c2a571a7b6111;2015;;Angela_Jennings;null;null;Volume;10956
+11535;8103aefe_8d6f_4e98_934f_1c2a571a7b6111;2015;;Angela_Jennings;null;Data Management;Volume;10956
 12863;77ea5ab3_9839_4d77_bc43_30bcb5c4ab302;1961;;Jamie_Allen;null;Sociology;Volume;12393
-11534;d3057fb8_5b74_48cd_90a3_2759a8865dc431_6Special;2018;;Robert_Baker;null;null;Volume;10978
-12864;aea5dd6a_2e1a_4b60_a85b_23b3af6add7e37;2021;;Miss_Miranda_Johnson_DDS;null;null;Volume;12403
+11534;d3057fb8_5b74_48cd_90a3_2759a8865dc431_6Special;2018;;Robert_Baker;null;Data Management;Volume;10978
+12864;aea5dd6a_2e1a_4b60_a85b_23b3af6add7e37;2021;;Miss_Miranda_Johnson_DDS;null;Environmental Science;Volume;12403
 13253;2022_IEEE_International_Conference_on_Robotics_and_Automation;2022;PontificiaUniversidadJaveriana_Bogota;Lisa_Delgado;Indianapoli;Computer Science;Proceeding;13230
 13254;2021_Annual_Conference_on_Genetic_and_Evolutionary_Computation;2021;Scholarena;Maria_Ryan;Basel;Computer Science;Proceeding;13229
 13251;2017_Heart;2017;OpenAccessTextOAT;Deborah_Hill;New York;Data Management;Proceeding;13228
 13252;2018_Annual_Conference_on_Genetic_and_Evolutionary_Computation;2018;PontificiaUniversidadJaveriana_Bogota;Shannon_Rios;Munich;Computer Science;Proceeding;13229
 13257;2022_Parallel_Problem_Solving_from_Nature;2022;AdamMickiewiczUniversity;Colton_Nelson;Tokyo;Computer Science;Proceeding;13232
-13258;2012_Oceans;2012;UniversidadeFederaldoEspiritoSanto;Christopher_Munoz;Nagoya;null;Proceeding;13233
+13258;2012_Oceans;2012;UniversidadeFederaldoEspiritoSanto;Christopher_Munoz;Nagoya;Computer Science;Proceeding;13233
 13255;2022_Annual_Conference_on_Genetic_and_Evolutionary_Computation;2022;ScienceandEducationPublishing;Ashley_Webb;Beijing;Computer Science;Proceeding;13229
 13256;2022_IEEE_Symposium_Series_on_Computational_Intelligence;2022;DeGruyter;Brandy_Higgins;Nagoya;Computer Science;Proceeding;13231
-13259;2015_Oceans;2015;APA;Mr__Matthew_Henderson;Cologne;null;Proceeding;13233
-13220;2017_IEEE_Wireless_Communications_and_Networking_Conference;2017;Emerald;Jamie_Kirk;Cologne;null;Proceeding;13176
-13221;2018_International_Conference_on_Wireless_Communications_and_Signal_Processing;2018;Longdom;Tina_Yang;Nagoya;null;Proceeding;13181
-13224;2017_IEEE_International_Symposium_on_Medical_Measurements_and_Applications;2017;UniversidadedeSaoPaulo;Shannon_Rowe;Nagoya;null;Proceeding;13184
+13259;2015_Oceans;2015;APA;Mr__Matthew_Henderson;Cologne;Data Modeling;Proceeding;13233
+13220;2017_IEEE_Wireless_Communications_and_Networking_Conference;2017;Emerald;Jamie_Kirk;Cologne;Computer Science;Proceeding;13176
+13221;2018_International_Conference_on_Wireless_Communications_and_Signal_Processing;2018;Longdom;Tina_Yang;Nagoya;Computer Science;Proceeding;13181
+13224;2017_IEEE_International_Symposium_on_Medical_Measurements_and_Applications;2017;UniversidadedeSaoPaulo;Shannon_Rowe;Nagoya;Engineering,Computer Science;Proceeding;13184
 13225;2022_International_Conference_on_Communications__Computing__Cybersecurity__and_Informatics;2022;UniversitasNegeriYogyakarta;Roger_Jones;Basel;Computer Science;Proceeding;13185
 13222;2018_Communication_Systems_and_Applications;2018;Medcrave;Michelle_Wade;Munich;Mathematics,Computer Science;Proceeding;13182
 13223;2016_International_Joint_Conference_on_Biomedical_Engineering_Systems_and_Technologies;2016;FabrizioSerra;Laura_Tapia;Munich;Computer Science;Proceeding;13183
@@ -303,20 +303,20 @@ id;title;year;publisher;chair;city;area;type;venueId
 13202;2017_International_Conference_on_Software__Telecommunications_and_Computer_Networks;2017;UniversitasPendidikanIndonesia;Raymond_Mcbride;Philadelphia;Computer Science;Proceeding;13167
 13203;2014_International_Conference_on_Electromagnetics_in_Advanced_Applications;2014;IEEE;Annette_Harvey;Indianapoli;Computer Science;Proceeding;13168
 13200;2013_International_Conference_on_Plasma_Science;2013;Scholarena;Paula_West;Beijing;Physics;Proceeding;13166
-13201;2017_Italian_National_Conference_on_Sensors;2017;AnnexPublishers;Amy_Mclaughlin;Tokyo;null;Proceeding;13163
-13206;2012_Annual_International_Conference_of_the_IEEE_Engineering_in_Medicine_and_Biology_Society;2012;WorldScientific;Gina_Carpenter;Tokyo;null;Proceeding;13170
+13201;2017_Italian_National_Conference_on_Sensors;2017;AnnexPublishers;Amy_Mclaughlin;Tokyo;Data Management,Computer Science;Proceeding;13163
+13206;2012_Annual_International_Conference_of_the_IEEE_Engineering_in_Medicine_and_Biology_Society;2012;WorldScientific;Gina_Carpenter;Tokyo;Computer Science,Data Management;Proceeding;13170
 13207;2011_Annual_International_Conference_of_the_IEEE_Engineering_in_Medicine_and_Biology_Society;2011;BioMedCentral;Peter_Miller;Tokyo;Computer Science,Data Management;Proceeding;13170
-13204;2013_International_Conference_on_Software__Telecommunications_and_Computer_Networks;2013;UniversityofMalaya;Austin_Little;Detroit;null;Proceeding;13167
+13204;2013_International_Conference_on_Software__Telecommunications_and_Computer_Networks;2013;UniversityofMalaya;Austin_Little;Detroit;Computer Science;Proceeding;13167
 13205;2013_International_Symposium_on_High_Performance_Computing_Systems_and_Applications;2013;Nauka;Dalton_Griffin;Beijing;Computer Science;Proceeding;13169
 13210;2012_IEEE_International_Conference_on_Solid_State_and_Integrated_Circuit_Technology;2012;AnnexPublishers;Lisa_Nelson;Munich;Engineering;Proceeding;13173
 13219;2012_International_Conference_on_Control__Automation__Robotics_and_Vision;2012;UniversitasNegeriSurabaya;Cathy_Roy;Nagoya;Computer Science;Proceeding;13180
-13213;2022_Italian_National_Conference_on_Sensors;2022;ScienceandEducationPublishing;Brian_Graham;Beijing;Computer Science,Data Management;Proceeding;13163
-13214;2020_IEEE_Wireless_Communications_and_Networking_Conference;2020;Wiley;Andrea_Duran;Amsterdam;null;Proceeding;13176
+13213;2022_Italian_National_Conference_on_Sensors;2022;ScienceandEducationPublishing;Brian_Graham;Beijing;Data Management;Proceeding;13163
+13214;2020_IEEE_Wireless_Communications_and_Networking_Conference;2020;Wiley;Andrea_Duran;Amsterdam;Computer Science;Proceeding;13176
 13211;2011_International_Conference_on_Computer_Science_and_Application_Engineering;2011;Springer;Rachel_Strong;San Jose;Computer Science;Proceeding;13174
-13212;2017_International_Conference_on_Cloud_Computing_Technologies_and_Applications;2017;UniversityofHawaiiPress;Cynthia_Burke;Munich;null;Proceeding;13175
-13217;2019_ACS/IEEE_International_Conference_on_Computer_Systems_and_Applications;2019;ConscientiaBeam;Nicholas_Gallagher;San Jose;null;Proceeding;13178
-13218;2018_Cloudification_of_the_Internet_of_Things;2018;JSciMedCentral;Dana_Reyes;Paris;null;Proceeding;13179
-13215;2018_International_Conference_on_Cloud_Computing_Technologies_and_Applications;2018;PontificiaUniversidadJaveriana_Bogota;Richard_Rogers;Paris;null;Proceeding;13175
+13212;2017_International_Conference_on_Cloud_Computing_Technologies_and_Applications;2017;UniversityofHawaiiPress;Cynthia_Burke;Munich;Computer Science;Proceeding;13175
+13217;2019_ACS/IEEE_International_Conference_on_Computer_Systems_and_Applications;2019;ConscientiaBeam;Nicholas_Gallagher;San Jose;Computer Science;Proceeding;13178
+13218;2018_Cloudification_of_the_Internet_of_Things;2018;JSciMedCentral;Dana_Reyes;Paris;Computer Science;Proceeding;13179
+13215;2018_International_Conference_on_Cloud_Computing_Technologies_and_Applications;2018;PontificiaUniversidadJaveriana_Bogota;Richard_Rogers;Paris;Computer Science;Proceeding;13175
 13216;2018_ACM_International_Conference_on_Computing_Frontiers;2018;Pleiades;Julie_Morris;Paris;Computer Science;Proceeding;13177
 11481;6bc10a15_943a_45d8_af37_996d0b52574e650_Pt_1;2019;;Gary_Hughes;null;Data Management,Big Data;Volume;10947
 11480;b991305d_80df_469b_8ff5_d44bb281f089205;2019;;Brian_Brown;null;Big Data,Data Management;Volume;10946
@@ -328,43 +328,43 @@ id;title;year;publisher;chair;city;area;type;venueId
 11486;3687d0a0_e583_4c86_b239_50d54566157451;2008;;Richard_Chandler;null;Data Management;Volume;10950
 11489;cf1b9554_455e_4565_a1ae_aa7d9a10b8ab48_7;2013;;Gary_Smith;null;Data Management;Volume;10952
 11488;84f04a9d_f8ad_437d_ab46_cb846d9ce1c156;2014;;Karen_Wilson;null;Data Management;Volume;10826
-11490;7a4a2cd2_0615_44b1_83c3_d07ad89415b44_1;2010;;Wendy_Johnson;null;null;Volume;10953
+11490;7a4a2cd2_0615_44b1_83c3_d07ad89415b44_1;2010;;Wendy_Johnson;null;Data Management;Volume;10953
 11492;02c07c77_4178_40dc_9078_33103ee6bbe720;2022;;Luis_Pacheco;null;Data Management;Volume;10955
 11491;ffaa4409_29fb_4245_a496_c51b151f9f5f75;2022;;Emily_Beck;null;Data Management;Volume;10954
-11494;ffaa4409_29fb_4245_a496_c51b151f9f5f73;2021;;Emily_Beck;null;null;Volume;10954
+11494;ffaa4409_29fb_4245_a496_c51b151f9f5f73;2021;;Emily_Beck;null;Data Management;Volume;10954
 11493;8103aefe_8d6f_4e98_934f_1c2a571a7b6118;2021;;Angela_Jennings;null;Data Management;Volume;10956
-11496;4569c7ff_7138_4cef_b44d_21049e1faa9811;2020;;Mark_Huang;null;null;Volume;10958
+11496;4569c7ff_7138_4cef_b44d_21049e1faa9811;2020;;Mark_Huang;null;Data Management;Volume;10958
 11495;4fd01cba_7929_4bbf_8a48_a5f53815947836;2020;;Barry_Jackson;null;Data Management;Volume;10957
 11498;628b2c24_3d38_4c3f_a05b_b8d595c11e81102;2020;;Eric_Hudson;null;Data Management;Volume;10960
-11497;a25f0f0c_6f67_4e9b_8f42_ffddbf2b3f5536;2020;;Ronald_King;null;null;Volume;10959
+11497;a25f0f0c_6f67_4e9b_8f42_ffddbf2b3f5536;2020;;Ronald_King;null;Data Management;Volume;10959
 11499;ffaa4409_29fb_4245_a496_c51b151f9f5f70_3;2020;;Emily_Beck;null;Data Management;Volume;10954
 11900;69023371_3234_479f_8740_93c23fb6de7721;1994;;Eric_Rodriguez;null;Data Management;Volume;11223
-11902;69023371_3234_479f_8740_93c23fb6de7718;1991;;Eric_Rodriguez;null;null;Volume;11223
-11901;69023371_3234_479f_8740_93c23fb6de7719;1992;;Eric_Rodriguez;null;Materials Science,Data Management;Volume;11223
+11902;69023371_3234_479f_8740_93c23fb6de7718;1991;;Eric_Rodriguez;null;Data Management;Volume;11223
+11901;69023371_3234_479f_8740_93c23fb6de7719;1992;;Eric_Rodriguez;null;Data Management;Volume;11223
 11904;25564909_d7a4_4642_ac87_ffe9b25658072_1;1983;;Joshua_May;null;Data Management;Volume;11225
-11903;2ffaf997_f719_4744_8142_983c334b179793_4;1988;;Jeffrey_Esparza;null;null;Volume;11224
+11903;2ffaf997_f719_4744_8142_983c334b179793_4;1988;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 11906;a3da0b9b_c8ef_4c37_94d3_27c2d2dd4e9079_4;1981;;Alexander_Scott;null;Materials Science,Data Management;Volume;11222
-11905;73064ef3_c116_4d69_b91b_90e6b26387ed11_3;1983;;Brenda_Baker;null;null;Volume;11226
-11908;68156d95_b4c8_4114_a276_cf644a9cc9a022_10;2021;;Stephanie_Salazar;null;null;Volume;11227
+11905;73064ef3_c116_4d69_b91b_90e6b26387ed11_3;1983;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
+11908;68156d95_b4c8_4114_a276_cf644a9cc9a022_10;2021;;Stephanie_Salazar;null;Data Management;Volume;11227
 11907;73064ef3_c116_4d69_b91b_90e6b26387ed8_1;1980;;Brenda_Baker;null;Engineering,Data Management;Volume;11226
 11909;89b43a1b_d783_4c68_829e_0ead529514b216;2021;;Patrick_Burke;null;Data Management;Volume;11228
 11911;935a9916_a515_46a9_bb1b_42e26fdd71498;2020;;Jon_Moore;null;Data Management;Volume;11229
 11910;68156d95_b4c8_4114_a276_cf644a9cc9a021_7;2020;;Stephanie_Salazar;null;Data Management;Volume;11227
-11913;e7b43e87_f462_44e0_b6a3_a7e66e14f7542019_11;2019;;Timothy_Estrada;null;null;Volume;10882
+11913;e7b43e87_f462_44e0_b6a3_a7e66e14f7542019_11;2019;;Timothy_Estrada;null;Data Management;Volume;10882
 11912;2d127d13_aa98_4401_8771_89cf82e15eb226;2020;;Charles_Jensen;null;Data Management,Data Processing;Volume;11230
 11915;2446a1c9_3822_4107_8a20_234d4bcd084348;2018;;Alexis_Miller;null;Materials Science,Data Management;Volume;11232
-11914;8dee3c29_600e_4dc5_94b7_b697ea4d189f11;2019;;Seth_Maldonado;null;null;Volume;11231
+11914;8dee3c29_600e_4dc5_94b7_b697ea4d189f11;2019;;Seth_Maldonado;null;Data Management,Data Processing;Volume;11231
 11917;935a9916_a515_46a9_bb1b_42e26fdd71496;2018;;Jon_Moore;null;Data Processing,Data Management;Volume;11229
-11916;31233a06_aa49_468c_8e22_f801dc33e6f788_6;2018;;Michael_Jackson;null;Data Management;Volume;11233
-13282;2020_Colloquium_in_Information_Science_and_Technology;2020;UniversitasDiponegoro;Dwayne_Harrison;Bridgeport;null;Proceeding;13250
+11916;31233a06_aa49_468c_8e22_f801dc33e6f788_6;2018;;Michael_Jackson;null;Computer Science,Data Management;Volume;11233
+13282;2020_Colloquium_in_Information_Science_and_Technology;2020;UniversitasDiponegoro;Dwayne_Harrison;Bridgeport;Computer Science;Proceeding;13250
 13280;2022_Annual_IEEE_International_Conference_on_Pervasive_Computing_and_Communications;2022;Scholarena;Mark_Daniels;Detroit;Computer Science;Proceeding;13248
 13281;2021_Brazilian_Symposium_in_Information_and_Human_Language_Technology;2021;AdamMickiewiczUniversity;Heather_Flores;Tokyo;Computer Science,Engineering;Proceeding;13249
-13260;2015_European_Signal_Processing_Conference;2015;OpenAccessPub;Calvin_Krause;London;null;Proceeding;13234
-13261;2014_International_Conference_on_Information_Photonics;2014;UniversidaddeBuenosAires;Leslie_King;Indianapoli;null;Proceeding;13235
-13264;2017_Oceans;2017;PontificiaUniversidadJaveriana_Bogota;Teresa_Williams;Munich;null;Proceeding;13233
+13260;2015_European_Signal_Processing_Conference;2015;OpenAccessPub;Calvin_Krause;London;Computer Science;Proceeding;13234
+13261;2014_International_Conference_on_Information_Photonics;2014;UniversidaddeBuenosAires;Leslie_King;Indianapoli;Computer Science;Proceeding;13235
+13264;2017_Oceans;2017;PontificiaUniversidadJaveriana_Bogota;Teresa_Williams;Munich;Computer Science;Proceeding;13233
 13265;2015_Fusion;2015;UniversitasAirlangga;Katie_Osborn;San Jose;Computer Science;Proceeding;13236
-13262;2014_Fusion;2014;ConscientiaBeam;Lonnie_Shaw;Cologne;null;Proceeding;13236
-13263;2019_Oceans;2019;FrancoAngeliEdizioni;Robin_Rhodes;Tokyo;null;Proceeding;13233
+13262;2014_Fusion;2014;ConscientiaBeam;Lonnie_Shaw;Cologne;Computer Science;Proceeding;13236
+13263;2019_Oceans;2019;FrancoAngeliEdizioni;Robin_Rhodes;Tokyo;Computer Science;Proceeding;13233
 13268;2022_International_Conference_on_Multisensor_Fusion_and_Integration_for_Intelligent_Systems;2022;Bentham;Nicole_Larson;Cologne;Computer Science;Proceeding;13239
 13269;2017_International_Radar_Conference;2017;UniversitasDiponegoro;Lauren_Vega;Detroit;Engineering;Proceeding;13240
 13266;2021_IEEE_Military_Communications_Conference;2021;UniversidadeFederaldoRioGrandedoSul;Michael_Osborne;Cologne;Computer Science;Proceeding;13237
@@ -376,36 +376,36 @@ id;title;year;publisher;chair;city;area;type;venueId
 13276;2021_Brazilian_Symposium_on_Software_Quality;2021;OxfordUniversityPress;Jonathan_Cruz;New York;Computer Science;Proceeding;13247
 13273;2020_International_Conference_on_Mobile_Ad_hoc_and_Sensor_Networks;2020;Dovepress;Misty_Thompson_DDS;Munich;Computer Science;Proceeding;13244
 13274;2022_Symposium_on_Intelligent_Systems_and_Informatics;2022;FabrizioSerra;Paul_Zamora;Munich;Computer Science;Proceeding;13245
-13279;2023_Italian_National_Conference_on_Sensors;2023;UniversitasNegeriYogyakarta;Adriana_Ramirez;Philadelphia;null;Proceeding;13163
+13279;2023_Italian_National_Conference_on_Sensors;2023;UniversitasNegeriYogyakarta;Adriana_Ramirez;Philadelphia;Data Management;Proceeding;13163
 13277;2022_Brazilian_Symposium_on_Software_Quality;2022;AdamMickiewiczUniversity;Shawn_Jennings;Munich;Computer Science;Proceeding;13247
-13278;2021_Italian_National_Conference_on_Sensors;2021;PontificiaUniversidadJaveriana_Bogota;Jessica_Johnson;Amsterdam;null;Proceeding;13163
+13278;2021_Italian_National_Conference_on_Sensors;2021;PontificiaUniversidadJaveriana_Bogota;Jessica_Johnson;Amsterdam;Computer Science,Data Management;Proceeding;13163
 11625;4ef3b661_cd03_4a89_9700_bbcfd14a579015_12;2004;;Jennifer_Mendoza;null;Big Data,Data Management;Volume;11035
-12957;5a5e973f_8156_4847_a735_ab72ad7c0279235;2022;;Steven_Alexander;null;null;Volume;12468
+12957;5a5e973f_8156_4847_a735_ab72ad7c0279235;2022;;Steven_Alexander;null;Data Management;Volume;12468
 11624;d9fc0109_f144_4b6b_b9d1_9ba45f0e15665_3;2004;;Robert_Boyd;null;Big Data,Data Management;Volume;11034
-12958;cfb55210_a512_485e_bc6a_278848ed4ad014;2022;;James_Medina;null;null;Volume;12469
+12958;cfb55210_a512_485e_bc6a_278848ed4ad014;2022;;James_Medina;null;Data Management;Volume;12469
 11627;f1120ea3_efbf_429e_ba1b_d51aafc6000b75;2004;;Lisa_Gray;null;Big Data,Data Management;Volume;11037
-12955;1c94bb2e_f9df_43a1_b99b_5590cca7d15f205;2022;;Steven_Shelton;null;null;Volume;12433
+12955;1c94bb2e_f9df_43a1_b99b_5590cca7d15f205;2022;;Steven_Shelton;null;Data Management;Volume;12433
 11626;d8cfd1a0_d8da_4623_af29_0da236626f84163_1;2004;;Jerry_Carter;null;Data Management,Big Data;Volume;11036
 12956;3b97cd32_6247_45c4_953b_f52b2ae4045614;2022;;Phillip_Gilbert;null;Data Management;Volume;12467
-11629;bb8a9b7a_e5e7_4572_b03d_52d99bb0a3b729_3;2004;;Natalie_Knight;null;null;Volume;11038
-11628;e4782337_db2d_4ab2_8eda_a71d1c60709b117;2004;;Shelia_Williams;null;null;Volume;11028
+11629;bb8a9b7a_e5e7_4572_b03d_52d99bb0a3b729_3;2004;;Natalie_Knight;null;Data Management,Big Data;Volume;11038
+11628;e4782337_db2d_4ab2_8eda_a71d1c60709b117;2004;;Shelia_Williams;null;Big Data,Data Management;Volume;11028
 12959;7ae0dfeb_5744_448d_8a6e_ba2e5536c60f16;2022;;Katrina_Carlson;null;Data Management;Volume;12470
 12950;efb990e0_98cc_472c_a0c1_ed9eb218e238134;2022;;Bonnie_Harris;null;Data Management;Volume;12463
 11621;6c8289bb_af7a_4fe0_9174_7850c42777a96_6_Suppl;2005;;Julia_Jones;null;Big Data,Data Management;Volume;11032
 12953;f970b1d5_df9b_4542_958b_775f51e9d3ff12;2022;;Scott_Odonnell;null;Data Management;Volume;10855
-11620;e50fa0dd_7457_4a26_a7c0_add33bb7976261_Pt_5;2005;;Mr__Allen_Walters;null;null;Volume;11031
-12954;d09b5973_03c6_4f1b_a439_a60ab41e0c963;2022;;Kathleen_Hill;null;null;Volume;12466
+11620;e50fa0dd_7457_4a26_a7c0_add33bb7976261_Pt_5;2005;;Mr__Allen_Walters;null;Data Processing,Data Management;Volume;11031
+12954;d09b5973_03c6_4f1b_a439_a60ab41e0c963;2022;;Kathleen_Hill;null;Data Management;Volume;12466
 11623;099a2ecc_54f9_42d3_9ea0_0189027aa04f279;2004;;David_Waller;null;Big Data,Data Management;Volume;10990
 12951;b03ccc0c_818b_4808_9cd0_91da4138445541;2022;;Sarah_Phillips;null;Data Management;Volume;12464
 11622;a7d48414_e40b_4441_829e_d9a349bea6fb344_4;2004;;Catherine_Stewart;null;Big Data,Data Management;Volume;11033
-12952;234eed58_91c0_4682_ac5e_2a86d6d3acdc37;2022;;Stephen_Wolfe;null;null;Volume;12465
+12952;234eed58_91c0_4682_ac5e_2a86d6d3acdc37;2022;;Stephen_Wolfe;null;Data Management;Volume;12465
 11636;162633d6_2b6c_4172_992d_0f61b06cb159104_1;2003;;Brittany_Sullivan;null;Data Processing,Data Management;Volume;11042
-12968;134990b4_0824_4d08_bc6b_61841a023fd435;2021;;Brianna_Wallace;null;null;Volume;12478
+12968;134990b4_0824_4d08_bc6b_61841a023fd435;2021;;Brianna_Wallace;null;Data Management;Volume;12478
 11635;6c24a0a0_b07d_4d7b_a19b_fd09a3ed453a423;2003;;Anne_Williams;null;Big Data,Data Management;Volume;11041
 12969;7dc7ac2b_c4fe_485a_b079_fb51aa8b041039;2021;;Aaron_Cunningham;null;Data Management;Volume;12479
 11638;099a2ecc_54f9_42d3_9ea0_0189027aa04f277;2002;;David_Waller;null;Big Data;Volume;10990
 12966;142347a8_a3f6_4ce4_bc56_09bc8fc9461d8;2022;;Nathaniel_Cummings;null;Data Management;Volume;12461
-11637;868a481d_0e6b_4f1f_b759_30e6e4779200179;2003;;David_Berry;null;null;Volume;11043
+11637;868a481d_0e6b_4f1f_b759_30e6e4779200179;2003;;David_Berry;null;Big Data,Data Management;Volume;11043
 12967;88ae0bef_38b2_4d78_8320_3e60fd55909427;2021;;Andrew_Bennett;null;Data Management;Volume;12477
 11639;7959fdab_81a2_4da4_8f2a_bd5855de5c6e3;2009;;Paula_Roman;null;Computer Science,Data Management,Big Data;Volume;11044
 12960;fa163c38_cef7_424e_9053_5fff5fb46f7444;2022;;Jimmy_Steele;null;Data Management;Volume;12471
@@ -416,30 +416,30 @@ id;title;year;publisher;chair;city;area;type;venueId
 11631;94df828d_8411_48df_8aec_f13101ebb8f418_1;2004;;Joshua_Johnson;null;Big Data,Data Management;Volume;11039
 12965;dfdbcdaf_006b_4347_8298_d580abc9b5d33;2021;;Terry_Patel;null;Psychology;Volume;12476
 11634;d0f8ce9f_9934_4c7b_aad8_7b2bfcf812c125_7;2003;;Matthew_Meyer;null;Big Data,Data Management;Volume;11040
-12962;89ca7d24_44ee_400e_ae17_8c0bf31e76bd26;2021;;Rick_Jackson;null;null;Volume;12473
+12962;89ca7d24_44ee_400e_ae17_8c0bf31e76bd26;2021;;Rick_Jackson;null;Data Management;Volume;12473
 11633;67ec2d57_96f9_4eb6_b7a2_b1766aee610a20;2003;;Andrew_Stewart;null;Big Data,Data Management;Volume;10988
-12963;475e0ab1_7397_4afc_a14b_b65b98cf726f2;2021;;Keith_Massey;null;null;Volume;12474
+12963;475e0ab1_7397_4afc_a14b_b65b98cf726f2;2021;;Keith_Massey;null;Data Management;Volume;12474
 11603;1b9512bd_a4b1_4453_bcaf_9a68592c9dbf53;2009;;Alicia_Fleming;null;Big Data,Data Management;Volume;11024
 12935;038a94ae_c02e_4458_b9ac_0f9c606a6faf14;2022;;Tonya_Schwartz;null;Data Management;Volume;12453
 11602;d1d486ec_2c87_4721_8bca_f399625d18e5483_1;2009;;David_Aguirre;null;Big Data,Data Management;Volume;10987
 12936;0b9a8326_7dab_4e3b_98fb_f2ab5f6b3c1122_6;2022;;Sarah_Bonilla;null;Data Management;Volume;12454
-11605;099a2ecc_54f9_42d3_9ea0_0189027aa04f283;2008;;David_Waller;null;null;Volume;10990
+11605;099a2ecc_54f9_42d3_9ea0_0189027aa04f283;2008;;David_Waller;null;Big Data,Data Management;Volume;10990
 12933;6fe3a1b3_be8f_4bf7_9b30_d8c9fbf0ecb326;2022;;Amy_Gonzalez;null;Data Management;Volume;10833
 11604;52e52381_3a21_433a_9ab9_1f3fcd40e267180;2008;;Kyle_Reid;null;Big Data,Data Management;Volume;11025
-12934;daa33318_0a57_4b4a_bd83_a460acc482a54;2022;;Antonio_Ware;null;null;Volume;12452
+12934;daa33318_0a57_4b4a_bd83_a460acc482a54;2022;;Antonio_Ware;null;Data Management;Volume;12452
 11607;67ec2d57_96f9_4eb6_b7a2_b1766aee610a24;2007;;Andrew_Stewart;null;Big Data,Data Management;Volume;10988
-12939;9f660565_648b_4787_ba70_c4f8be31038e8;2022;;Ronald_Lopez;null;null;Volume;12455
+12939;9f660565_648b_4787_ba70_c4f8be31038e8;2022;;Ronald_Lopez;null;Data Management;Volume;12455
 11606;7946ed64_b41c_474b_bcba_636664f5df02275;2008;;Robert_Anderson;null;Data Processing,Data Management;Volume;10992
-11609;83ff973b_8a0e_4e00_a06a_2cfd9e222de95;2007;;Jonathan_Glenn;null;null;Volume;11026
+11609;83ff973b_8a0e_4e00_a06a_2cfd9e222de95;2007;;Jonathan_Glenn;null;Data Management,Big Data;Volume;11026
 12937;f99f77b7_b1b6_44d3_984a_f288e9884b9b12;2022;;Tanya_Allen;null;Data Management;Volume;10996
 11608;a8b67272_b576_41c8_affb_5ea4982012a666;2007;;Joshua_Martinez;null;Big Data,Data Management;Volume;11010
 12938;e4d61c90_c789_4d7e_a906_30d2d1c16a8c48;2022;;Darlene_Carey;null;Data Management;Volume;12421
 12931;7fb8eddb_8838_4519_b764_4136eafd82259;2023;;Richard_Williams;null;Data Management;Volume;11060
 12932;1af5c9e2_1fe5_4e55_9328_93e039439d4529;2022;;Anthony_Long;null;Data Management;Volume;12451
-11601;0aed7a40_85f3_4c66_9e1b_c1556c57001b4;2009;;Cassie_Munoz;null;null;Volume;10854
+11601;0aed7a40_85f3_4c66_9e1b_c1556c57001b4;2009;;Cassie_Munoz;null;Big Data,Data Management;Volume;10854
 11600;1c130850_66f4_486c_839c_3dc39df267bd609_1_3;2009;;Angel_Nelson;null;Big Data,Data Management;Volume;11023
 12930;af8ad1a0_d946_4ac5_b33f_0f6779b7ac8b35;2023;;Elizabeth_Herring;null;Data Management;Volume;12450
-11614;4fd01cba_7929_4bbf_8a48_a5f53815947823;2007;;Barry_Jackson;null;null;Volume;10957
+11614;4fd01cba_7929_4bbf_8a48_a5f53815947823;2007;;Barry_Jackson;null;Big Data,Data Management;Volume;10957
 12946;018cf672_6d93_4876_88ad_69b5c699f31946;2022;;Theodore_Taylor;null;Data Management;Volume;12460
 11613;7e2781fb_1bb9_4789_8efc_75ccf3b891b511;2007;;Calvin_Valdez;null;Big Data,Data Management;Volume;11029
 12947;142347a8_a3f6_4ce4_bc56_09bc8fc9461d9;2022;;Nathaniel_Cummings;null;Data Management;Volume;12461
@@ -450,21 +450,21 @@ id;title;year;publisher;chair;city;area;type;venueId
 11618;099a2ecc_54f9_42d3_9ea0_0189027aa04f281;2006;;David_Waller;null;Big Data,Data Management;Volume;10990
 11617;2132f348_fc4d_44c0_8717_e40a728868af188;2006;;Wayne_Hudson;null;Data Management,Big Data;Volume;10997
 12948;2d2c0349_4b4f_4695_9099_d19f36f4f312101;2022;;Vernon_Taylor_Jr_;null;Data Management;Volume;11065
-11619;28fc532c_5b16_4c95_9d65_1eba8d1a4cca96_1;2006;;Brandon_Baker;null;null;Volume;11030
+11619;28fc532c_5b16_4c95_9d65_1eba8d1a4cca96_1;2006;;Brandon_Baker;null;Big Data,Data Management;Volume;11030
 12949;441c5671_cab6_440e_8f38_86ebd1b65b7f197;2022;;David_Ortiz;null;Data Management;Volume;12462
-11610;053b3d1e_5fef_414f_95fb_f47bd5fb637251_3;2007;;George_Williams;null;null;Volume;11027
+11610;053b3d1e_5fef_414f_95fb_f47bd5fb637251_3;2007;;George_Williams;null;Big Data,Data Management;Volume;11027
 12942;d07fa807_5206_4c39_8636_bec15ca2c17217;2022;;Ronald_Hamilton;null;Data Management;Volume;12457
-12943;1f732346_014b_468b_af67_371e4fd031b458;2022;;Scott_Lin;null;null;Volume;12448
+12943;1f732346_014b_468b_af67_371e4fd031b458;2022;;Scott_Lin;null;Data Management;Volume;12448
 11612;d1d486ec_2c87_4721_8bca_f399625d18e5461_1;2007;;David_Aguirre;null;Data Management,Big Data;Volume;10987
 12940;38d0873f_b21e_4365_b630_42c46122e64066;2022;;Madison_Brown;null;Data Management;Volume;10859
-11611;e4782337_db2d_4ab2_8eda_a71d1c60709b129;2007;;Shelia_Williams;null;null;Volume;11028
+11611;e4782337_db2d_4ab2_8eda_a71d1c60709b129;2007;;Shelia_Williams;null;Data Management,Big Data;Volume;11028
 12941;9ecbc287_2eb0_418e_a248_8a03952aeeeb38_5;2022;;Timothy_Austin;null;Data Management;Volume;12456
 12908;e28a224b_8ddb_49a6_82d2_17f23c68b30c13;2022;;Alyssa_Reid_DDS;null;Data Management;Volume;12378
-12909;a125adaf_3510_4add_b6a4_6c056090827e2022;2022;;Benjamin_Cochran;null;null;Volume;12435
-12913;64d060d1_e998_4043_a767_82250c4d83e811;2023;;Anita_Jones;null;null;Volume;12438
+12909;a125adaf_3510_4add_b6a4_6c056090827e2022;2022;;Benjamin_Cochran;null;Data Management;Volume;12435
+12913;64d060d1_e998_4043_a767_82250c4d83e811;2023;;Anita_Jones;null;Data Management;Volume;12438
 12914;a97887f8_55ac_4e3c_8ab8_ea943f68b6640;2022;;Amanda_Miller;null;Data Management;Volume;12439
 12911;31dd532d_51f1_4e08_8395_0e1c6c53b16128;2022;;Patricia_Garrett;null;Data Management;Volume;12436
-12912;d5e0c47e_1f80_41d8_a565_44d86b990db39;2022;;Jesse_Perkins;null;null;Volume;12437
+12912;d5e0c47e_1f80_41d8_a565_44d86b990db39;2022;;Jesse_Perkins;null;Data Management;Volume;12437
 12917;f1d65bf7_0efb_4099_9607_0904a843a6ec15;2021;;Emily_Sanchez;null;Data Management;Volume;12441
 12918;e3f97892_c2fd_4b27_99cb_52cda8afc77d2021;2021;;Susan_Shepherd;null;Data Management;Volume;12442
 12915;fe3b42b8_4af0_4a32_870f_e07da5a91be711;2021;;Kelsey_Martinez;null;Data Management;Volume;12440
@@ -474,17 +474,17 @@ id;title;year;publisher;chair;city;area;type;venueId
 12924;bbad8af5_fd53_4350_bdab_df509028737c31;2022;;William_Thompson;null;Data Management;Volume;12447
 12925;1ba961ff_e537_4086_bd6d_efff8817259336;2021;;Lee_Woods;null;Data Management;Volume;10844
 12922;8eabe4e5_3d91_4297_ab8f_475904598d3022;2021;;Sean_Moore;null;Data Management;Volume;10943
-12923;443f46c8_32f9_48fc_912f_db1950b97e4b15;2022;;Michael_Morgan;null;null;Volume;12446
-12928;3bc0e661_dc2a_454a_9ff5_6515430ce9ff10;2023;;Tara_Cunningham;null;null;Volume;12358
+12923;443f46c8_32f9_48fc_912f_db1950b97e4b15;2022;;Michael_Morgan;null;Data Management;Volume;12446
+12928;3bc0e661_dc2a_454a_9ff5_6515430ce9ff10;2023;;Tara_Cunningham;null;Data Management;Volume;12358
 12929;79c59592_820f_4ed1_87df_db795b4326be47;2023;;Marie_Green;null;Data Management;Volume;11201
 12926;1f732346_014b_468b_af67_371e4fd031b457;2021;;Scott_Lin;null;Data Management;Volume;12448
-12927;89174389_1484_4bc9_8cce_54a578224a9f13;2021;;Zachary_Keller;null;null;Volume;12449
+12927;89174389_1484_4bc9_8cce_54a578224a9f13;2021;;Zachary_Keller;null;Data Management;Volume;12449
 12920;040b8cb2_de90_46ee_8899_412df4839ba4436;2022;;Kimberly_Carr;null;Data Management;Volume;12444
 12921;a4e2f9c2_abbd_4f6b_9e06_ffe639dc07e73;2022;;Roy_Schmidt;null;Computer Science;Volume;12445
 12902;39058e09_c13a_4545_a8a3_a75581460bc211;2021;;Nicole_Brown;null;Data Management;Volume;12367
 12903;938045a1_b90a_46d7_a099_5aa234412fdb29;2020;;Cesar_Brooks;null;Data Management;Volume;12431
 12900;721ed878_9136_408b_b2a3_dce27b9fa39e11;2021;;Dr__Danielle_White;null;Data Management;Volume;10903
-12901;459ca45a_35b5_468b_8287_daffcd7d5acc89_12;2018;;Jessica_Roberson;null;null;Volume;12430
+12901;459ca45a_35b5_468b_8287_daffcd7d5acc89_12;2018;;Jessica_Roberson;null;Data Management;Volume;12430
 12906;459ca45a_35b5_468b_8287_daffcd7d5acc94_3;2023;;Jessica_Roberson;null;Data Management;Volume;12430
 12907;3513ce18_3757_4358_b15f_7060af98e6d013;2023;;Kristin_Lopez;null;Data Management;Volume;12434
 12904;baca7f5a_2d4f_4158_b527_ab08fb52845f33;2020;;Jeremy_Jones;null;Data Management;Volume;12432
@@ -492,43 +492,43 @@ id;title;year;publisher;chair;city;area;type;venueId
 11681;3096eb5c_d18c_4877_94cd_28edd3a9c35719;2022;;David_Casey;null;Data Management;Volume;10896
 11680;5340a4ae_5496_40c3_9672_a8e8335c687188_9;2017;;James_Howell;null;Data Management,Physics;Volume;11075
 11683;c4f339b5_3050_4dc9_89f1_c88782e18ea634;2020;;Vanessa_Carr;null;Data Management;Volume;11077
-11682;64f6bc7f_a080_473b_8e71_044beeeadb1370;2021;;Jessica_Hendricks;null;null;Volume;11076
+11682;64f6bc7f_a080_473b_8e71_044beeeadb1370;2021;;Jessica_Hendricks;null;Physics;Volume;11076
 11685;c1269fa2_b51c_4648_bf0c_95797c4a74cd84;2020;;Justin_Wong;null;Mathematics,Data Management;Volume;11079
-11684;b705b89f_7498_41dc_960d_af625d26384714;2020;;Andrea_Johnson;null;null;Volume;11078
+11684;b705b89f_7498_41dc_960d_af625d26384714;2020;;Andrea_Johnson;null;Physics,Computer Science,Data Management;Volume;11078
 11687;7c832ea7_321d_4d93_bbaf_281e9d6649d767;2020;;Linda_Hebert;null;Computer Science,Data Management,Physics;Volume;11080
 11686;f99f77b7_b1b6_44d3_984a_f288e9884b9b10;2020;;Tanya_Allen;null;Data Management;Volume;10996
 11689;f99f77b7_b1b6_44d3_984a_f288e9884b9b9;2019;;Tanya_Allen;null;Data Management,Computer Science;Volume;10996
 11688;d5594aad_095f_4587_802a_b011732c710065;2019;;Annette_Lara;null;Physics,Computer Science,Engineering,Mathematics,Data Management;Volume;11073
 11690;3096eb5c_d18c_4877_94cd_28edd3a9c35716;2019;;David_Casey;null;Data Management,Computer Science;Volume;10896
-11692;843a27f8_8e39_4b78_9b1a_9add1be147ec60;2018;;Linda_Clark;null;null;Volume;11081
+11692;843a27f8_8e39_4b78_9b1a_9add1be147ec60;2018;;Linda_Clark;null;Computer Science;Volume;11081
 11691;c1269fa2_b51c_4648_bf0c_95797c4a74cd81;2018;;Justin_Wong;null;Data Management,Computer Science;Volume;11079
 11694;7c832ea7_321d_4d93_bbaf_281e9d6649d765;2018;;Linda_Hebert;null;Mathematics,Computer Science,Data Management;Volume;11080
-11693;f99f77b7_b1b6_44d3_984a_f288e9884b9b8;2018;;Tanya_Allen;null;null;Volume;10996
-11696;3f47b086_88ae_45dd_a8fb_c831f3d5793847;2018;;Mary_Roberts;null;null;Volume;11082
-11695;d5594aad_095f_4587_802a_b011732c710063;2018;;Annette_Lara;null;null;Volume;11073
-11698;d5594aad_095f_4587_802a_b011732c710062;2017;;Annette_Lara;null;null;Volume;11073
+11693;f99f77b7_b1b6_44d3_984a_f288e9884b9b8;2018;;Tanya_Allen;null;Data Processing,Data Management;Volume;10996
+11696;3f47b086_88ae_45dd_a8fb_c831f3d5793847;2018;;Mary_Roberts;null;Data Management;Volume;11082
+11695;d5594aad_095f_4587_802a_b011732c710063;2018;;Annette_Lara;null;Physics,Data Management;Volume;11073
+11698;d5594aad_095f_4587_802a_b011732c710062;2017;;Annette_Lara;null;Physics,Data Management,Computer Science;Volume;11073
 11697;9742541e_b126_449a_bed9_7b0fcbf875ac56;2018;;Dr__Diane_Prince;null;Computer Science,Data Management;Volume;11083
 11699;4e90b61b_3ae1_4b4c_9348_d67a3825e70344;2017;;Nathaniel_Parker;null;Computer Science,Data Management;Volume;11084
 12990;63d00f11_2ccc_4a43_828f_112015e8c8d117;2021;;Stephanie_Schwartz;null;Data Management;Volume;12494
 11669;2d2c0349_4b4f_4695_9099_d19f36f4f31266;1999;;Vernon_Taylor_Jr_;null;Data Management;Volume;11065
-11668;6ae5af1a_c876_4790_a0a9_2a319cc86eea27_12;1977;;Brian_Weber;null;null;Volume;11064
+11668;6ae5af1a_c876_4790_a0a9_2a319cc86eea27_12;1977;;Brian_Weber;null;Data Processing,Data Management;Volume;11064
 12999;a6889f27_829e_4def_b137_2f8ff6d780a738_7;2021;;Andrew_Odom;null;Data Management;Volume;12501
 11661;8a47ce78_e793_4315_8bf8_b09466ebf63373;2011;;Jason_Hoffman;null;Data Management,Computer Science;Volume;11059
 12993;ffd3d4bf_6f53_4e48_b207_aa066e1481da20;2021;;Amy_Lee;null;Data Management;Volume;12496
 11660;635a0827_5219_4c75_84a2_fab5be8f309f55;2008;;Karen_Brown;null;Computer Science,Mathematics;Volume;11058
 12994;2294caa9_0a4e_478e_9cad_c0218907d49247;2021;;Rhonda_Morris;null;Data Management;Volume;12497
-11663;f6537e0e_c3a9_4de5_bd36_19eda043406515;2018;;Steven_Berry;null;null;Volume;11061
+11663;f6537e0e_c3a9_4de5_bd36_19eda043406515;2018;;Steven_Berry;null;Computer Science,Data Management;Volume;11061
 12991;74db01b0_d520_45d6_ab6b_2e7d09c5d47e59;2021;;David_Solis;null;Data Management;Volume;12495
 11662;7fb8eddb_8838_4519_b764_4136eafd82258;2022;;Richard_Williams;null;Data Management;Volume;11060
 12992;2d2c0349_4b4f_4695_9099_d19f36f4f312100;2021;;Vernon_Taylor_Jr_;null;Data Management;Volume;11065
 11665;e1c5dcc4_7454_4f13_be9e_d45ac7c88ba79;1984;;Wanda_Figueroa;null;Data Management;Volume;11062
-12997;bf20e365_4a9a_44a4_8a2a_6c494a619c6c81;2021;;Martha_Farmer;null;null;Volume;12499
+12997;bf20e365_4a9a_44a4_8a2a_6c494a619c6c81;2021;;Martha_Farmer;null;Data Management;Volume;12499
 11664;0aed7a40_85f3_4c66_9e1b_c1556c57001b7;2012;;Cassie_Munoz;null;Data Management;Volume;10854
-12998;552582e4_8187_4df6_b58a_d69d4f518e1f68;2021;;Robert_Jones;null;null;Volume;12500
+12998;552582e4_8187_4df6_b58a_d69d4f518e1f68;2021;;Robert_Jones;null;Data Management;Volume;12500
 11667;e9143cef_f388_4a2d_a45b_ff3122269f76102_5;1991;;Brooke_Hughes;null;Data Management;Volume;11063
 12995;4046f80e_c458_40c4_bf9d_ae386ef5dbb723;2021;;Christian_Morris;null;Data Management;Volume;12498
-11666;e9143cef_f388_4a2d_a45b_ff3122269f7694_1;1987;;Brooke_Hughes;null;null;Volume;11063
-12996;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593756;2021;;Juan_Price;null;null;Volume;10838
+11666;e9143cef_f388_4a2d_a45b_ff3122269f7694_1;1987;;Brooke_Hughes;null;Data Management;Volume;11063
+12996;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593756;2021;;Juan_Price;null;Data Management;Volume;10838
 11670;30bdceab_df9e_4427_90b4_f53e359a844870;2006;;John_Landry;null;Data Management,Data Processing;Volume;11066
 11679;027ffd21_ebb0_4af8_baf5_911124292fd015;2019;;Janice_Morris;null;Big Data;Volume;11074
 11672;9a414a50_8de5_4489_896f_d9274763de5e17_4;2004;;Christopher_Werner;null;Data Processing,Data Management;Volume;11068
@@ -536,108 +536,108 @@ id;title;year;publisher;chair;city;area;type;venueId
 11674;b35d6d6e_385a_45c9_ba08_6e1e305decb218;2000;;Ryan_Martinez;null;Data Processing,Data Management;Volume;11070
 11673;08073304_0633_423e_8cdb_1029e9fc2ce29_7;2004;;Susan_Ritter;null;Data Processing,Data Management;Volume;11069
 11676;c36994f0_6b03_4e86_9f48_6f6d2b1cc51635;2016;;Jessica_Jackson;null;Materials Science,Data Management;Volume;11072
-11675;9eee5892_5ec1_43c5_8b55_447ccd2ea70992;2007;;Lisa_Martin_MD;null;null;Volume;11071
+11675;9eee5892_5ec1_43c5_8b55_447ccd2ea70992;2007;;Lisa_Martin_MD;null;Computer Science,Data Management;Volume;11071
 11678;c36994f0_6b03_4e86_9f48_6f6d2b1cc51639;2020;;Jessica_Jackson;null;Materials Science,Data Management;Volume;11072
-11677;d5594aad_095f_4587_802a_b011732c710053;2008;;Annette_Lara;null;Data Management,Physics;Volume;11073
-11647;cf0ec57b_6d06_4a44_82c1_6a19b501b57533;2005;;Michael_Lee_DDS;null;Data Processing,Data Management;Volume;11050
-12979;5dbabf54_7b46_498d_88f1_fa9529a98b4576;2021;;Aaron_Luna;null;null;Volume;12486
+11677;d5594aad_095f_4587_802a_b011732c710053;2008;;Annette_Lara;null;Physics,Data Management;Volume;11073
+11647;cf0ec57b_6d06_4a44_82c1_6a19b501b57533;2005;;Michael_Lee_DDS;null;Big Data,Data Management;Volume;11050
+12979;5dbabf54_7b46_498d_88f1_fa9529a98b4576;2021;;Aaron_Luna;null;Data Management;Volume;12486
 11646;07660f33_cb67_4e66_82c2_6ee62c3aa4db43;2011;;Nicole_Hunt;null;Big Data,Data Management;Volume;11049
 11649;d1d486ec_2c87_4721_8bca_f399625d18e5162_1;1974;;David_Aguirre;null;Big Data,Data Management;Volume;10987
 12977;f1171357_7ba5_4560_b4e6_b43e3a4299e87;2021;;Aaron_Mason;null;Data Management;Volume;12484
 11648;be9afb45_f1f8_4ac1_b05d_9f1e9f0c69b614_1;1985;;Philip_Day_DDS;null;Data Processing,Data Management;Volume;11051
 12978;6e66bab1_c83e_45e9_b741_9a7098ee1ce6155;2021;;Sherry_Petty;null;Data Management;Volume;12485
-12971;e6216b43_2428_4aaf_8101_b40e1dfd281011;2021;;Christopher_Delacruz;null;null;Volume;10878
+12971;e6216b43_2428_4aaf_8101_b40e1dfd281011;2021;;Christopher_Delacruz;null;Data Management;Volume;10878
 12972;f970b1d5_df9b_4542_958b_775f51e9d3ff11;2021;;Scott_Odonnell;null;Data Management;Volume;10855
 11641;ae7a3201_e479_4666_8a93_3d35d6bf7cd123_18;1984;;Brett_Smith;null;Data Processing,Data Management;Volume;10989
 11640;21efec4c_c346_4443_a359_e51eecb2ed1873;1999;;Sandra_Calderon;null;Data Management,Data Processing;Volume;11045
 12970;3c497f14_18a8_43f7_835c_06272cacfb4719;2021;;Paul_Martin;null;Data Management;Volume;12480
-11643;d1d486ec_2c87_4721_8bca_f399625d18e5157_1;1973;;David_Aguirre;null;null;Volume;10987
+11643;d1d486ec_2c87_4721_8bca_f399625d18e5157_1;1973;;David_Aguirre;null;Data Processing,Data Management;Volume;10987
 12975;9e320575_6ee8_4e10_a5a8_e5dc78d183b137;2021;;Jennifer_Fisher;null;Data Management;Volume;10836
 11642;abda0c46_826f_441c_8920_70143ffcebc119;1980;;Stephanie_Howard;null;Data Processing,Data Management;Volume;11046
 12976;9cf634df_e30b_4e2a_aeb7_84a126ce8861160;2021;;Matthew_Baxter;null;Data Management;Volume;12483
 11645;506d58d1_dbb7_460e_b0b8_f7218122990d26_6;2013;;Michael_Mccoy;null;Data Processing,Data Management;Volume;11048
 12973;660e7c97_71af_4d68_a87d_536a5ae0c6446;2021;;Richard_Miller;null;Data Management;Volume;12481
 11644;33253921_6a88_4c79_94ba_94575ddf6cf8125;2018;;Elizabeth_Blackburn;null;Data Management,Data Processing;Volume;11047
-12974;dc95b805_f39c_43dd_bf0f_500edd72da1210;2021;;Rachel_Hall;null;null;Volume;12482
+12974;dc95b805_f39c_43dd_bf0f_500edd72da1210;2021;;Rachel_Hall;null;Data Management;Volume;12482
 11658;c7d391f8_08f8_4dc2_8081_c3d96a19f62010;2014;;Alexandria_Maldonado;null;Physics;Volume;11056
-11657;31e5a2db_4e7b_4d3c_9e9b_478ac6b5b54877;2021;;Joseph_Melton;null;null;Volume;11055
-12988;72940023_3102_4629_8810_f4b572d3e7a711;2021;;Robert_Bernard;null;null;Volume;12493
+11657;31e5a2db_4e7b_4d3c_9e9b_478ac6b5b54877;2021;;Joseph_Melton;null;Data Processing;Volume;11055
+12988;72940023_3102_4629_8810_f4b572d3e7a711;2021;;Robert_Bernard;null;Data Management;Volume;12493
 11659;e8ed6f59_efdb_4516_96f6_7b427c9f1c2151_7;1998;;Jacqueline_Todd;null;Data Management;Volume;11057
 12989;9f660565_648b_4787_ba70_c4f8be31038e7;2021;;Ronald_Lopez;null;Data Management;Volume;12455
-11650;d1d486ec_2c87_4721_8bca_f399625d18e5156_1;1973;;David_Aguirre;null;null;Volume;10987
-12982;7bb1399e_c066_4638_baef_d0c5e5fd703f10;2021;;Amy_Roberson;null;null;Volume;12488
+11650;d1d486ec_2c87_4721_8bca_f399625d18e5156_1;1973;;David_Aguirre;null;Data Processing,Data Management;Volume;10987
+12982;7bb1399e_c066_4638_baef_d0c5e5fd703f10;2021;;Amy_Roberson;null;Data Management;Volume;12488
 12983;e53af798_a995_4e58_b6c1_71e02e07d8b2176;2021;;Mr__Raymond_Gardner;null;Data Management;Volume;12489
 11652;c2ed7282_3d57_4734_ac70_51f9bffc136819_1;1970;;Michelle_English;null;Big Data,Data Management;Volume;11052
 12980;f800c0aa_88be_475c_b617_968d392b8be9107;2021;;Andrew_Mcpherson;null;Data Management;Volume;12487
 11651;ae7a3201_e479_4666_8a93_3d35d6bf7cd19_25;1970;;Brett_Smith;null;Data Processing,Data Management;Volume;10989
 12981;a8fbf510_bd2b_4bef_b891_e92832f62a0114;2021;;Sheila_White;null;Data Management;Volume;11165
 11654;db54ab8b_cf08_4de6_b69a_0fae0f4ab99796;2017;;Daniel_Cook;null;Big Data,Data Management;Volume;11053
-12986;ab413836_bd09_4ac1_9835_45a920c0824c73;2021;;Linda_Martin;null;null;Volume;12492
-11653;d1d486ec_2c87_4721_8bca_f399625d18e5134_2;1969;;David_Aguirre;null;null;Volume;10987
-12987;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5839;2021;;Omar_King;null;null;Volume;11138
+12986;ab413836_bd09_4ac1_9835_45a920c0824c73;2021;;Linda_Martin;null;Data Management;Volume;12492
+11653;d1d486ec_2c87_4721_8bca_f399625d18e5134_2;1969;;David_Aguirre;null;Data Processing,Data Management;Volume;10987
+12987;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5839;2021;;Omar_King;null;Data Management;Volume;11138
 11656;81fa84a4_ab77_4f7e_b066_25015e0a69a414;2022;;Mark_Lawson;null;Data Management;Volume;11054
 12984;c1910748_cf51_4346_9f09_55d2a5775843131;2021;;Diana_Lopez;null;Data Management;Volume;12490
 11655;db54ab8b_cf08_4de6_b69a_0fae0f4ab99799;2019;;Daniel_Cook;null;Data Management;Volume;11053
 12985;f9c444e4_07f5_407a_b8bc_db50d89640a5222;2021;;Donna_Travis;null;Data Management;Volume;12491
 12031;5b8fa84c_8f83_422e_96c7_c3fac38103ea22;2022;;Rachel_Lee;null;Data Management;Volume;10897
-12030;23dc6714_3f22_43eb_8a2e_bd96897f9c3f18_4;1996;;Teresa_Wilson;null;null;Volume;11241
+12030;23dc6714_3f22_43eb_8a2e_bd96897f9c3f18_4;1996;;Teresa_Wilson;null;Data Management;Volume;11241
 12033;31233a06_aa49_468c_8e22_f801dc33e6f787_1;2017;;Michael_Jackson;null;Data Management;Volume;11233
-12032;73064ef3_c116_4d69_b91b_90e6b26387ed14;2017;;Brenda_Baker;null;null;Volume;11226
-12035;31233a06_aa49_468c_8e22_f801dc33e6f784_6;2014;;Michael_Jackson;null;null;Volume;11233
-12034;73064ef3_c116_4d69_b91b_90e6b26387ed11;2014;;Brenda_Baker;null;null;Volume;11226
+12032;73064ef3_c116_4d69_b91b_90e6b26387ed14;2017;;Brenda_Baker;null;Data Management;Volume;11226
+12035;31233a06_aa49_468c_8e22_f801dc33e6f784_6;2014;;Michael_Jackson;null;Data Management;Volume;11233
+12034;73064ef3_c116_4d69_b91b_90e6b26387ed11;2014;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
 12037;61c48512_3451_41bc_8418_58b6fecb87ae26_7;2005;;Jonathan_Smith;null;Materials Science,Data Management;Volume;11270
 12036;88cb18f0_37cb_4e35_bc86_27149f8c01f526_1;2007;;David_Dixon;null;Materials Science,Data Management;Volume;11269
 12039;73064ef3_c116_4d69_b91b_90e6b26387ed31_1;2003;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
 12038;61c48512_3451_41bc_8418_58b6fecb87ae25_18;2004;;Jonathan_Smith;null;Materials Science,Data Management;Volume;11270
-12040;d7424ee9_5422_49c6_ad37_0edf4278801526_3;2002;;Bryan_Peters;null;null;Volume;11271
+12040;d7424ee9_5422_49c6_ad37_0edf4278801526_3;2002;;Bryan_Peters;null;Materials Science,Data Management;Volume;11271
 12042;2ffaf997_f719_4744_8142_983c334b1797114_2;1998;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12041;2ffaf997_f719_4744_8142_983c334b1797115_1;1999;;Jeffrey_Esparza;null;null;Volume;11224
+12041;2ffaf997_f719_4744_8142_983c334b1797115_1;1999;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12044;2ffaf997_f719_4744_8142_983c334b1797107_5;1995;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12043;23dc6714_3f22_43eb_8a2e_bd96897f9c3f20_3;1998;;Teresa_Wilson;null;Data Management,Materials Science;Volume;11241
 12046;2ffaf997_f719_4744_8142_983c334b1797105_2;1994;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
-12045;2ffaf997_f719_4744_8142_983c334b1797105_5;1994;;Jeffrey_Esparza;null;null;Volume;11224
+12045;2ffaf997_f719_4744_8142_983c334b1797105_5;1994;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12048;2ffaf997_f719_4744_8142_983c334b1797101_4;1992;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12047;e73fdd29_df4a_4a35_a2e4_2989fb8158c715_6;1993;;Oscar_Anderson;null;null;Volume;11263
-12049;2ffaf997_f719_4744_8142_983c334b1797101_2;1992;;Jeffrey_Esparza;null;null;Volume;11224
+12047;e73fdd29_df4a_4a35_a2e4_2989fb8158c715_6;1993;;Oscar_Anderson;null;Data Management,Materials Science;Volume;11263
+12049;2ffaf997_f719_4744_8142_983c334b1797101_2;1992;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12011;2ffaf997_f719_4744_8142_983c334b1797121_5;2002;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12010;23dc6714_3f22_43eb_8a2e_bd96897f9c3f25_3;2003;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
 12013;2ffaf997_f719_4744_8142_983c334b1797120_1;2001;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12012;31233a06_aa49_468c_8e22_f801dc33e6f771_6;2009;;Michael_Jackson;null;Data Management;Volume;11233
-12015;31233a06_aa49_468c_8e22_f801dc33e6f770_4;2009;;Michael_Jackson;null;null;Volume;11233
+12015;31233a06_aa49_468c_8e22_f801dc33e6f770_4;2009;;Michael_Jackson;null;Materials Science,Data Management;Volume;11233
 12014;23dc6714_3f22_43eb_8a2e_bd96897f9c3f23_1;2001;;Teresa_Wilson;null;Data Management,Materials Science;Volume;11241
 12017;02584f74_19b9_437c_a492_c5e0cb3f2a123_3;1997;;Cody_Smith;null;Materials Science,Data Management;Volume;11267
 12016;2ffaf997_f719_4744_8142_983c334b1797115_6;1999;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12019;e7b43e87_f462_44e0_b6a3_a7e66e14f7542;2017;;Timothy_Estrada;null;Data Management;Volume;10882
 12018;89b43a1b_d783_4c68_829e_0ead529514b215;2021;;Patrick_Burke;null;Data Management;Volume;11228
 12020;12ff2383_9078_4c09_90a3_2549662e589213_1;2012;;Cynthia_Buckley;null;Materials Science,Data Management;Volume;11268
-12022;31233a06_aa49_468c_8e22_f801dc33e6f780_5;2010;;Michael_Jackson;null;null;Volume;11233
+12022;31233a06_aa49_468c_8e22_f801dc33e6f780_5;2010;;Michael_Jackson;null;Materials Science,Data Management;Volume;11233
 12021;e7b43e87_f462_44e0_b6a3_a7e66e14f7546;2011;;Timothy_Estrada;null;Data Management,Materials Science;Volume;10882
 12024;2ffaf997_f719_4744_8142_983c334b1797125_3;2004;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12023;2ffaf997_f719_4744_8142_983c334b1797126_2;2004;;Jeffrey_Esparza;null;null;Volume;11224
+12023;2ffaf997_f719_4744_8142_983c334b1797126_2;2004;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12026;2ffaf997_f719_4744_8142_983c334b1797123_5;2003;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12025;2ffaf997_f719_4744_8142_983c334b1797123_6;2003;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12028;2ffaf997_f719_4744_8142_983c334b1797112_3;1997;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12027;73064ef3_c116_4d69_b91b_90e6b26387ed27_6;1999;;Brenda_Baker;null;null;Volume;11226
+12027;73064ef3_c116_4d69_b91b_90e6b26387ed27_6;1999;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
 12029;69023371_3234_479f_8740_93c23fb6de7723;1996;;Eric_Rodriguez;null;Materials Science,Data Management;Volume;11223
 12000;23dc6714_3f22_43eb_8a2e_bd96897f9c3f25_4;2003;;Teresa_Wilson;null;Data Management,Materials Science;Volume;11241
 12009;e73fdd29_df4a_4a35_a2e4_2989fb8158c728_6;2006;;Oscar_Anderson;null;Data Management;Volume;11263
 12002;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b27;2000;;David_Khan;null;Materials Science,Data Management;Volume;11264
 12001;2ffaf997_f719_4744_8142_983c334b1797123_1;2003;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
-12004;69023371_3234_479f_8740_93c23fb6de7722;1995;;Eric_Rodriguez;null;Data Management;Volume;11223
+12004;69023371_3234_479f_8740_93c23fb6de7722;1995;;Eric_Rodriguez;null;Materials Science,Data Management;Volume;11223
 12003;73064ef3_c116_4d69_b91b_90e6b26387ed24_3;1996;;Brenda_Baker;null;Materials Science,Data Management;Volume;11226
-12006;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b38;2011;;David_Khan;null;Data Management;Volume;11264
+12006;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b38;2011;;David_Khan;null;Psychology,Data Management;Volume;11264
 12005;c3b99574_c0eb_4cfa_ab79_fe4ba0e48b847;2015;;Kevin_Taylor;null;Materials Science,Data Management;Volume;11266
 12008;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b34;2007;;David_Khan;null;Data Management;Volume;11264
-12007;e73fdd29_df4a_4a35_a2e4_2989fb8158c729_6;2007;;Oscar_Anderson;null;null;Volume;11263
+12007;e73fdd29_df4a_4a35_a2e4_2989fb8158c729_6;2007;;Oscar_Anderson;null;Data Management;Volume;11263
 12093;2446a1c9_3822_4107_8a20_234d4bcd084349;2019;;Alexis_Miller;null;Data Management;Volume;11232
 12092;3a9d415c_16c5_4652_9cec_8ec23644a31057;2019;;Jennifer_Thomas;null;Data Management;Volume;11288
-12095;2ffaf997_f719_4744_8142_983c334b1797154;2018;;Jeffrey_Esparza;null;null;Volume;11224
+12095;2ffaf997_f719_4744_8142_983c334b1797154;2018;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12094;137df871_0be4_4ea4_9f85_52b2b36070a3149_8;2018;;Bryan_Taylor;null;Data Management;Volume;10889
 12097;31233a06_aa49_468c_8e22_f801dc33e6f787_6;2017;;Michael_Jackson;null;Data Management;Volume;11233
 12096;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c15_4;2017;;Kevin_Clark;null;Data Management;Volume;11252
 12099;31233a06_aa49_468c_8e22_f801dc33e6f786_4;2016;;Michael_Jackson;null;Data Management;Volume;11233
 12098;31233a06_aa49_468c_8e22_f801dc33e6f787_3;2017;;Michael_Jackson;null;Data Management;Volume;11233
-12091;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b48;2021;;David_Khan;null;null;Volume;11264
+12091;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b48;2021;;David_Khan;null;Data Management;Volume;11264
 12090;0b8373ea_5505_4c96_99ff_b8da87a2ce3e14;2021;;David_Tapia;null;Data Management;Volume;11287
 12071;96fa7399_a724_43de_bec7_f09a913e77da42_12;2008;;Douglas_Tate;null;Data Management;Volume;11277
 12070;e1f2b2ea_7393_4401_8e7b_d687d959a76f72;2011;;Lisa_Scott;null;Data Management;Volume;11255
@@ -648,7 +648,7 @@ id;title;year;publisher;chair;city;area;type;venueId
 12077;946e893f_4e7f_47c5_8544_15aa5a2cc6792021;2021;;Cynthia_Harris;null;Data Management;Volume;11279
 12076;eaddc855_6f2f_4768_9733_2e737c3178f1133;2022;;Christopher_Haley;null;Data Management;Volume;11278
 12079;d02d828e_1157_4ebc_8631_17b50fb8d63b56;2021;;Danielle_Patterson;null;Data Modeling;Volume;11280
-12078;2ffaf997_f719_4744_8142_983c334b1797159_6;2021;;Jeffrey_Esparza;null;null;Volume;11224
+12078;2ffaf997_f719_4744_8142_983c334b1797159_6;2021;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12082;9ea4c186_4b82_4850_832a_67b6e055985027;2019;;Becky_Morgan;null;Data Management;Volume;11282
 12081;a7a9bb88_1841_4875_97b9_4c254629e36092;2019;;Christina_Young;null;Materials Science,Data Management;Volume;11281
 12084;9ea4c186_4b82_4850_832a_67b6e055985026;2018;;Becky_Morgan;null;Computer Science,Data Management;Volume;11282
@@ -659,38 +659,38 @@ id;title;year;publisher;chair;city;area;type;venueId
 12087;7fe84005_586f_4604_98ee_fa60fe8ae61811;2022;;Laura_Chambers;null;Data Management;Volume;11285
 12080;946e893f_4e7f_47c5_8544_15aa5a2cc6792019;2019;;Cynthia_Harris;null;Data Management,Materials Science;Volume;11279
 12089;708dd462_b7d9_47c1_9784_beec1a415d1a34_3;2021;;Gina_Ramos;null;Data Management;Volume;11286
-12051;d3760e1d_a91e_49dd_9988_ed9d0452f9ed2;1988;;Melissa_Davidson;null;null;Volume;11273
-12050;4e18f743_9e2e_4a8e_be5c_196d3d4fed9836_3;1991;;Crystal_Coleman;null;null;Volume;11272
+12051;d3760e1d_a91e_49dd_9988_ed9d0452f9ed2;1988;;Melissa_Davidson;null;Data Management;Volume;11273
+12050;4e18f743_9e2e_4a8e_be5c_196d3d4fed9836_3;1991;;Crystal_Coleman;null;Data Management;Volume;11272
 12053;69023371_3234_479f_8740_93c23fb6de7716;1989;;Eric_Rodriguez;null;Materials Science,Data Management;Volume;11223
-12052;2ffaf997_f719_4744_8142_983c334b179797_4;1990;;Jeffrey_Esparza;null;null;Volume;11224
+12052;2ffaf997_f719_4744_8142_983c334b179797_4;1990;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12055;23dc6714_3f22_43eb_8a2e_bd96897f9c3f34_2;2012;;Teresa_Wilson;null;Data Management;Volume;11241
-12054;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c16_3;2018;;Kevin_Clark;null;null;Volume;11252
+12054;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c16_3;2018;;Kevin_Clark;null;Data Management;Volume;11252
 12057;2d62949d_731e_4426_ad60_a10644f8d1e469_3;2011;;Michael_Fox;null;Data Management;Volume;11274
-12056;31233a06_aa49_468c_8e22_f801dc33e6f781_5;2011;;Michael_Jackson;null;null;Volume;11233
-12059;2ffaf997_f719_4744_8142_983c334b1797120_4;2001;;Jeffrey_Esparza;null;null;Volume;11224
+12056;31233a06_aa49_468c_8e22_f801dc33e6f781_5;2011;;Michael_Jackson;null;Materials Science,Data Management;Volume;11233
+12059;2ffaf997_f719_4744_8142_983c334b1797120_4;2001;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12058;88cb18f0_37cb_4e35_bc86_27149f8c01f528_4;2009;;David_Dixon;null;Data Management,Materials Science;Volume;11269
 12060;e1f2b2ea_7393_4401_8e7b_d687d959a76f62;2001;;Lisa_Scott;null;Data Management;Volume;11255
 12062;23dc6714_3f22_43eb_8a2e_bd96897f9c3f19_3;1997;;Teresa_Wilson;null;Materials Science,Data Management;Volume;11241
 12061;31233a06_aa49_468c_8e22_f801dc33e6f770_3;2009;;Michael_Jackson;null;Data Management;Volume;11233
-12064;b9e012b8_6038_4347_9b1f_ff2d6bb6c1be4_5;1988;;Michael_King;null;null;Volume;11235
+12064;b9e012b8_6038_4347_9b1f_ff2d6bb6c1be4_5;1988;;Michael_King;null;Materials Science,Data Management;Volume;11235
 12063;3db8ee31_df7a_4efb_8843_3a1f74d69a5267_2;1996;;Paula_Mcdaniel;null;Data Management;Volume;11275
 12066;a3da0b9b_c8ef_4c37_94d3_27c2d2dd4e9089_3;1986;;Alexander_Scott;null;Materials Science,Data Management;Volume;11222
 12065;2ffaf997_f719_4744_8142_983c334b179793_6;1988;;Jeffrey_Esparza;null;Materials Science,Data Management;Volume;11224
 12068;5b8fa84c_8f83_422e_96c7_c3fac38103ea15;2015;;Rachel_Lee;null;Data Management;Volume;10897
-12067;1a1d50b2_1f95_4a2e_b61f_54bf38de7cc959_2;1988;;Adam_Bishop;null;null;Volume;11276
+12067;1a1d50b2_1f95_4a2e_b61f_54bf38de7cc959_2;1988;;Adam_Bishop;null;Data Processing,Data Management;Volume;11276
 12069;e1f2b2ea_7393_4401_8e7b_d687d959a76f73_5;2012;;Lisa_Scott;null;Data Management;Volume;11255
 11746;2cdc0127_f574_4970_a7f8_cd87a697518173;1991;;Cathy_Flores;null;Psychology,Data Management;Volume;11109
 11745;7977c11a_cf4e_475b_a4d8_c745002302e033_1;1992;;Steve_Bishop;null;Psychology,Data Management;Volume;11108
 11748;e7b43e87_f462_44e0_b6a3_a7e66e14f7545;2014;;Timothy_Estrada;null;Data Management;Volume;10882
 11747;2c848e20_374c_474b_a180_a4e0cf3cf947187;2021;;Keith_Davidson;null;Data Management;Volume;11110
-11749;a5913268_3957_484f_b41f_347b0ba2333828_29;2010;;Laura_Leach;null;null;Volume;11111
+11749;a5913268_3957_484f_b41f_347b0ba2333828_29;2010;;Laura_Leach;null;Data Management;Volume;11111
 11740;82729fea_ffb5_498a_a331_13bfd468fd9827;2018;;Sandra_Lawrence;null;Data Management;Volume;11103
 11742;16c9f9d4_bee1_435d_8c85_22a3deba109d63_24;1989;;Tammy_Miller;null;Physics,Data Management;Volume;11105
 11741;81e68a6f_c697_42eb_84a8_8b4e6f9efee0273;2019;;Christopher_Patel;null;Data Management;Volume;11104
-11744;99ae3ef5_4e47_479f_a4cb_3c5f20c0e4c322;2017;;Benjamin_Arnold;null;null;Volume;11107
+11744;99ae3ef5_4e47_479f_a4cb_3c5f20c0e4c322;2017;;Benjamin_Arnold;null;Data Management;Volume;11107
 11743;63e2bb2d_3e51_4550_b8b2_5ba5358cf0cd9;1988;;Vanessa_Williams;null;Psychology,Data Management;Volume;11106
-11757;02bf11d4_dd88_4e0e_b7c4_084d3fa17c2f111_5_Pt_1;2003;;Peter_Faulkner;null;null;Volume;10840
-11756;fcf68436_815b_41ff_9912_c435ac6876636;1999;;Amanda_Turner;null;null;Volume;11116
+11757;02bf11d4_dd88_4e0e_b7c4_084d3fa17c2f111_5_Pt_1;2003;;Peter_Faulkner;null;Data Management;Volume;10840
+11756;fcf68436_815b_41ff_9912_c435ac6876636;1999;;Amanda_Turner;null;Data Management;Volume;11116
 11759;7dbe09db_be44_4485_9711_8986e1c3bd6d9;2000;;Lori_Webb;null;Data Management;Volume;11113
 11758;36e5261f_bb6f_4ee4_9902_e03fb40aab4d36;2000;;Carol_Mays;null;Data Management;Volume;10858
 12609;a83e1f69_9a4a_4cbd_9d0c_e71604badfed62_7;1996;;Erin_Mendoza;null;Data Management,Big Data;Volume;12229
@@ -706,12 +706,12 @@ id;title;year;publisher;chair;city;area;type;venueId
 11725;96513e74_195a_4370_8dc0_e2964f7ef579107_3;2011;;Andre_Hart;null;Data Management,Big Data;Volume;11098
 11728;843a27f8_8e39_4b78_9b1a_9add1be147ec53;2011;;Linda_Clark;null;Physics;Volume;11081
 11727;e41c8545_7b07_466f_9ca8_d4646e191c6b32;2011;;Alex_Christensen;null;Data Management,Physics;Volume;11093
-11729;d5594aad_095f_4587_802a_b011732c710055;2010;;Annette_Lara;null;Physics,Data Management;Volume;11073
+11729;d5594aad_095f_4587_802a_b011732c710055;2010;;Annette_Lara;null;Physics,Computer Science,Data Management;Volume;11073
 11720;65942670_5af0_429d_ab4c_2d7b0f183293154_1;2013;;Andrew_Benjamin_Jr_;null;Data Modeling,Data Management;Volume;11089
-11722;c1269fa2_b51c_4648_bf0c_95797c4a74cd68;2012;;Justin_Wong;null;null;Volume;11079
+11722;c1269fa2_b51c_4648_bf0c_95797c4a74cd68;2012;;Justin_Wong;null;Materials Science,Data Management;Volume;11079
 11721;6faaccca_1cc4_45a9_aeb6_96a4901d2606101;2013;;Teresa_Bishop;null;Computer Science,Engineering;Volume;11096
-11735;de68e773_010d_4e66_b07c_f6c953a0a74258_2;2020;;Cameron_Rhodes;null;null;Volume;11100
-11734;b2efae4d_12bc_4bff_be77_15be9dd41bed24_5;2016;;Virginia_Garcia;null;null;Volume;11099
+11735;de68e773_010d_4e66_b07c_f6c953a0a74258_2;2020;;Cameron_Rhodes;null;Data Management;Volume;11100
+11734;b2efae4d_12bc_4bff_be77_15be9dd41bed24_5;2016;;Virginia_Garcia;null;Data Management;Volume;11099
 11737;de68e773_010d_4e66_b07c_f6c953a0a74255_7;2017;;Cameron_Rhodes;null;Data Management;Volume;11100
 11736;7582d58f_ddb7_4a43_8b50_73d3fa4e5ab621;2017;;Joshua_Shaw;null;Data Management;Volume;11101
 11739;dd6277ff_dc70_4098_b57b_50e7cbadf79122;2019;;Erica_Jensen;null;Data Management;Volume;11102
@@ -719,35 +719,35 @@ id;title;year;publisher;chair;city;area;type;venueId
 11731;d5594aad_095f_4587_802a_b011732c710054;2009;;Annette_Lara;null;Data Management,Physics,Computer Science;Volume;11073
 11730;6faaccca_1cc4_45a9_aeb6_96a4901d260697;2009;;Teresa_Bishop;null;Physics,Computer Science;Volume;11096
 11733;7c832ea7_321d_4d93_bbaf_281e9d6649d758;2011;;Linda_Hebert;null;Physics,Computer Science,Data Management;Volume;11080
-11732;c36994f0_6b03_4e86_9f48_6f6d2b1cc51634;2015;;Jessica_Jackson;null;null;Volume;11072
+11732;c36994f0_6b03_4e86_9f48_6f6d2b1cc51634;2015;;Jessica_Jackson;null;Physics,Data Management;Volume;11072
 11702;a3e988bb_643d_41bf_9ab8_878cf16f0f0b32;2016;;Mrs__Ashley_Reyes;null;Materials Science,Data Management;Volume;11086
-11701;c4f339b5_3050_4dc9_89f1_c88782e18ea630;2016;;Vanessa_Carr;null;null;Volume;11077
+11701;c4f339b5_3050_4dc9_89f1_c88782e18ea630;2016;;Vanessa_Carr;null;Materials Science,Data Management;Volume;11077
 11704;892f3272_9af6_487e_a039_6f33565bc93a2;2016;;Sarah_Schroeder;null;Data Management,Physics,Materials Science;Volume;11088
 11703;d473a005_6b7d_4034_9a1f_5b5dd3f28ade269;2016;;Robert_Holland;null;Data Management,Physics;Volume;11087
 11706;65942670_5af0_429d_ab4c_2d7b0f183293168_1;2016;;Andrew_Benjamin_Jr_;null;Environmental Science,Data Management;Volume;11089
 11705;c1269fa2_b51c_4648_bf0c_95797c4a74cd75;2014;;Justin_Wong;null;Computer Science,Data Management;Volume;11079
-11708;6af6fcdf_c23f_497f_b235_b9f2650f10fb10;2015;;Catherine_Klein;null;null;Volume;11091
+11708;6af6fcdf_c23f_497f_b235_b9f2650f10fb10;2015;;Catherine_Klein;null;Data Management;Volume;11091
 11707;be49fbbc_4c54_404a_888f_d583dc861b2328;2015;;Sarah_Herrera;null;Materials Science,Data Management;Volume;11090
 11700;aacfcc43_8720_44cd_9601_b7fafee211ec7_1;2017;;Diana_Rivera;null;Computer Science,Data Management;Volume;11085
 11709;64f6bc7f_a080_473b_8e71_044beeeadb1363;2015;;Jessica_Hendricks;null;Physics;Volume;11076
 11713;d5594aad_095f_4587_802a_b011732c710059;2014;;Annette_Lara;null;Physics,Materials Science,Data Management;Volume;11073
 11712;9eee5892_5ec1_43c5_8b55_447ccd2ea709107;2014;;Lisa_Martin_MD;null;Data Management;Volume;11071
-11715;31ed8097_d3fa_4b0e_b697_13245911657850;2014;;Eric_Hall;null;null;Volume;11094
-11714;e41c8545_7b07_466f_9ca8_d4646e191c6b35;2014;;Alex_Christensen;null;null;Volume;11093
+11715;31ed8097_d3fa_4b0e_b697_13245911657850;2014;;Eric_Hall;null;Physics;Volume;11094
+11714;e41c8545_7b07_466f_9ca8_d4646e191c6b35;2014;;Alex_Christensen;null;Data Management,Physics;Volume;11093
 11717;e41c8545_7b07_466f_9ca8_d4646e191c6b34;2013;;Alex_Christensen;null;Data Management,Computer Science;Volume;11093
 11716;3f47b086_88ae_45dd_a8fb_c831f3d5793839;2014;;Mary_Roberts;null;Materials Science,Data Management;Volume;11082
 11719;a3e988bb_643d_41bf_9ab8_878cf16f0f0b29;2013;;Mrs__Ashley_Reyes;null;Computer Science,Data Management;Volume;11086
 11718;5f90d53c_5e66_4723_bf61_fca98e4d66bc25;2013;;Stephen_Rogers;null;Environmental Science,Data Management;Volume;11095
 11711;0af9a05c_3f93_4bee_b183_09d59ce0d2ae37_4;2015;;Kayla_Chavez;null;Materials Science,Data Management;Volume;10874
-11710;fa2a979b_17d2_4317_9a21_21549d13edbe33_5;2015;;Linda_Cooper;null;null;Volume;11092
-12670;9a8e51fc_bb44_46e6_9d49_15b314f2f76a27_5;2011;;Jonathan_Evans;null;null;Volume;12297
-12671;b79026fc_02f6_45a6_868c_48196bfd74b3125_2;2017;;Kristy_Phillips;null;null;Volume;12311
-11340;083c6c99_5d39_4452_88c4_2963e15f8a0f9;2022;;Gina_Schultz;null;null;Volume;10841
-11349;87c855fc_c59a_4443_832a_e5b1ca14b9f313;2021;;Allison_Long;null;null;Volume;10845
-11342;c2ae00e7_6d19_4234_aace_a3bf6fd21bd510;2022;;Steven_Lindsey;null;null;Volume;10843
-12674;4c9f7a4b_ccca_4b8a_86cc_a9eb7d09e64d27;2013;;Kayla_Mooney;null;null;Volume;12313
+11710;fa2a979b_17d2_4317_9a21_21549d13edbe33_5;2015;;Linda_Cooper;null;Computer Science,Data Management;Volume;11092
+12670;9a8e51fc_bb44_46e6_9d49_15b314f2f76a27_5;2011;;Jonathan_Evans;null;Data Management;Volume;12297
+12671;b79026fc_02f6_45a6_868c_48196bfd74b3125_2;2017;;Kristy_Phillips;null;Data Management;Volume;12311
+11340;083c6c99_5d39_4452_88c4_2963e15f8a0f9;2022;;Gina_Schultz;null;Data Management;Volume;10841
+11349;87c855fc_c59a_4443_832a_e5b1ca14b9f313;2021;;Allison_Long;null;Data Management;Volume;10845
+11342;c2ae00e7_6d19_4234_aace_a3bf6fd21bd510;2022;;Steven_Lindsey;null;Data Management;Volume;10843
+12674;4c9f7a4b_ccca_4b8a_86cc_a9eb7d09e64d27;2013;;Kayla_Mooney;null;Data Management;Volume;12313
 11341;1e4a008c_edf0_4c4b_bb78_3cd64864a66d38;2022;;Jessica_Cherry;null;Data Management;Volume;10842
-12675;036ad3ea_438d_4b9f_91a9_e20258c1c1ab15;2021;;Hannah_Cox;null;null;Volume;12314
+12675;036ad3ea_438d_4b9f_91a9_e20258c1c1ab15;2021;;Hannah_Cox;null;Data Management;Volume;12314
 11344;87c855fc_c59a_4443_832a_e5b1ca14b9f314;2022;;Allison_Long;null;Data Management;Volume;10845
 12672;c67f46ce_a9b2_490a_927e_7f4f20fe58ca18;2017;;Jerry_Butler;null;Data Management;Volume;12312
 11343;1ba961ff_e537_4086_bd6d_efff8817259337;2022;;Lee_Woods;null;Data Management;Volume;10844
@@ -763,52 +763,52 @@ id;title;year;publisher;chair;city;area;type;venueId
 12681;0aed7a40_85f3_4c66_9e1b_c1556c57001b15;2020;;Cassie_Munoz;null;Data Processing,Data Management;Volume;10854
 12682;1c43f64e_a318_4124_b165_ceb894d2614b31;2020;;Hannah_Burgess;null;Data Management;Volume;12318
 11351;d850c91b_e0e8_4274_9af3_aceea14c9f2b21;2021;;Kevin_Rodriguez;null;Data Management;Volume;10850
-11350;3e04c9ce_dd66_4cdf_a0f5_e041fb69da3439_3;2021;;Thomas_Garcia;null;null;Volume;10849
-12680;2bbc1e45_4074_471d_b003_2c8f5a99cdb069;2021;;James_Mathis;null;null;Volume;12317
+11350;3e04c9ce_dd66_4cdf_a0f5_e041fb69da3439_3;2021;;Thomas_Garcia;null;Data Management;Volume;10849
+12680;2bbc1e45_4074_471d_b003_2c8f5a99cdb069;2021;;James_Mathis;null;Data Management;Volume;12317
 12207;2a65d17a_afd8_466e_aff3_e0d0fbc84fb015;2021;;Mark_Cabrera;null;Computer Science;Volume;11322
-11353;a4703d12_de7e_415b_916c_a73b1a57228451;2021;;William_Brooks;null;null;Volume;10852
-12200;2633f5b2_c15c_49fe_80f5_07523e770c2611;2023;;Mark_Payne;null;null;Volume;10921
+11353;a4703d12_de7e_415b_916c_a73b1a57228451;2021;;William_Brooks;null;Data Management;Volume;10852
+12200;2633f5b2_c15c_49fe_80f5_07523e770c2611;2023;;Mark_Payne;null;Computer Science;Volume;10921
 12685;47a1ad5f_9613_4439_a6e7_23447c4caa762018;2018;;Maria_Flynn;null;Data Management;Volume;12320
 11352;2ae18de8_1e0b_4f92_9aa3_866ffc4f36e7100;2021;;Kimberly_Lopez;null;Data Management;Volume;10851
-12686;633d8545_faa6_48ee_a897_b4d5c704498238;2018;;Jessica_Gonzalez;null;null;Volume;12299
+12686;633d8545_faa6_48ee_a897_b4d5c704498238;2018;;Jessica_Gonzalez;null;Data Management;Volume;12299
 11355;0aed7a40_85f3_4c66_9e1b_c1556c57001b16;2020;;Cassie_Munoz;null;Data Management;Volume;10854
 12202;20298d29_1b7a_4631_8e1d_e0a5d34bcf58201;2022;;Anthony_Holmes;null;Computer Science;Volume;11317
 12683;633d8545_faa6_48ee_a897_b4d5c704498240;2020;;Jessica_Gonzalez;null;Data Management;Volume;12299
 11354;7772097c_b1d3_46a7_bf87_67895f6ce34e200;2021;;Craig_Harrington;null;Data Management;Volume;10853
 12201;477368e9_7a8e_475a_8c93_6d623797fd0682;2022;;Dr__Kerri_Mccullough;null;Computer Science;Volume;11190
-12684;df1913f1_cfa0_4930_8ff1_40ba37f8ee8926;2019;;Mary_Klein;null;null;Volume;12319
+12684;df1913f1_cfa0_4930_8ff1_40ba37f8ee8926;2019;;Mary_Klein;null;Data Management;Volume;12319
 11357;f970b1d5_df9b_4542_958b_775f51e9d3ff10;2020;;Scott_Odonnell;null;Data Management;Volume;10855
 12204;e46002a1_d7a6_4681_aae9_36bc3a6a1f93609;2022;;Jesse_Benton;null;Computer Science;Volume;11319
 12689;eb562aa5_3004_462b_b2ba_345a50718def234;2017;;Kyle_Holmes;null;Data Management;Volume;12296
 11356;5b038cf2_48f9_4e70_af31_2d49a688397323;2020;;Brandon_Jacobson;null;Data Management;Volume;10837
-12203;9a037417_d032_481a_bb54_de987ec2138b38;2021;;Sherry_Gardner;null;null;Volume;11318
+12203;9a037417_d032_481a_bb54_de987ec2138b38;2021;;Sherry_Gardner;null;Computer Science;Volume;11318
 11359;5b038cf2_48f9_4e70_af31_2d49a688397321;2020;;Brandon_Jacobson;null;Data Management;Volume;10837
 12206;eb83052e_28c9_4a33_a49b_05885d2e59cd18;2021;;Helen_Perez;null;Computer Science;Volume;11321
-12687;55752572_d3be_433f_ab1a_696fccc33d3796;2018;;Timothy_Peck;null;null;Volume;12321
+12687;55752572_d3be_433f_ab1a_696fccc33d3796;2018;;Timothy_Peck;null;Data Management;Volume;12321
 11358;30d1069f_6a28_463f_b0a0_ce52fc92a43b41;2020;;Joseph_Stewart;null;Data Management;Volume;10856
 12205;79ad5602_fbe4_4a5b_bef3_33f97391006112;2021;;Richard_Morris;null;Data Management;Volume;11320
-12688;9a8e51fc_bb44_46e6_9d49_15b314f2f76a33_5;2017;;Jonathan_Evans;null;null;Volume;12297
+12688;9a8e51fc_bb44_46e6_9d49_15b314f2f76a33_5;2017;;Jonathan_Evans;null;Data Management;Volume;12297
 11328;608d1381_605d_49f6_9034_c2be962c47ed37;2022;;Katrina_Guerra;null;Data Management;Volume;10829
 11327;ad2ae6f7_53e8_442e_900a_bd9ab7ff386580;2016;;Kenneth_Perry;null;Data Management;Volume;10828
-12658;f9a8608a_8ca7_4320_9f68_cda1920f02ef78_4;2015;;Marcus_Willis;null;null;Volume;12307
+12658;f9a8608a_8ca7_4320_9f68_cda1920f02ef78_4;2015;;Marcus_Willis;null;Data Management;Volume;12307
 11329;a4741bf7_4054_46a3_9a60_4fa620df8a8432_3;2022;;Michelle_Cordova;null;Data Management;Volume;10830
 12659;9a8e51fc_bb44_46e6_9d49_15b314f2f76a30_6;2014;;Jonathan_Evans;null;Data Management;Volume;12297
-12652;9a8e51fc_bb44_46e6_9d49_15b314f2f76a34_1;2018;;Jonathan_Evans;null;null;Volume;12297
+12652;9a8e51fc_bb44_46e6_9d49_15b314f2f76a34_1;2018;;Jonathan_Evans;null;Data Management;Volume;12297
 12653;e7b43e87_f462_44e0_b6a3_a7e66e14f75411;2016;;Timothy_Estrada;null;Data Management;Volume;10882
 12650;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a914_3;2021;;Nicholas_Cline;null;Data Management;Volume;12303
 12651;633d8545_faa6_48ee_a897_b4d5c704498239;2019;;Jessica_Gonzalez;null;Data Management;Volume;12299
 11324;791be2d4_5c56_4b33_82a0_e4b4e1c3c03a64;2020;;Colin_Walton;null;Data Management;Volume;10825
-12656;c153b7e8_cddf_439c_b1b9_03015ea24ae350_2;2015;;Ms__Lindsey_Ryan;null;null;Volume;12306
+12656;c153b7e8_cddf_439c_b1b9_03015ea24ae350_2;2015;;Ms__Lindsey_Ryan;null;Data Management;Volume;12306
 11323;b6b26b43_2fef_41ad_98b9_af7ba33afa6b97_Suppl_6;2014;;Joshua_Phillips;null;Data Management;Volume;10824
 12657;9a8e51fc_bb44_46e6_9d49_15b314f2f76a31;2015;;Jonathan_Evans;null;Data Management;Volume;12297
 11326;59e71779_6ef3_462a_a8bf_6f9a1b7ed54a19;2018;;Terri_Riley;null;Data Management;Volume;10827
 12654;f5279917_ce2b_489d_8c2f_8a8f80a35559101;2016;;Elizabeth_Dunn;null;Data Management;Volume;12304
 11325;84f04a9d_f8ad_437d_ab46_cb846d9ce1c162;2020;;Karen_Wilson;null;Data Management;Volume;10826
-12655;25f17581_d89b_4e7e_ab83_d296c3b83fe52015;2015;;Cheryl_Hopkins;null;null;Volume;12305
+12655;25f17581_d89b_4e7e_ab83_d296c3b83fe52015;2015;;Cheryl_Hopkins;null;Data Management;Volume;12305
 12660;9a8e51fc_bb44_46e6_9d49_15b314f2f76a30;2014;;Jonathan_Evans;null;Data Management;Volume;12297
-11339;02bf11d4_dd88_4e0e_b7c4_084d3fa17c2f150_Suppl_2;2022;;Peter_Faulkner;null;null;Volume;10840
+11339;02bf11d4_dd88_4e0e_b7c4_084d3fa17c2f150_Suppl_2;2022;;Peter_Faulkner;null;Data Management;Volume;10840
 11338;45027b81_e224_4f73_928d_0b0c20009a7f39;2023;;Alexander_Pearson;null;Data Management;Volume;10839
-12669;db907544_7b99_4dda_be97_59971fe1740d42_5;2011;;Johnny_Nichols;null;null;Volume;12310
+12669;db907544_7b99_4dda_be97_59971fe1740d42_5;2011;;Johnny_Nichols;null;Data Management;Volume;12310
 11331;6bce25d3_21dd_4549_83c0_301f4d5d4c5b30_6;2021;;Christopher_Goodman;null;Data Management;Volume;10832
 12663;982a8575_84d7_4c95_948e_85a53c50cbde37_2;2014;;Dr__Michelle_Robinson_DDS;null;Data Management;Volume;12308
 11330;7d43d736_32f0_4c93_ab50_d0890e0d2a14280;2022;;Karen_Miller;null;Data Management;Volume;10831
@@ -819,35 +819,35 @@ id;title;year;publisher;chair;city;area;type;venueId
 12662;54dc508b_1ac3_4ff3_8ccf_b6977b1d3f89111_6;2014;;Charles_Fritz;null;Materials Science,Data Management;Volume;12293
 11335;9e320575_6ee8_4e10_a5a8_e5dc78d183b136;2020;;Jennifer_Fisher;null;Data Management;Volume;10836
 12667;633d8545_faa6_48ee_a897_b4d5c704498231;2012;;Jessica_Gonzalez;null;Data Management;Volume;12299
-11334;a82f01b4_b4a5_4cdd_84c6_e8161ccc67c134;2021;;Jessica_Freeman;null;null;Volume;10835
+11334;a82f01b4_b4a5_4cdd_84c6_e8161ccc67c134;2021;;Jessica_Freeman;null;Data Management;Volume;10835
 12668;f5279917_ce2b_489d_8c2f_8a8f80a3555996;2012;;Elizabeth_Dunn;null;Data Management;Volume;12304
 11337;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593738_9;2020;;Juan_Price;null;Data Management;Volume;10838
 12665;633d8545_faa6_48ee_a897_b4d5c704498232;2013;;Jessica_Gonzalez;null;Data Management;Volume;12299
-11336;5b038cf2_48f9_4e70_af31_2d49a688397322;2020;;Brandon_Jacobson;null;null;Volume;10837
-12666;0b8373ea_5505_4c96_99ff_b8da87a2ce3e6;2013;;David_Tapia;null;null;Volume;11287
-11780;31d94cbc_3331_4f7c_b914_fe537f4c5ab124;2001;;Kayla_Rojas;null;null;Volume;11131
-12638;eb562aa5_3004_462b_b2ba_345a50718def236;2018;;Kyle_Holmes;null;null;Volume;12296
+11336;5b038cf2_48f9_4e70_af31_2d49a688397322;2020;;Brandon_Jacobson;null;Data Management;Volume;10837
+12666;0b8373ea_5505_4c96_99ff_b8da87a2ce3e6;2013;;David_Tapia;null;Materials Science,Data Management;Volume;11287
+11780;31d94cbc_3331_4f7c_b914_fe537f4c5ab124;2001;;Kayla_Rojas;null;Data Management;Volume;11131
+12638;eb562aa5_3004_462b_b2ba_345a50718def236;2018;;Kyle_Holmes;null;Data Management;Volume;12296
 11789;3f7605a7_7e53_4ff7_8895_42f09a5f435513;2022;;Jacob_Salazar;null;Data Management;Volume;11137
 12639;9a8e51fc_bb44_46e6_9d49_15b314f2f76a27;2011;;Jonathan_Evans;null;Data Management;Volume;12297
 12636;c9c5c542_7b79_4541_b4d2_62ba2238733e9;2022;;Jennifer_Adams;null;Data Management;Volume;12294
 12637;bcbe305c_6a3c_49e6_8027_ae0c0813319a13;2019;;Robin_Horton;null;Data Management;Volume;12295
-11782;2cdc0127_f574_4970_a7f8_cd87a697518188;1999;;Cathy_Flores;null;null;Volume;11109
+11782;2cdc0127_f574_4970_a7f8_cd87a697518188;1999;;Cathy_Flores;null;Psychology,Data Management;Volume;11109
 12630;57307fe3_fa8c_47ec_9b5d_4bab7fd699fc72;2004;;Christina_Gonzalez;null;Data Management,Big Data;Volume;12291
 11781;11107414_93a7_4d4b_9243_d119dfdbac0d11;2001;;Michael_Gonzalez;null;Data Management,Psychology;Volume;11132
-12631;e7c3aea1_83fc_4ada_9c71_1d6e1c527da883_2;2000;;Mary_Rush;null;null;Volume;11145
-11784;36e5261f_bb6f_4ee4_9902_e03fb40aab4d32_3;1996;;Carol_Mays;null;null;Volume;10858
-11783;331605ec_75e7_458b_9d8d_79b8ebebe58164;1998;;David_Estrada;null;null;Volume;11133
+12631;e7c3aea1_83fc_4ada_9c71_1d6e1c527da883_2;2000;;Mary_Rush;null;Data Management,Big Data;Volume;11145
+11784;36e5261f_bb6f_4ee4_9902_e03fb40aab4d32_3;1996;;Carol_Mays;null;Data Management;Volume;10858
+11783;331605ec_75e7_458b_9d8d_79b8ebebe58164;1998;;David_Estrada;null;Data Management;Volume;11133
 11786;da354a48_135f_41ae_9858_ac5d3726e72b19;1994;;Robert_Montes;null;Data Management,Data Processing;Volume;11135
 12634;f1120ea3_efbf_429e_ba1b_d51aafc6000b54;1993;;Lisa_Gray;null;Big Data,Data Management;Volume;11037
-11785;c2a6667d_7ad7_4107_b04f_5841c884844283_1_2;1995;;Valerie_Johnson;null;null;Volume;11134
+11785;c2a6667d_7ad7_4107_b04f_5841c884844283_1_2;1995;;Valerie_Johnson;null;Psychology,Data Management;Volume;11134
 12635;54dc508b_1ac3_4ff3_8ccf_b6977b1d3f89100;2003;;Charles_Fritz;null;Data Management;Volume;12293
-11788;37f1b09a_a6af_4878_9836_fef05322a84a4;2022;;Tyler_Whitney;null;null;Volume;11136
-12632;9b07daf4_3c7e_4798_847b_5005416bc8d516_16;1998;;Rebecca_Mccarthy;null;null;Volume;12292
+11788;37f1b09a_a6af_4878_9836_fef05322a84a4;2022;;Tyler_Whitney;null;Data Management;Volume;11136
+12632;9b07daf4_3c7e_4798_847b_5005416bc8d516_16;1998;;Rebecca_Mccarthy;null;Big Data,Data Management;Volume;12292
 11787;027ffd21_ebb0_4af8_baf5_911124292fd026;2019;;Janice_Morris;null;Big Data,Data Management;Volume;11074
 12633;7f4f53ae_508c_44c1_a65a_c9865a197e8c111;1995;;Alyssa_Johnson;null;Data Management,Big Data;Volume;12212
 11791;8dcbaea5_3cdb_48b3_9f93_45c12ca1bb9122;2020;;Diane_Galloway;null;Data Management,Data Processing;Volume;10918
 11790;f99f77b7_b1b6_44d3_984a_f288e9884b9b11;2021;;Tanya_Allen;null;Data Management;Volume;10996
-12649;47244d26_b802_4df7_9e86_d4dc204ce61923;2021;;Amanda_Stewart;null;null;Volume;12302
+12649;47244d26_b802_4df7_9e86_d4dc204ce61923;2021;;Amanda_Stewart;null;Data Management;Volume;12302
 12647;21a608e5_6b71_4fb2_82bd_a8069c0c07bf45;2020;;Timothy_Fox;null;Data Management;Volume;12301
 12648;54dc508b_1ac3_4ff3_8ccf_b6977b1d3f89117;2020;;Charles_Fritz;null;Data Management,Databases;Volume;12293
 11793;3416dd37_f45d_40ed_b04e_875fcff8fa2f12;2020;;Richard_Perry;null;Data Management;Volume;11139
@@ -857,57 +857,57 @@ id;title;year;publisher;chair;city;area;type;venueId
 11795;68d9e7c1_01cc_4bd0_a6c7_8c976e44b931;2023;;Ashley_Drake;null;Data Management;Volume;11141
 11794;52edfc09_8d65_4876_8560_84530d7259b938;2018;;Adam_Garcia;null;Big Data,Data Management;Volume;11140
 12640;14f89c98_92f6_4be9_83ba_aaa0664938ce223;2008;;Raymond_Blanchard;null;Data Management;Volume;12298
-11797;a4442b50_7b98_4eb3_b453_c104bd1e74c146;2023;;Peter_Lawrence;null;null;Volume;11143
+11797;a4442b50_7b98_4eb3_b453_c104bd1e74c146;2023;;Peter_Lawrence;null;Data Management;Volume;11143
 12645;fda4eaf4_e2fe_42ba_8155_1ec0c465f291259;2020;;Justin_Johnson;null;Data Management;Volume;12300
 11796;edd6a106_cced_43a8_a758_c040f704be6211;2022;;Robert_Mccarty;null;Data Management;Volume;11142
 12646;54dc508b_1ac3_4ff3_8ccf_b6977b1d3f89118;2020;;Charles_Fritz;null;Data Management;Volume;12293
 11799;3416dd37_f45d_40ed_b04e_875fcff8fa2f14;2022;;Richard_Perry;null;Data Management;Volume;11139
 12643;54dc508b_1ac3_4ff3_8ccf_b6977b1d3f89102;2005;;Charles_Fritz;null;Data Management;Volume;12293
-11798;06812595_78d6_48f5_89fa_af87c6679405228;2023;;Mariah_Campbell;null;null;Volume;11144
+11798;06812595_78d6_48f5_89fa_af87c6679405228;2023;;Mariah_Campbell;null;Data Management;Volume;11144
 12644;fda4eaf4_e2fe_42ba_8155_1ec0c465f291260;2022;;Justin_Johnson;null;Data Management;Volume;12300
-11768;f8b3ce82_148b_49f4_a74d_f737fe75e82652_6;1995;;Sara_Michael;null;null;Volume;11123
-12616;4bd4c659_7597_4156_bae1_ab3e8fba3fe524;1994;;Christina_Daniels;null;null;Volume;12282
+11768;f8b3ce82_148b_49f4_a74d_f737fe75e82652_6;1995;;Sara_Michael;null;Psychology,Data Management;Volume;11123
+12616;4bd4c659_7597_4156_bae1_ab3e8fba3fe524;1994;;Christina_Daniels;null;Data Management;Volume;12282
 11767;fa1f0815_0811_4291_b4fc_8230a6c9bf5b794;1996;;Lisa_Ramirez;null;Psychology,Data Management;Volume;11122
 12617;b57dc872_5fe7_4ced_aa7d_c25e6425a7de39;1994;;Shawn_Figueroa;null;Data Management;Volume;12230
 12614;e0276841_4a6b_417c_8e79_24dbbb4c1eba26_2;1995;;Maria_Trevino;null;Data Management;Volume;12280
 11769;1736bbcd_647a_4fa5_9478_e22de96eec1234_3;1995;;Joann_Browning;null;Data Management;Volume;11117
-12615;61ea40a1_3e3a_4ded_8347_d165352965584;1995;;Michael_Sanchez;null;null;Volume;12281
+12615;61ea40a1_3e3a_4ded_8347_d165352965584;1995;;Michael_Sanchez;null;Big Data,Data Management;Volume;12281
 12618;6c1b0ec7_15b8_4f2e_8113_82a5eb121bde102_1;1994;;Angela_Simmons;null;Data Management;Volume;12283
 12619;fc718986_dc8c_4890_a191_d63f01d65c831_2;1993;;Martin_Davidson;null;Big Data,Data Management;Volume;12284
-11760;1736bbcd_647a_4fa5_9478_e22de96eec1238_4;1999;;Joann_Browning;null;null;Volume;11117
+11760;1736bbcd_647a_4fa5_9478_e22de96eec1238_4;1999;;Joann_Browning;null;Psychology,Data Management;Volume;11117
 11762;c7f7473d_ef1f_4693_99c3_d747e61660ca31;1998;;Pamela_Scott;null;Psychology,Data Management;Volume;11119
 11761;2b6da2a4_c1db_4f0e_b9dd_e67c0901892d25_3;1999;;Debbie_Taylor;null;Data Management;Volume;11118
 11764;871bdcd3_3901_4df4_8581_725f3821416512;1997;;Stephanie_Davidson;null;Data Management;Volume;11120
-12612;a36a938f_53f6_4430_a507_ade76c2f28f213_4;1995;;Anthony_Evans;null;null;Volume;12278
+12612;a36a938f_53f6_4430_a507_ade76c2f28f213_4;1995;;Anthony_Evans;null;Data Management;Volume;12278
 11763;1736bbcd_647a_4fa5_9478_e22de96eec1236_10_Suppl;1997;;Joann_Browning;null;Psychology,Data Management;Volume;11117
 12613;01ff651a_30ee_4c90_a8f2_f9a31358bd4585_4;1995;;James_Thomas;null;Data Management;Volume;12279
 11766;1736bbcd_647a_4fa5_9478_e22de96eec1236_5;1997;;Joann_Browning;null;Psychology,Data Management;Volume;11117
-12610;1c130850_66f4_486c_839c_3dc39df267bd311_2_3;1996;;Angel_Nelson;null;null;Volume;11023
-11765;a540e60c_2d74_429d_82c5_cd87bcbdc90027;1997;;Brenda_Smith;null;null;Volume;11121
+12610;1c130850_66f4_486c_839c_3dc39df267bd311_2_3;1996;;Angel_Nelson;null;Data Management;Volume;11023
+11765;a540e60c_2d74_429d_82c5_cd87bcbdc90027;1997;;Brenda_Smith;null;Psychology,Data Management;Volume;11121
 12611;895f40c9_c3f4_4b8e_9ff1_31b11193ad84105;1996;;Mark_Davis;null;Data Management;Volume;12211
 11779;8d5e683d_c212_497f_8838_1dbc6c576fae33_5;2002;;William_Swanson;null;Data Management;Volume;11130
-12627;a8009bad_664b_465f_9fc2_8656bc637bc4606;2008;;Laura_Wilson;null;null;Volume;12288
+12627;a8009bad_664b_465f_9fc2_8656bc637bc4606;2008;;Laura_Wilson;null;Data Management;Volume;12288
 11778;c5b97fa2_5030_43b2_b29e_62a95a2b3a5228_5_6;2015;;Nathan_Rodriguez;null;Psychology,Data Management;Volume;11129
 12628;4b52be72_deb6_4d14_96c9_25a29f1aa4ed91_3;2006;;Robin_Morgan;null;Big Data,Data Management;Volume;12289
 12625;9a272984_d484_429f_b0b2_1597b1fc107e9_9;2009;;Andrea_Oconnor;null;Big Data,Data Management;Volume;12221
-12626;5e84da98_51c6_4885_8575_daeaa738a59266_2B;2008;;Kimberly_Long;null;null;Volume;12287
+12626;5e84da98_51c6_4885_8575_daeaa738a59266_2B;2008;;Kimberly_Long;null;Data Processing,Data Management;Volume;12287
 12629;d165e59b_3c63_481e_9d2c_4c21bc7ae2aa49;2005;;Justin_Green;null;Big Data,Data Management;Volume;12290
-11771;1736bbcd_647a_4fa5_9478_e22de96eec1233_6;1994;;Joann_Browning;null;null;Volume;11117
-11770;d626e7bf_3cdf_4b04_bedc_a70cba4359da16_6;1994;;Daniel_Sullivan;null;null;Volume;11124
+11771;1736bbcd_647a_4fa5_9478_e22de96eec1233_6;1994;;Joann_Browning;null;Psychology,Data Management;Volume;11117
+11770;d626e7bf_3cdf_4b04_bedc_a70cba4359da16_6;1994;;Daniel_Sullivan;null;Psychology,Data Management;Volume;11124
 12620;895f40c9_c3f4_4b8e_9ff1_31b11193ad8491;1993;;Mark_Davis;null;Data Management;Volume;12211
 11773;6db4b687_6a12_4f90_914f_785f5d95cad124_1;1994;;Ashley_Harris;null;Data Management;Volume;11125
-11772;1736bbcd_647a_4fa5_9478_e22de96eec1233_1;1994;;Joann_Browning;null;null;Volume;11117
+11772;1736bbcd_647a_4fa5_9478_e22de96eec1233_1;1994;;Joann_Browning;null;Data Management;Volume;11117
 11775;e1360b1d_e977_438e_b5b6_db13ac77f0ca59_6;1991;;Monica_Castillo;null;Psychology,Data Management;Volume;11127
-12623;3d733e72_3b81_451a_afa3_881218de20ae14;2014;;Charles_Phillips;null;null;Volume;10980
+12623;3d733e72_3b81_451a_afa3_881218de20ae14;2014;;Charles_Phillips;null;Big Data,Data Management;Volume;10980
 11774;02af1b8c_6768_4f42_afd4_0eee77887a5067;1992;;William_Beck;null;Data Management;Volume;11126
 12624;7a0fa873_9493_466e_aaf2_2eeb6a4d41f257;2013;;Taylor_Murray;null;Data Management,Big Data;Volume;12286
 11777;12efbcfa_f6e1_4ac3_80b4_b8acc5cf63fe40;2018;;Brian_Cook;null;Data Management;Volume;11128
-12621;7232bd9a_d17f_44d3_8ea8_f423c97a32191_1_2;1993;;Monica_Smith;null;null;Volume;12285
+12621;7232bd9a_d17f_44d3_8ea8_f423c97a32191_1_2;1993;;Monica_Smith;null;Data Management;Volume;12285
 11776;a540e60c_2d74_429d_82c5_cd87bcbdc90049;2019;;Brenda_Smith;null;Data Management,Psychology;Volume;11121
-12622;7232bd9a_d17f_44d3_8ea8_f423c97a32191_3;1993;;Monica_Smith;null;null;Volume;12285
+12622;7232bd9a_d17f_44d3_8ea8_f423c97a32191_3;1993;;Monica_Smith;null;Data Management;Volume;12285
 12150;06c0125a_1b0b_4e9c_9c0c_59a5988f7ca120_3;2017;;Charles_Valdez;null;Data Management;Volume;11239
 12152;f48a1bc9_b0e5_446b_a40b_a9d2497f3e0489;2016;;Jeffery_Frazier;null;Data Management;Volume;11300
-13000;9d5ae1e3_eb86_4933_94cf_79d200eb9ef224;2021;;John_Daniel;null;null;Volume;12502
+13000;9d5ae1e3_eb86_4933_94cf_79d200eb9ef224;2021;;John_Daniel;null;Data Management;Volume;12502
 12151;e1f2b2ea_7393_4401_8e7b_d687d959a76f78;2017;;Lisa_Scott;null;Data Management;Volume;11255
 13001;51651566_5d01_4de3_80d8_2751e1d1334a599;2021;;Ryan_Spears;null;Data Management;Volume;12503
 12154;96fa7399_a724_43de_bec7_f09a913e77da49_7;2015;;Douglas_Tate;null;Data Management;Volume;11277
@@ -917,9 +917,9 @@ id;title;year;publisher;chair;city;area;type;venueId
 12155;93371086_e543_4b51_a76e_a4050cd4ad258_5;2015;;John_Owens;null;Data Management;Volume;11301
 13005;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593749;2021;;Juan_Price;null;Data Management;Volume;10838
 12158;2ffaf997_f719_4744_8142_983c334b1797141_6;2012;;Jeffrey_Esparza;null;Data Management;Volume;11224
-13002;c712cd2d_61b3_446b_8458_3e8f5dafce2392;2021;;Jon_Castaneda;null;null;Volume;12504
-12157;25859537_35a6_41f2_a29f_32bf7eb0586259_2;2013;;Kevin_Turner;null;null;Volume;11302
-13003;4a751838_342f_44e7_a05e_42582ef2308065;2021;;Christopher_Brooks;null;null;Volume;12505
+13002;c712cd2d_61b3_446b_8458_3e8f5dafce2392;2021;;Jon_Castaneda;null;Data Management;Volume;12504
+12157;25859537_35a6_41f2_a29f_32bf7eb0586259_2;2013;;Kevin_Turner;null;Psychology,Data Management;Volume;11302
+13003;4a751838_342f_44e7_a05e_42582ef2308065;2021;;Christopher_Brooks;null;Data Management;Volume;12505
 13008;578d88db_e504_4638_b38c_05f199756bdc9;2021;;James_Moran;null;Data Management;Volume;12509
 12159;5bd1cf4c_8c47_4dea_9d6e_f14b0a619a2639_4;2012;;Joseph_Calhoun;null;Computer Science,Data Management;Volume;11303
 13009;c894e6fa_e208_428a_a7e7_f54240447bbb153;2021;;Dean_Barron;null;Data Management;Volume;12510
@@ -930,104 +930,104 @@ id;title;year;publisher;chair;city;area;type;venueId
 12163;31233a06_aa49_468c_8e22_f801dc33e6f780_6;2010;;Michael_Jackson;null;Data Management;Volume;11233
 13011;14dd949e_e5b6_47b5_8968_a63a46b3b83f50;2021;;Taylor_Contreras;null;Data Management;Volume;12511
 12162;e2107015_98db_4879_bfb7_f3c77a4d4f0a2_1_2;2011;;Kevin_Barnes;null;Data Management;Volume;11304
-13012;55e852b0_8b06_49f0_b019_42edf98283bf15;2021;;Katrina_Herrera;null;null;Volume;12512
+13012;55e852b0_8b06_49f0_b019_42edf98283bf15;2021;;Katrina_Herrera;null;Data Management;Volume;12512
 12165;7485124f_7893_4c7d_8cb0_b1baa4c3aeb621_3;2009;;Kelly_Jackson;null;Engineering,Data Management;Volume;11245
-12164;96fa7399_a724_43de_bec7_f09a913e77da44_6;2010;;Douglas_Tate;null;null;Volume;11277
+12164;96fa7399_a724_43de_bec7_f09a913e77da44_6;2010;;Douglas_Tate;null;Data Management;Volume;11277
 13010;89ca7d24_44ee_400e_ae17_8c0bf31e76bd25;2021;;Rick_Jackson;null;Data Management;Volume;12473
 12167;d7424ee9_5422_49c6_ad37_0edf4278801532_4;2008;;Bryan_Peters;null;Data Management;Volume;11271
 13015;6bffcf64_8860_4c88_9085_f0a3711734d7108;2021;;Patricia_Reynolds;null;Data Management;Volume;12515
 12166;2ffaf997_f719_4744_8142_983c334b1797135_1;2009;;Jeffrey_Esparza;null;Data Management;Volume;11224
 13016;e5a14861_14ee_4a88_a5aa_d13a448a707534;2021;;Jonathan_Macdonald;null;Data Management;Volume;12516
 12169;0e311ea4_fe23_4b95_8317_96dae78a003b27_7;2008;;Tina_Armstrong;null;Engineering,Data Management;Volume;11305
-13013;76d88559_e586_415c_aa9c_4b8946ce8ed635;2021;;Shelly_Terry;null;null;Volume;12513
-12168;d2b6f83d_a912_40d2_af6d_03ad01c81c5e72_8;2008;;Sharon_Garcia;null;null;Volume;10893
-13014;906c9928_c8e5_4d4c_9d82_d7904db0adff48;2021;;Victoria_Bender;null;null;Volume;12514
-13019;2ee61499_676f_46c2_afde_d4c0cb4393e68;2021;;Benjamin_Schmidt;null;null;Volume;12519
+13013;76d88559_e586_415c_aa9c_4b8946ce8ed635;2021;;Shelly_Terry;null;Data Management;Volume;12513
+12168;d2b6f83d_a912_40d2_af6d_03ad01c81c5e72_8;2008;;Sharon_Garcia;null;Data Management;Volume;10893
+13014;906c9928_c8e5_4d4c_9d82_d7904db0adff48;2021;;Victoria_Bender;null;Data Management;Volume;12514
+13019;2ee61499_676f_46c2_afde_d4c0cb4393e68;2021;;Benjamin_Schmidt;null;Computer Science,Data Management;Volume;12519
 13017;166c94ea_2965_476b_a6f8_8365cbbce56793_4;2021;;Kenneth_Ward;null;Data Management;Volume;12517
 13018;e085643b_4934_4e52_a0ad_4be11d0113eb36;2021;;Nicole_Wilson;null;Data Management;Volume;12518
-12130;33cb7fab_19c0_417d_ba1c_f88428a775aa17;2017;;Kevin_West;null;null;Volume;11248
-12132;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b42;2015;;David_Khan;null;null;Volume;11264
+12130;33cb7fab_19c0_417d_ba1c_f88428a775aa17;2017;;Kevin_West;null;Data Management;Volume;11248
+12132;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b42;2015;;David_Khan;null;Data Management;Volume;11264
 12131;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b44;2017;;David_Khan;null;Data Management;Volume;11264
 12134;b210fd3d_11d7_478e_a0aa_7e3d2a4f482d12;2012;;Michael_Mercado;null;Materials Science;Volume;11295
-12133;12ff2383_9078_4c09_90a3_2549662e589214;2013;;Cynthia_Buckley;null;null;Volume;11268
-12136;a97e4d2f_60eb_4efb_92a5_89e826b6aed22014;2014;;Michael_George;null;null;Volume;11291
+12133;12ff2383_9078_4c09_90a3_2549662e589214;2013;;Cynthia_Buckley;null;Data Management;Volume;11268
+12136;a97e4d2f_60eb_4efb_92a5_89e826b6aed22014;2014;;Michael_George;null;Data Management;Volume;11291
 12135;96fa7399_a724_43de_bec7_f09a913e77da43_9;2009;;Douglas_Tate;null;Data Management;Volume;11277
-12138;6a717a60_0e06_45ad_b70e_26a32bc6814219;2022;;Robert_Summers;null;null;Volume;11247
-12137;5f35543f_f944_4cd2_9161_05c9814a314222;2022;;William_Grimes;null;null;Volume;11296
+12138;6a717a60_0e06_45ad_b70e_26a32bc6814219;2022;;Robert_Summers;null;Data Management;Volume;11247
+12137;5f35543f_f944_4cd2_9161_05c9814a314222;2022;;William_Grimes;null;Data Management;Volume;11296
 12139;4efb9ad7_9740_4922_b9c8_c29376ca222314;2022;;David_Bennett_MD;null;Data Management;Volume;11297
-12141;8e556baf_a09b_4dd8_a7ef_9f5c2242f6b8229;2020;;Teresa_Fitzpatrick;null;null;Volume;11298
-12140;501527a8_d179_4c3c_a9d2_b7f3bd0ec78126;2021;;Sandra_Smith_MD;null;null;Volume;11243
+12141;8e556baf_a09b_4dd8_a7ef_9f5c2242f6b8229;2020;;Teresa_Fitzpatrick;null;Psychology,Data Management;Volume;11298
+12140;501527a8_d179_4c3c_a9d2_b7f3bd0ec78126;2021;;Sandra_Smith_MD;null;Data Management;Volume;11243
 12143;708dd462_b7d9_47c1_9784_beec1a415d1a32_4;2019;;Gina_Ramos;null;Data Management;Volume;11286
 12142;31233a06_aa49_468c_8e22_f801dc33e6f790_4;2020;;Michael_Jackson;null;Data Management;Volume;11233
-12145;89b43a1b_d783_4c68_829e_0ead529514b213;2019;;Patrick_Burke;null;null;Volume;11228
+12145;89b43a1b_d783_4c68_829e_0ead529514b213;2019;;Patrick_Burke;null;Data Processing,Data Management;Volume;11228
 12144;2ffaf997_f719_4744_8142_983c334b1797156_4;2019;;Jeffrey_Esparza;null;Data Management,Psychology;Volume;11224
 12147;c52375db_5573_406f_a12b_854c7ba984982018;2018;;Thomas_Moran;null;Data Management;Volume;11299
-12146;12ff2383_9078_4c09_90a3_2549662e589220;2019;;Cynthia_Buckley;null;null;Volume;11268
+12146;12ff2383_9078_4c09_90a3_2549662e589220;2019;;Cynthia_Buckley;null;Data Management;Volume;11268
 12149;2ffaf997_f719_4744_8142_983c334b1797153;2018;;Jeffrey_Esparza;null;Data Management;Volume;11224
 12148;88cb18f0_37cb_4e35_bc86_27149f8c01f537_5;2018;;David_Dixon;null;Data Management,Materials Science;Volume;11269
 12110;2ffaf997_f719_4744_8142_983c334b1797162_4;2022;;Jeffrey_Esparza;null;Data Management;Volume;11224
-12119;ec9bbe97_69df_4ddf_bfc2_c65a31171d5e52;2014;;Angela_Mcdowell;null;null;Volume;11290
+12119;ec9bbe97_69df_4ddf_bfc2_c65a31171d5e52;2014;;Angela_Mcdowell;null;Data Management;Volume;11290
 12112;9fa4f4f1_6547_4978_99b0_d1855d126cdc25;2021;;Samantha_Gonzales;null;Data Management;Volume;11244
 12111;31233a06_aa49_468c_8e22_f801dc33e6f792_2;2021;;Michael_Jackson;null;Data Management;Volume;11233
 12114;de9af276_aa1e_4a82_951d_1b7c263ea2fe16;2019;;Nathan_Pittman;null;Data Management;Volume;11289
-12113;2446a1c9_3822_4107_8a20_234d4bcd084351;2020;;Alexis_Miller;null;null;Volume;11232
+12113;2446a1c9_3822_4107_8a20_234d4bcd084351;2020;;Alexis_Miller;null;Data Management;Volume;11232
 12116;9fa4f4f1_6547_4978_99b0_d1855d126cdc22;2018;;Samantha_Gonzales;null;Computer Science,Data Management;Volume;11244
-12115;12ff2383_9078_4c09_90a3_2549662e589219;2018;;Cynthia_Buckley;null;null;Volume;11268
-12118;2ffaf997_f719_4744_8142_983c334b1797146_6;2014;;Jeffrey_Esparza;null;null;Volume;11224
+12115;12ff2383_9078_4c09_90a3_2549662e589219;2018;;Cynthia_Buckley;null;Data Management;Volume;11268
+12118;2ffaf997_f719_4744_8142_983c334b1797146_6;2014;;Jeffrey_Esparza;null;Mathematics,Data Management;Volume;11224
 12117;d9dce33c_c3f7_4b4a_b6a1_cde56fcbad2c15_1;2017;;Kevin_Clark;null;Data Management;Volume;11252
 12121;a97e4d2f_60eb_4efb_92a5_89e826b6aed22013;2013;;Michael_George;null;Data Management;Volume;11291
 12120;96fa7399_a724_43de_bec7_f09a913e77da48_8;2014;;Douglas_Tate;null;Data Management;Volume;11277
 12123;2865460b_19e0_47ad_a3c1_eb9919a518a554_9;2011;;Kelsey_Bennett;null;Data Management;Volume;11292
-12122;7485124f_7893_4c7d_8cb0_b1baa4c3aeb624_1;2012;;Kelly_Jackson;null;null;Volume;11245
-12125;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b49;2021;;David_Khan;null;null;Volume;11264
-12124;2fc41bcb_65e9_40df_b1c3_df9c09e1bede9;2021;;William_Smith;null;null;Volume;11293
-12127;ad33d009_3c1d_4cd6_9c90_13346d65770b2020;2020;;Amy_Martinez;null;null;Volume;11294
+12122;7485124f_7893_4c7d_8cb0_b1baa4c3aeb624_1;2012;;Kelly_Jackson;null;Engineering,Data Management;Volume;11245
+12125;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b49;2021;;David_Khan;null;Data Management;Volume;11264
+12124;2fc41bcb_65e9_40df_b1c3_df9c09e1bede9;2021;;William_Smith;null;Data Management;Volume;11293
+12127;ad33d009_3c1d_4cd6_9c90_13346d65770b2020;2020;;Amy_Martinez;null;Data Management;Volume;11294
 12126;96fa7399_a724_43de_bec7_f09a913e77da55_1;2021;;Douglas_Tate;null;Data Management;Volume;11277
 12129;5b8fa84c_8f83_422e_96c7_c3fac38103ea19;2019;;Rachel_Lee;null;Data Management;Volume;10897
 12128;0b8373ea_5505_4c96_99ff_b8da87a2ce3e13;2020;;David_Tapia;null;Materials Science,Data Management;Volume;11287
-12109;12ff2383_9078_4c09_90a3_2549662e589224;2023;;Cynthia_Buckley;null;null;Volume;11268
+12109;12ff2383_9078_4c09_90a3_2549662e589224;2023;;Cynthia_Buckley;null;Data Management;Volume;11268
 12108;de9af276_aa1e_4a82_951d_1b7c263ea2fe9;2013;;Nathan_Pittman;null;Data Management;Volume;11289
-12101;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b43;2016;;David_Khan;null;null;Volume;11264
-12100;31233a06_aa49_468c_8e22_f801dc33e6f786_5;2016;;Michael_Jackson;null;null;Volume;11233
+12101;f4858977_48ff_4fe1_b6c5_4ebcb73bb81b43;2016;;David_Khan;null;Data Management;Volume;11264
+12100;31233a06_aa49_468c_8e22_f801dc33e6f786_5;2016;;Michael_Jackson;null;Data Management;Volume;11233
 12103;2446a1c9_3822_4107_8a20_234d4bcd084345;2015;;Alexis_Miller;null;Data Management;Volume;11232
 12102;e1f2b2ea_7393_4401_8e7b_d687d959a76f77;2016;;Lisa_Scott;null;Computer Science,Data Management;Volume;11255
 12105;31233a06_aa49_468c_8e22_f801dc33e6f785_5;2015;;Michael_Jackson;null;Data Management;Volume;11233
 12104;23dc6714_3f22_43eb_8a2e_bd96897f9c3f37_5;2015;;Teresa_Wilson;null;Data Management;Volume;11241
 12107;e1f2b2ea_7393_4401_8e7b_d687d959a76f74;2013;;Lisa_Scott;null;Data Management;Volume;11255
-12106;96fa7399_a724_43de_bec7_f09a913e77da49_3;2015;;Douglas_Tate;null;null;Volume;11277
-13084;9cf634df_e30b_4e2a_aeb7_84a126ce8861158;2020;;Matthew_Baxter;null;null;Volume;12483
-13085;f9550960_702a_46bf_b05f_c9a1d26ee3657;2020;;Kimberly_Sullivan;null;null;Volume;12556
+12106;96fa7399_a724_43de_bec7_f09a913e77da49_3;2015;;Douglas_Tate;null;Data Management;Volume;11277
+13084;9cf634df_e30b_4e2a_aeb7_84a126ce8861158;2020;;Matthew_Baxter;null;Data Management;Volume;12483
+13085;f9550960_702a_46bf_b05f_c9a1d26ee3657;2020;;Kimberly_Sullivan;null;Data Management;Volume;12556
 13082;70337d1b_fdf7_4fcb_b391_e096feba374818;2020;;Joseph_Rose;null;Data Management;Volume;12555
 13083;6fe3a1b3_be8f_4bf7_9b30_d8c9fbf0ecb324;2020;;Amy_Gonzalez;null;Data Management;Volume;10833
 13088;cb3ce567_4f5f_4e15_9a93_425274beafd820_2;1994;;Keith_Castro;null;Data Management;Volume;12559
-13089;643216f8_659a_48b7_84aa_82007d205225148;2003;;James_Scott;null;null;Volume;12560
+13089;643216f8_659a_48b7_84aa_82007d205225148;2003;;James_Scott;null;Data Management;Volume;12560
 13086;cb30f0c9_2980_4b7d_bbcb_68fc5472b97c6;2020;;John_Payne;null;Data Management;Volume;12557
 13087;cb766f2b_df2f_42d1_9cd4_f9c258dc102d10;2020;;Robert_Rivera;null;Data Management;Volume;12558
-13080;d5e5b5e7_54b1_4f53_82fc_4853f3e71c588;2020;;Omar_King;null;null;Volume;11138
+13080;d5e5b5e7_54b1_4f53_82fc_4853f3e71c588;2020;;Omar_King;null;Data Management;Volume;11138
 13081;ebdc1fa7_c0b8_4019_9767_015d6a824ba613;2020;;Eric_Cox;null;Data Management;Volume;10868
 13095;a55d0e73_a7d0_42bc_be42_ba73a9b7cc0b6;2018;;Jamie_Walker;null;Data Management;Volume;12566
 13096;0e1326ae_fa43_4c88_86d1_fb24045a7d7133;2018;;Jesus_Hill;null;Data Management;Volume;12567
 13093;164cf9d6_c9e8_41f0_b15d_00fa34cb4bd191_11;2019;;Tammy_Jackson_DVM;null;Data Management,Data Processing;Volume;12564
-13094;6b73edff_f2f3_4d3c_8259_ae2e5a72643e27_4;2018;;Bailey_Gonzales_MD;null;null;Volume;12565
+13094;6b73edff_f2f3_4d3c_8259_ae2e5a72643e27_4;2018;;Bailey_Gonzales_MD;null;Data Management;Volume;12565
 13099;b07ad337_ba9f_48ca_a0ff_59d1643601ac153;2016;;Christopher_Gomez;null;Data Management;Volume;11147
-13097;fffe628f_07fe_4a06_818f_f3885ee2c5a529_1;2017;;Amy_Hess;null;null;Volume;12568
+13097;fffe628f_07fe_4a06_818f_f3885ee2c5a529_1;2017;;Amy_Hess;null;Data Management;Volume;12568
 13098;cce02c1a_35d1_4088_a245_e642b7a01e0625;2017;;Karen_Gilmore;null;Data Management;Volume;12569
-13091;6c54c3f9_f3f3_4c8b_acf4_9fc974b080c94;2022;;Daniel_Wolf;null;null;Volume;12562
+13091;6c54c3f9_f3f3_4c8b_acf4_9fc974b080c94;2022;;Daniel_Wolf;null;Data Management;Volume;12562
 13092;75bdf59f_ed76_4e95_950b_200249d0022c26_12;2020;;Erik_Kelley;null;Data Management;Volume;12563
-13090;38e1eea9_cb86_46ab_be84_1c32d3effb2749_6;2000;;Lisa_Phillips;null;null;Volume;12561
-13062;10aeaa7b_eb72_46ce_9823_168542246e8338;2020;;Dana_Andrews;null;null;Volume;12545
-13063;a4ab3bd7_e912_441e_b513_314b17ff03cf3;2020;;Amanda_Russell;null;null;Volume;12546
+13090;38e1eea9_cb86_46ab_be84_1c32d3effb2749_6;2000;;Lisa_Phillips;null;Data Management;Volume;12561
+13062;10aeaa7b_eb72_46ce_9823_168542246e8338;2020;;Dana_Andrews;null;Data Management;Volume;12545
+13063;a4ab3bd7_e912_441e_b513_314b17ff03cf3;2020;;Amanda_Russell;null;Data Management;Volume;12546
 13060;51d54719_8bad_49a6_9b30_a1f228099cad20;2020;;Thomas_Cruz;null;Data Management;Volume;12544
 13061;6bffcf64_8860_4c88_9085_f0a3711734d7102;2020;;Patricia_Reynolds;null;Data Management;Volume;12515
 13066;c1910748_cf51_4346_9f09_55d2a5775843130;2020;;Diana_Lopez;null;Data Management;Volume;12490
-13067;7606e9e4_fbe1_4463_bc40_02193a46240222_4;2020;;Richard_Love;null;null;Volume;12549
+13067;7606e9e4_fbe1_4463_bc40_02193a46240222_4;2020;;Richard_Love;null;Data Management;Volume;12549
 13064;6ec15f55_3f39_4e6e_81c4_b0f2aa16605820;2020;;Larry_Charles;null;Data Management;Volume;12547
 13065;2c3a5b2d_198d_4244_8fb5_057056f4bb0821;2020;;James_Williams;null;Data Management;Volume;12548
-13068;89ca7d24_44ee_400e_ae17_8c0bf31e76bd24;2020;;Rick_Jackson;null;null;Volume;12473
-13069;64d060d1_e998_4043_a767_82250c4d83e88;2020;;Anita_Jones;null;null;Volume;12438
+13068;89ca7d24_44ee_400e_ae17_8c0bf31e76bd24;2020;;Rick_Jackson;null;Data Management;Volume;12473
+13069;64d060d1_e998_4043_a767_82250c4d83e88;2020;;Anita_Jones;null;Data Management;Volume;12438
 13073;43b3f0f9_489a_4566_8164_02fafde3cd9811;2020;;Bianca_Simmons;null;Data Management;Volume;10983
 13074;f7a354f8_cca7_4368_b0ad_4b6e773f66c682;2020;;Amy_Valencia;null;Data Management;Volume;12551
-13071;e6216b43_2428_4aaf_8101_b40e1dfd281010;2020;;Christopher_Delacruz;null;null;Volume;10878
+13071;e6216b43_2428_4aaf_8101_b40e1dfd281010;2020;;Christopher_Delacruz;null;Data Management;Volume;10878
 13072;c563eb70_3c1a_4b43_bd83_8215a2719ecb29;2020;;Mrs__Jessica_Daniels_MD;null;Data Management;Volume;12422
 13077;952637fa_2c01_486e_ab08_36253136c67e418;2020;;Brandon_Chambers;null;Data Management;Volume;12553
 13078;1c94bb2e_f9df_43a1_b99b_5590cca7d15f203;2020;;Steven_Shelton;null;Data Management;Volume;12433
@@ -1036,19 +1036,19 @@ id;title;year;publisher;chair;city;area;type;venueId
 13070;aa5ad91f_027c_4d66_bc1e_a4b1b4483b9911;2020;;Zachary_Norris;null;Data Management;Volume;12550
 13079;051b5306_8f42_4593_88b2_7322fcea7681191;2020;;Christina_Jones;null;Data Management,Data Processing;Volume;12554
 12192;0bd8d626_d268_4b9c_95be_093ab38a2af723;2003;;Christopher_Brown;null;Data Management;Volume;11313
-13040;f0dfbe43_da0f_48f2_b995_7e72118041e39;2020;;Tonya_Harper;null;null;Volume;12534
+13040;f0dfbe43_da0f_48f2_b995_7e72118041e39;2020;;Tonya_Harper;null;Data Management;Volume;12534
 12191;9c167ec3_7c75_4293_b0bd_d38b606a5ada18;2001;;Brittney_Davis;null;Data Management;Volume;11312
 13041;c26adb8d_5c27_4159_849a_f4ee199510e62;2020;;Brenda_Robinson;null;Data Management;Volume;12535
 12194;5291374f_6a33_40a6_a399_3fdd1ee0fd5162;2021;;Taylor_Bell;null;Computer Science;Volume;11196
 12193;5291374f_6a33_40a6_a399_3fdd1ee0fd5146;2019;;Taylor_Bell;null;Computer Science;Volume;11196
 12196;fbc00183_786d_49c0_b81a_55bc4093843b15;2021;;Hannah_Reeves;null;Computer Science;Volume;11314
-13044;e28a224b_8ddb_49a6_82d2_17f23c68b30c11;2021;;Alyssa_Reid_DDS;null;Data Management,Data Processing;Volume;12378
+13044;e28a224b_8ddb_49a6_82d2_17f23c68b30c11;2021;;Alyssa_Reid_DDS;null;Data Management;Volume;12378
 12195;477368e9_7a8e_475a_8c93_6d623797fd0680;2021;;Dr__Kerri_Mccullough;null;Computer Science;Volume;11190
 13045;142347a8_a3f6_4ce4_bc56_09bc8fc9461d7;2021;;Nathaniel_Cummings;null;Data Management;Volume;12461
-12198;477368e9_7a8e_475a_8c93_6d623797fd06;2020;;Dr__Kerri_Mccullough;null;null;Volume;11190
+12198;477368e9_7a8e_475a_8c93_6d623797fd06;2020;;Dr__Kerri_Mccullough;null;Computer Science;Volume;11190
 13042;219d1d7d_8f62_491d_86d9_1430b9d19c3513_5;2021;;Angelica_Lynn;null;Data Management;Volume;12536
-12197;8270cfe1_3713_4325_a7bd_c6a87eed889e22;2020;;James_Gordon;null;null;Volume;11315
-13043;054b702e_7da6_4321_ab69_d2ddeac60bef48_1;2021;;Kristi_Carlson;null;null;Volume;12537
+12197;8270cfe1_3713_4325_a7bd_c6a87eed889e22;2020;;James_Gordon;null;Computer Science,Data Management;Volume;11315
+13043;054b702e_7da6_4321_ab69_d2ddeac60bef48_1;2021;;Kristi_Carlson;null;Data Management;Volume;12537
 12190;b584320a_9e3c_4c68_a677_a15f68472cb615;2001;;Colleen_Carter;null;Data Management;Volume;10972
 13048;9b623ba5_6967_4800_b5e3_90f7b4562c1831;2020;;Alexander_Morales;null;Data Management;Volume;12539
 12199;940c7008_d07d_488d_baa2_1ef7343957dc44;2019;;Carla_Good;null;Computer Science;Volume;11316
@@ -1057,69 +1057,69 @@ id;title;year;publisher;chair;city;area;type;venueId
 13047;eaf3b815_177e_4752_8525_6ded8919409b45;2020;;Kevin_Owen;null;Data Management;Volume;12538
 13051;0633bf80_1e2c_4277_8ca0_68c3e588d27729;2020;;Christine_Nicholson;null;Data Management;Volume;12540
 13052;f735c726_1730_43c7_bd1b_feab59cd4dfa35;2020;;Nicholas_Werner;null;Data Management;Volume;12541
-13050;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5816;2020;;Omar_King;null;null;Volume;11138
+13050;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5816;2020;;Omar_King;null;Data Management;Volume;11138
 13055;87c855fc_c59a_4443_832a_e5b1ca14b9f312;2020;;Allison_Long;null;Data Management;Volume;10845
 13056;f735c726_1730_43c7_bd1b_feab59cd4dfa;2020;;Nicholas_Werner;null;Data Management;Volume;12541
-13053;3ddad9a4_ed2d_4dfc_bc6a_5436b71b857159;2020;;Alicia_Sanchez;null;null;Volume;12542
-13054;9a0a0a51_8b96_4381_bcbf_efb007097a0e7;2020;;Jessica_Roberts;null;null;Volume;12524
+13053;3ddad9a4_ed2d_4dfc_bc6a_5436b71b857159;2020;;Alicia_Sanchez;null;Data Management;Volume;12542
+13054;9a0a0a51_8b96_4381_bcbf_efb007097a0e7;2020;;Jessica_Roberts;null;Data Management;Volume;12524
 13059;28148b64_bce5_4f88_a9a6_664735732a0f60;2020;;Rebecca_Stephenson;null;Data Management;Volume;12472
 13057;70dc766b_a03c_4210_a802_116e78c8466d126;2020;;Deanna_Cox;null;Data Management;Volume;10864
-13058;45c77f4e_d4c0_4df3_99dd_119b0d2adb7830;2020;;Rebecca_Taylor;null;null;Volume;12543
+13058;45c77f4e_d4c0_4df3_99dd_119b0d2adb7830;2020;;Rebecca_Taylor;null;Data Management,Big Data;Volume;12543
 12170;6730c732_b29c_4213_8879_61ee1c4cf87758_1;2008;;Jeffery_Brown;null;Data Management;Volume;11251
 12172;137df871_0be4_4ea4_9f85_52b2b36070a3138_8;2007;;Bryan_Taylor;null;Data Management;Volume;10889
 12171;31233a06_aa49_468c_8e22_f801dc33e6f777_5;2007;;Michael_Jackson;null;Data Management;Volume;11233
 12174;73ea77b0_3d9c_4b35_b2b0_a1e0af5b5b7525_4;1997;;Nicholas_Smith;null;Data Management;Volume;11306
 13022;1d55f81e_7af1_4238_8dba_e8f91a888c79121;2021;;Crystal_Arias;null;Data Management;Volume;12520
-12173;d2b6f83d_a912_40d2_af6d_03ad01c81c5e71_4;2007;;Sharon_Garcia;null;null;Volume;10893
+12173;d2b6f83d_a912_40d2_af6d_03ad01c81c5e71_4;2007;;Sharon_Garcia;null;Sociology,Data Management;Volume;10893
 13023;d1e5841d_64d8_4972_bc2b_9d3dfbe588f5161;2021;;Monica_Houston;null;Data Management;Volume;12521
 12176;63e2bb2d_3e51_4550_b8b2_5ba5358cf0cd16_4;1999;;Vanessa_Williams;null;Data Management;Volume;11106
-13020;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5811;2021;;Omar_King;null;null;Volume;11138
+13020;d5e5b5e7_54b1_4f53_82fc_4853f3e71c5811;2021;;Omar_King;null;Data Management;Volume;11138
 12175;ffaa4409_29fb_4245_a496_c51b151f9f5f35_5;2002;;Emily_Beck;null;Data Management;Volume;10954
 13021;228761ec_c40a_479b_8309_9dcbe9851bcd8;2021;;Ronald_Gonzalez;null;Data Management;Volume;11192
-12178;ed61c9c6_3c38_4e53_8245_e3c43e6b0ada7;2013;;Jasmine_Obrien;null;null;Volume;11308
-13026;9a0a0a51_8b96_4381_bcbf_efb007097a0e8;2021;;Jessica_Roberts;null;null;Volume;12524
+12178;ed61c9c6_3c38_4e53_8245_e3c43e6b0ada7;2013;;Jasmine_Obrien;null;Data Management;Volume;11308
+13026;9a0a0a51_8b96_4381_bcbf_efb007097a0e8;2021;;Jessica_Roberts;null;Data Management;Volume;12524
 12177;5fd34496_0990_463a_8ec3_d8187ff033dd16_2;2016;;Jordan_Paul;null;Data Management;Volume;11307
 13027;6568cb67_580e_4d7a_9363_c021e3910760162_10;2021;;Shelia_Weiss;null;Data Management;Volume;12525
 13024;20a67aab_0b87_48dd_a3ef_b1d379147b9b57;2021;;Steven_Hayes;null;Data Management;Volume;12522
 12179;a25f0f0c_6f67_4e9b_8f42_ffddbf2b3f5527;2012;;Ronald_King;null;Data Management;Volume;10959
 13025;fbd8408a_7dc6_439b_9339_55de0ba0b3388;2021;;Michelle_Maynard;null;Data Management;Volume;12523
-13028;0e0b55ba_1f8a_4c78_9919_91110d7e0db621;2021;;Lisa_Clark;null;null;Volume;12526
+13028;0e0b55ba_1f8a_4c78_9919_91110d7e0db621;2021;;Lisa_Clark;null;Data Management;Volume;12526
 13029;d8aadf2b_e77e_4912_865b_b17c2c02ac42153;2021;;Adrienne_Ortega;null;Data Management;Volume;12527
 12181;ffaa4409_29fb_4245_a496_c51b151f9f5f50;2010;;Emily_Beck;null;Data Management;Volume;10954
-12180;22b3c688_4de9_4d7d_b76d_b754793057a818;2012;;Xavier_Smith;null;null;Volume;11309
+12180;22b3c688_4de9_4d7d_b76d_b754793057a818;2012;;Xavier_Smith;null;Data Management;Volume;11309
 13030;0b9a8326_7dab_4e3b_98fb_f2ab5f6b3c1121_2;2021;;Sarah_Bonilla;null;Data Management;Volume;12454
 12183;68c57ab3_56d3_49e7_9eb3_6960b415216335_3;2003;;Janice_Mcintyre;null;Data Management;Volume;10976
 12182;b6b26b43_2fef_41ad_98b9_af7ba33afa6b88_Suppl_8;2005;;Joshua_Phillips;null;Data Management;Volume;10824
 12185;051d8bfb_417d_42fd_b8a2_89aad189849b13_3;2002;;Jack_Levine;null;Data Management;Volume;11310
 13033;3227dfc6_3c54_47e6_a0fc_39be9c511d9854;2021;;Miranda_Perry;null;Data Management;Volume;12529
-12184;1fe12134_2747_4fcc_8457_351f11d56cf278;2002;;Lawrence_Cruz;null;null;Volume;11219
+12184;1fe12134_2747_4fcc_8457_351f11d56cf278;2002;;Lawrence_Cruz;null;Data Management;Volume;11219
 13034;d75ef6ce_f73e_4fd3_a290_8886c151301e58;2021;;Bryan_Lang;null;Data Management;Volume;11175
 12187;73ea77b0_3d9c_4b35_b2b0_a1e0af5b5b7534;2002;;Nicholas_Smith;null;Data Management;Volume;11306
 13031;ebdc1fa7_c0b8_4019_9767_015d6a824ba614;2021;;Eric_Cox;null;Data Management;Volume;10868
 12186;99b00e0c_56b4_4079_91b7_0fa64b30b1ca51;2002;;Don_Jordan;null;Data Management;Volume;10979
 13032;be2a4ccf_75ad_4bdb_90ce_7ee154ac4b9c14;2021;;Kimberly_Conway;null;Data Management;Volume;12528
 12189;a25f0f0c_6f67_4e9b_8f42_ffddbf2b3f5516;2001;;Ronald_King;null;Data Management;Volume;10959
-13037;a0bce20c_a40c_4921_86a4_8e9c3b1ffd1222;2021;;Christopher_Jones;null;null;Volume;12532
+13037;a0bce20c_a40c_4921_86a4_8e9c3b1ffd1222;2021;;Christopher_Jones;null;Data Management;Volume;12532
 12188;31e844d7_20ce_4ec1_9a5c_12fcb592af8a23_8;2001;;Jesse_Davidson;null;Data Management;Volume;11311
-13038;ba749669_a706_4b1b_911a_caf7d1487ce635;2021;;James_Smith;null;null;Volume;12533
-13035;93a4f692_b20b_46d9_a212_f283daaf575827;2021;;Thomas_Davis;null;null;Volume;12530
+13038;ba749669_a706_4b1b_911a_caf7d1487ce635;2021;;James_Smith;null;Data Management;Volume;12533
+13035;93a4f692_b20b_46d9_a212_f283daaf575827;2021;;Thomas_Davis;null;Data Management;Volume;12530
 13036;75def391_b2ff_4271_9069_f2c20553799a118_1_2;2021;;Sara_Whitaker;null;Data Management;Volume;12531
-13039;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593748;2021;;Juan_Price;null;null;Volume;10838
+13039;b08a0dfd_e5a9_4a0a_a1d5_16a2b898593748;2021;;Juan_Price;null;Data Management;Volume;10838
 11867;501c1070_b5d2_4ff0_ad6f_8769a0a1e13f2020;2020;;Dorothy_Adams;null;Computer Science;Volume;11200
 12715;061c70b2_5c8d_4e53_9380_329804dd458f8;2016;;Spencer_Robinson;null;Data Management;Volume;12329
-11866;79c59592_820f_4ed1_87df_db795b4326be45;2020;;Marie_Green;null;null;Volume;11201
+11866;79c59592_820f_4ed1_87df_db795b4326be45;2020;;Marie_Green;null;Computer Science,Data Management;Volume;11201
 12716;7a4cdb93_dcf1_435f_ade6_dbd70a634d29148_37;2004;;Brandon_Herrera;null;Data Management;Volume;12330
-11869;bc946b89_5188_4a8f_b9b6_61b71dd9fccc176;2020;;Julia_Lin_DDS;null;null;Volume;11203
+11869;bc946b89_5188_4a8f_b9b6_61b71dd9fccc176;2020;;Julia_Lin_DDS;null;Computer Science;Volume;11203
 12713;45723ce3_7b17_4d2b_92c0_c9f30be1a6a195;2019;;Mrs__Linda_Hoffman;null;Data Management,Big Data;Volume;12326
 11868;f509d2f6_f64c_4a9d_a468_4d226978713f21;2022;;Isabella_Allen;null;Computer Science;Volume;11202
-12714;d906f6a7_deae_4d81_80f1_af0bffcf3a0679_2;2017;;Jacob_Wright;null;null;Volume;12328
+12714;d906f6a7_deae_4d81_80f1_af0bffcf3a0679_2;2017;;Jacob_Wright;null;Big Data,Data Management;Volume;12328
 12719;8bbffbf0_5dfc_4485_b4b1_d177fd330b212021;2021;;Thomas_Cox;null;Data Management;Volume;12332
-12717;b07fa1da_5ee6_4b4c_b227_9af39d1dcef019;2011;;Natalie_Fisher;null;null;Volume;12331
+12717;b07fa1da_5ee6_4b4c_b227_9af39d1dcef019;2011;;Natalie_Fisher;null;Data Management;Volume;12331
 12718;d72d7ef7_93f2_45e7_a0de_f97f34bdacff101;2021;;Robert_Torres;null;Data Management;Volume;10885
-11861;26ed29a9_64ce_4d6c_9024_8b022fd2fe2278;2022;;James_Burnett;null;Computer Science;Volume;11198
+11861;26ed29a9_64ce_4d6c_9024_8b022fd2fe2278;2022;;James_Burnett;null;Computer Science,Data Management;Volume;11198
 11860;f32b7322_b69c_4e63_801d_8f50784ef7782022;2022;;Jacob_Pratt;null;Data Management;Volume;11197
-11863;5291374f_6a33_40a6_a399_3fdd1ee0fd5158;2021;;Taylor_Bell;null;null;Volume;11196
-12711;7428aed7_e899_48c6_9af1_443b8a5bfb3643;2016;;Brandon_Barrett;null;null;Volume;12327
+11863;5291374f_6a33_40a6_a399_3fdd1ee0fd5158;2021;;Taylor_Bell;null;Computer Science;Volume;11196
+12711;7428aed7_e899_48c6_9af1_443b8a5bfb3643;2016;;Brandon_Barrett;null;Big Data,Data Management;Volume;12327
 11862;42427bfd_37b7_4ce3_b036_03417e5aa4de3;2021;;Chad_Frazier;null;Computer Science;Volume;11199
 12712;45723ce3_7b17_4d2b_92c0_c9f30be1a6a188;2016;;Mrs__Linda_Hoffman;null;Data Management;Volume;12326
 11865;2633f5b2_c15c_49fe_80f5_07523e770c269;2021;;Mark_Payne;null;Computer Science;Volume;10921
@@ -1128,15 +1128,15 @@ id;title;year;publisher;chair;city;area;type;venueId
 11878;5291374f_6a33_40a6_a399_3fdd1ee0fd5155;2020;;Taylor_Bell;null;Computer Science;Volume;11196
 12726;73c0d858_63b7_43b5_8109_f027a509e8b6176;2018;;Anthony_Serrano;null;Data Management;Volume;12334
 11877;166fd2b5_a928_4a98_a449_3b90935cc1012021;2021;;Shannon_Barker;null;Computer Science;Volume;11209
-12727;2bbc1e45_4074_471d_b003_2c8f5a99cdb070;2022;;James_Mathis;null;null;Volume;12317
-12724;b07fa1da_5ee6_4b4c_b227_9af39d1dcef022;2013;;Natalie_Fisher;null;null;Volume;12331
+12727;2bbc1e45_4074_471d_b003_2c8f5a99cdb070;2022;;James_Mathis;null;Data Management;Volume;12317
+12724;b07fa1da_5ee6_4b4c_b227_9af39d1dcef022;2013;;Natalie_Fisher;null;Data Management;Volume;12331
 11879;38e536b3_c893_4eab_8177_5cd8db8952e380;2022;;Jessica_Moore_MD;null;Computer Science;Volume;11193
 12725;b07fa1da_5ee6_4b4c_b227_9af39d1dcef021;2013;;Natalie_Fisher;null;Data Management;Volume;12331
-12728;4552f571_dd46_4bc5_a290_4faa81df1be036;2022;;Nancy_Lawson;null;null;Volume;12335
+12728;4552f571_dd46_4bc5_a290_4faa81df1be036;2022;;Nancy_Lawson;null;Data Management;Volume;12335
 12729;bb27e645_e57c_42c3_bcbc_c7b443c5820952;2020;;Jamie_Rich;null;Data Management,Big Data;Volume;12336
-11870;f509d2f6_f64c_4a9d_a468_4d226978713f19;2020;;Isabella_Allen;null;null;Volume;11202
+11870;f509d2f6_f64c_4a9d_a468_4d226978713f19;2020;;Isabella_Allen;null;Computer Science;Volume;11202
 11872;bb2109e3_dbea_40f7_8bf4_67a5ef512a1815;2022;;Carrie_Kim;null;Computer Science;Volume;11205
-11871;d6974de6_2e30_4295_bdb9_af21f7988e22132;2022;;Marcus_Thomas;null;null;Volume;11204
+11871;d6974de6_2e30_4295_bdb9_af21f7988e22132;2022;;Marcus_Thomas;null;Computer Science;Volume;11204
 11874;1cc63754_ee7f_40ba_a31f_cff494e20f72181;2022;;Robert_Wright;null;Computer Science;Volume;11206
 12722;b07fa1da_5ee6_4b4c_b227_9af39d1dcef025;2017;;Natalie_Fisher;null;Data Management;Volume;12331
 11873;5291374f_6a33_40a6_a399_3fdd1ee0fd5167;2022;;Taylor_Bell;null;Computer Science;Volume;11196
@@ -1146,35 +1146,35 @@ id;title;year;publisher;chair;city;area;type;venueId
 11875;e3e1f91c_fe26_4f67_8d15_f7acd8abdf42117;2021;;Christopher_Smith;null;Computer Science;Volume;11207
 12721;8b7a5483_7586_4015_b9c7_0d974a9cebc44;2018;;Megan_Herrera;null;Data Management;Volume;12333
 11845;55bed249_d30f_456b_9d2c_a51dc149cb7a41;2021;;Andre_Martinez;null;Data Management;Volume;11183
-11844;95311799_c8e1_4462_b488_455e57eaee8713;2022;;Tiffany_Foster;null;null;Volume;11182
+11844;95311799_c8e1_4462_b488_455e57eaee8713;2022;;Tiffany_Foster;null;Data Management;Volume;11182
 11847;d30776c0_e524_4f14_a524_871d0586862c13;2021;;Lisa_White;null;Data Management;Volume;11185
-11846;310fa781_1f4e_487d_a580_d8e99f5c81b713;2021;;Bradley_Valenzuela;null;null;Volume;11184
+11846;310fa781_1f4e_487d_a580_d8e99f5c81b713;2021;;Bradley_Valenzuela;null;Data Management;Volume;11184
 11849;227696f8_ce3a_4057_8a58_c7918d0b51ee15;2020;;Jessica_Young;null;Data Management;Volume;11187
-11848;8e9ac490_4c8b_49ab_8a33_d0691dfd8dc817;2021;;Daniel_Mckinney;null;null;Volume;11186
-11841;e211386b_0368_4bc5_9bbd_facc5f1101f519;2022;;Michael_Velez;null;null;Volume;11179
+11848;8e9ac490_4c8b_49ab_8a33_d0691dfd8dc817;2021;;Daniel_Mckinney;null;Data Management;Volume;11186
+11841;e211386b_0368_4bc5_9bbd_facc5f1101f519;2022;;Michael_Velez;null;Data Management;Volume;11179
 11840;e7e098c6_0b35_437b_b685_08c74931e19a38;2022;;John_Thomas;null;Data Management;Volume;11178
 11843;fdeb07d1_a046_4a1a_98aa_167e7f8e667a9;2019;;Harry_Brown;null;Data Management;Volume;11181
-11842;346d37c6_8ac8_4510_9273_a445b61e92dd31_8;2017;;Derek_Hensley;null;null;Volume;11180
+11842;346d37c6_8ac8_4510_9273_a445b61e92dd31_8;2017;;Derek_Hensley;null;Data Management;Volume;11180
 11856;38e536b3_c893_4eab_8177_5cd8db8952e370;2018;;Jessica_Moore_MD;null;Computer Science;Volume;11193
-12704;f9a8608a_8ca7_4320_9f68_cda1920f02ef75_6;2012;;Marcus_Willis;null;null;Volume;12307
+12704;f9a8608a_8ca7_4320_9f68_cda1920f02ef75_6;2012;;Marcus_Willis;null;Data Management;Volume;12307
 11855;228761ec_c40a_479b_8309_9dcbe9851bcd6;2019;;Ronald_Gonzalez;null;Computer Science;Volume;11192
-12705;6eaa6114_0b6b_4cb5_89f1_800139c79cce4;2011;;Maria_Ortega;null;null;Volume;12324
+12705;6eaa6114_0b6b_4cb5_89f1_800139c79cce4;2011;;Maria_Ortega;null;Data Management;Volume;12324
 11858;987139ae_a65d_49bb_aaf6_fb764dc40b19214;2022;;Carol_Smith;null;Computer Science;Volume;11195
 12702;9a8e51fc_bb44_46e6_9d49_15b314f2f76a28;2012;;Jonathan_Evans;null;Data Management;Volume;12297
-11857;48433268_b689_457a_8e57_36895fd4f04e99;2017;;Vanessa_Ellis;null;null;Volume;11194
+11857;48433268_b689_457a_8e57_36895fd4f04e99;2017;;Vanessa_Ellis;null;Computer Science;Volume;11194
 12703;f9a8608a_8ca7_4320_9f68_cda1920f02ef75_4;2012;;Marcus_Willis;null;Data Processing,Data Management;Volume;12307
-12708;55752572_d3be_433f_ab1a_696fccc33d3788;2010;;Timothy_Peck;null;null;Volume;12321
-11859;5291374f_6a33_40a6_a399_3fdd1ee0fd5170;2022;;Taylor_Bell;null;null;Volume;11196
+12708;55752572_d3be_433f_ab1a_696fccc33d3788;2010;;Timothy_Peck;null;Data Management;Volume;12321
+11859;5291374f_6a33_40a6_a399_3fdd1ee0fd5170;2022;;Taylor_Bell;null;Computer Science;Volume;11196
 12709;b79026fc_02f6_45a6_868c_48196bfd74b3115_11;2008;;Kristy_Phillips;null;Data Management;Volume;12311
 12706;5e31c5d5_eaf7_4832_aa9a_4565203cb02c128_11;2010;;Kathleen_Holmes;null;Data Management;Volume;12325
 12707;9a8e51fc_bb44_46e6_9d49_15b314f2f76a26;2010;;Jonathan_Evans;null;Data Management;Volume;12297
-11850;83909b48_76e9_42c1_b911_a4fd278d96202;2019;;Benjamin_Matthews;null;null;Volume;11188
+11850;83909b48_76e9_42c1_b911_a4fd278d96202;2019;;Benjamin_Matthews;null;Data Management;Volume;11188
 11852;477368e9_7a8e_475a_8c93_6d623797fd0681;2021;;Dr__Kerri_Mccullough;null;Computer Science;Volume;11190
-12700;f5279917_ce2b_489d_8c2f_8a8f80a3555997;2013;;Elizabeth_Dunn;null;null;Volume;12304
+12700;f5279917_ce2b_489d_8c2f_8a8f80a3555997;2013;;Elizabeth_Dunn;null;Data Management;Volume;12304
 11851;106ecc86_1801_4b36_a05c_d36db69a968c9;2018;;Derek_Robinson;null;Big Data,Data Management;Volume;11189
 12701;9a8e51fc_bb44_46e6_9d49_15b314f2f76a29;2013;;Jonathan_Evans;null;Data Management;Volume;12297
 11854;312ca99c_9149_490d_813e_c60d5e949f6532;2020;;John_Thornton;null;Computer Science;Volume;11191
-11853;2633f5b2_c15c_49fe_80f5_07523e770c268;2020;;Mark_Payne;null;Computer Science,Mathematics;Volume;10921
+11853;2633f5b2_c15c_49fe_80f5_07523e770c268;2020;;Mark_Payne;null;Computer Science;Volume;10921
 11819;d3dd5449_daa1_4d57_9412_9add6037584f8;2020;;Kaylee_Beck;null;Data Management;Volume;11160
 11823;a863051b_2c26_4ab6_aabe_57b9268870399;2020;;James_Howe_MD;null;Data Management;Volume;11164
 11822;e83993bd_8336_4ff8_860f_9a7209d8b02429;2020;;Breanna_Coleman;null;Data Management;Volume;11163
@@ -1182,15 +1182,15 @@ id;title;year;publisher;chair;city;area;type;venueId
 11824;a8fbf510_bd2b_4bef_b891_e92832f62a0113;2020;;Sheila_White;null;Data Management;Volume;11165
 11827;51278f27_cfdd_4938_81e4_9d54ca7b3cd011;2022;;Elizabeth_Sherman;null;Data Management;Volume;11168
 11826;35a4f1a1_cab2_41bc_bfd4_21da822e211514;2020;;Justin_Smith;null;Data Management;Volume;11167
-11829;a3fb5dc1_0d6e_4cd0_a720_8cb68cbf648640_8;2022;;Alexander_Washington;null;null;Volume;11169
+11829;a3fb5dc1_0d6e_4cd0_a720_8cb68cbf648640_8;2022;;Alexander_Washington;null;Data Management;Volume;11169
 11828;a3fb5dc1_0d6e_4cd0_a720_8cb68cbf648640_13;2022;;Alexander_Washington;null;Data Management;Volume;11169
-11821;44e7f35f_cde2_4924_b2d4_884ada7fed2644;2020;;Tracey_Curry;null;null;Volume;11162
+11821;44e7f35f_cde2_4924_b2d4_884ada7fed2644;2020;;Tracey_Curry;null;Data Management;Volume;11162
 11820;c18beb10_8881_4bdf_9a12_b52f31f8567531;2020;;Christopher_Nixon;null;Data Management;Volume;11161
 11834;8506a01a_40b8_4e6f_bbb8_ce2492139c1521;2020;;Alyssa_Gillespie;null;Big Data,Data Management;Volume;10899
 11833;9306cba7_22cc_42eb_95e4_21029cfa5c5769;2020;;Andrew_Peters;null;Data Management,Big Data;Volume;11172
 11836;3bafd996_9c94_473f_b9fe_84dbd068bb4111;2019;;Anna_Jackson;null;Data Management;Volume;11174
 11835;a3c92136_86d8_407a_9c91_45bd53eb2c7713;2020;;Philip_Marshall;null;Big Data,Data Management;Volume;11173
-11838;fc42e269_2a82_46d5_9175_2fd5bba88d78;2019;;Latoya_Brown;null;null;Volume;11176
+11838;fc42e269_2a82_46d5_9175_2fd5bba88d78;2019;;Latoya_Brown;null;Psychology,Data Management;Volume;11176
 11837;d75ef6ce_f73e_4fd3_a290_8886c151301e56;2018;;Bryan_Lang;null;Data Processing,Data Management;Volume;11175
 11839;31b2ea45_decb_4c4d_8e3e_683974781c9114;2022;;Austin_Brown;null;Data Management;Volume;11177
 11830;446b5506_d77e_4dee_9f31_2f35741ee52b16;2022;;Kevin_Silva;null;Data Management;Volume;11170
@@ -1198,19 +1198,19 @@ id;title;year;publisher;chair;city;area;type;venueId
 11831;a3fb5dc1_0d6e_4cd0_a720_8cb68cbf648637_13;2021;;Alexander_Washington;null;Data Management;Volume;11169
 11801;6334ef96_012a_49dd_be44_feab525ff93a47_3;2022;;Jennifer_Patton;null;Data Management;Volume;11146
 11800;e7c3aea1_83fc_4ada_9c71_1d6e1c527da8128;2022;;Mary_Rush;null;Data Management;Volume;11145
-11803;e8d8b9af_bc37_4239_8e75_13eb72b16a0966;2022;;Robert_Johnson;null;null;Volume;11148
-11802;b07ad337_ba9f_48ca_a0ff_59d1643601ac297;2022;;Christopher_Gomez;null;null;Volume;11147
-11805;6334ef96_012a_49dd_be44_feab525ff93a47_2;2022;;Jennifer_Patton;null;null;Volume;11146
+11803;e8d8b9af_bc37_4239_8e75_13eb72b16a0966;2022;;Robert_Johnson;null;Data Management;Volume;11148
+11802;b07ad337_ba9f_48ca_a0ff_59d1643601ac297;2022;;Christopher_Gomez;null;Data Management;Volume;11147
+11805;6334ef96_012a_49dd_be44_feab525ff93a47_2;2022;;Jennifer_Patton;null;Data Management;Volume;11146
 11804;df877a39_3025_4ec0_9c71_c0d2f500016654;2022;;Heather_Salazar;null;Data Management;Volume;11149
 11807;e9578a7c_746c_44f1_93ad_50f99b695aaf15;2022;;Daniel_Glenn;null;Data Management;Volume;11151
-11806;1c9b6047_50f4_48e7_8c4d_0ffb528c1d3051;2022;;Charles_Perez;null;null;Volume;11150
+11806;1c9b6047_50f4_48e7_8c4d_0ffb528c1d3051;2022;;Charles_Perez;null;Data Management;Volume;11150
 11809;91b19bbf_b6f0_46c2_bbec_6bcfb5463d4d26;2021;;Bryan_Thompson;null;Data Management;Volume;10904
 11808;b7b6d6de_ee8b_416d_afe8_249a87acba1727;2022;;Shawn_Johnson;null;Data Management;Volume;11152
 11812;6e5da609_3f49_4a0f_b638_ea480446829310;2021;;David_Velasquez;null;Data Management;Volume;11154
-11811;84a6a8b4_8e85_48bd_b65e_a83d83f9590812;2021;;Jennifer_Bean;null;null;Volume;10908
-11814;2f5e2e8b_ba09_4a3c_9de8_918f4686bbe44;2021;;Mark_White;null;null;Volume;11155
-11813;3416dd37_f45d_40ed_b04e_875fcff8fa2f13;2021;;Richard_Perry;null;null;Volume;11139
-11816;dbcbbf65_1e8d_40db_b2ca_12d8bc295acf38;2020;;Angel_Boyd;null;null;Volume;11157
+11811;84a6a8b4_8e85_48bd_b65e_a83d83f9590812;2021;;Jennifer_Bean;null;Data Management;Volume;10908
+11814;2f5e2e8b_ba09_4a3c_9de8_918f4686bbe44;2021;;Mark_White;null;Data Management;Volume;11155
+11813;3416dd37_f45d_40ed_b04e_875fcff8fa2f13;2021;;Richard_Perry;null;Data Management;Volume;11139
+11816;dbcbbf65_1e8d_40db_b2ca_12d8bc295acf38;2020;;Angel_Boyd;null;Data Management;Volume;11157
 11815;d4be572a_42ce_4560_9c45_48e0881534f638;2020;;Gerald_Marsh;null;Data Management;Volume;11156
 11818;d5320233_842b_4fb6_a6bb_b0ec70733a048;2020;;Kevin_Murphy;null;Data Management;Volume;11159
 11817;065af7a3_db4b_4c56_9501_2f3c910bf5b2319;2020;;Victoria_Caldwell;null;Data Management;Volume;11158
@@ -1219,8 +1219,8 @@ id;title;year;publisher;chair;city;area;type;venueId
 12792;e5eced8b_cee5_48e7_b166_2ad7b8e3625312_3;2017;;David_Coleman;null;Data Management;Volume;12375
 11461;c1e3e9e7_16cd_4a0c_90e0_fd54b22deb01145;2019;;Benjamin_Walker;null;Data Management,Big Data;Volume;10934
 11460;6a38ab1d_f5b7_4a0e_855f_0350f3eefd11254_Pt_B;2019;;Andrew_Kim;null;Data Management,Data Processing;Volume;10933
-12790;f1e52b32_d76c_435d_bc87_ee9b7f7c937634_3;2019;;Jerry_Sloan;null;null;Volume;12373
-11463;fb13e2e1_5b0b_42e1_bd2d_a962be02827d41;2018;;Jonathan_Fuller;null;null;Volume;10936
+12790;f1e52b32_d76c_435d_bc87_ee9b7f7c937634_3;2019;;Jerry_Sloan;null;Data Processing,Data Management;Volume;12373
+11463;fb13e2e1_5b0b_42e1_bd2d_a962be02827d41;2018;;Jonathan_Fuller;null;Data Processing,Data Management;Volume;10936
 12795;446b5506_d77e_4dee_9f31_2f35741ee52b12;2018;;Kevin_Silva;null;Big Data,Data Management;Volume;11170
 11462;4c8a81b0_9ddf_4e32_adfe_00fdbc9f9fcc238;2019;;Mark_Price;null;Data Management,Big Data;Volume;10935
 12796;2ae18de8_1e0b_4f92_9aa3_866ffc4f36e797;2018;;Kimberly_Lopez;null;Data Management;Volume;10851
@@ -1231,35 +1231,35 @@ id;title;year;publisher;chair;city;area;type;venueId
 11467;95af7b79_9396_42b1_bd71_c885eeb528d314;2021;;Brooke_Salas_DVM;null;Data Management,Big Data;Volume;10939
 12799;e28a224b_8ddb_49a6_82d2_17f23c68b30c12;2021;;Alyssa_Reid_DDS;null;Data Management;Volume;12378
 11466;3c26139d_3b45_4ab8_97d3_05924631270544;2021;;Marcus_Hickman;null;Big Data;Volume;10938
-11469;21470516_2cee_42e4_bd51_660e2e72b51e412;2021;;Jeffrey_Smith;null;null;Volume;10941
+11469;21470516_2cee_42e4_bd51_660e2e72b51e412;2021;;Jeffrey_Smith;null;Data Management;Volume;10941
 12797;1d2c294f_5435_4adc_84d0_cd6903a4299035;2018;;Richard_Cox;null;Big Data,Data Management;Volume;12377
 11468;e940bdf3_601c_415d_95ed_9c0197737d0311;2021;;Patrick_Turner;null;Data Management;Volume;10940
 12798;51278f27_cfdd_4938_81e4_9d54ca7b3cd012;2022;;Elizabeth_Sherman;null;Data Management;Volume;11168
 11470;d3e94eaf_5143_4284_b961_92208996dd3a107;2021;;Molly_Hunter;null;Data Management;Volume;10942
-11472;558a3215_8ffd_4b31_be7f_f653ca3b600d8;2020;;Jonathan_Hughes;null;null;Volume;10884
-11471;21470516_2cee_42e4_bd51_660e2e72b51e409;2020;;Jeffrey_Smith;null;null;Volume;10941
-11474;fb13e2e1_5b0b_42e1_bd2d_a962be02827d43;2020;;Jonathan_Fuller;null;null;Volume;10936
-11473;6a38ab1d_f5b7_4a0e_855f_0350f3eefd11266_Pt_3;2020;;Andrew_Kim;null;null;Volume;10933
+11472;558a3215_8ffd_4b31_be7f_f653ca3b600d8;2020;;Jonathan_Hughes;null;Big Data,Data Management;Volume;10884
+11471;21470516_2cee_42e4_bd51_660e2e72b51e409;2020;;Jeffrey_Smith;null;Big Data,Data Management;Volume;10941
+11474;fb13e2e1_5b0b_42e1_bd2d_a962be02827d43;2020;;Jonathan_Fuller;null;Data Processing,Data Management;Volume;10936
+11473;6a38ab1d_f5b7_4a0e_855f_0350f3eefd11266_Pt_3;2020;;Andrew_Kim;null;Data Management,Big Data;Volume;10933
 11476;b28ee4ed_df5b_4e05_b7b4_e725e227e99b30;2021;;Wendy_Webb;null;Data Management;Volume;10944
-11475;8eabe4e5_3d91_4297_ab8f_475904598d3023;2022;;Sean_Moore;null;null;Volume;10943
-11478;6a38ab1d_f5b7_4a0e_855f_0350f3eefd11270;2020;;Andrew_Kim;null;null;Volume;10933
-11477;1cdbb5fa_a336_4b58_bcd6_e173888584fa47;2021;;Erik_Schwartz;null;null;Volume;10945
+11475;8eabe4e5_3d91_4297_ab8f_475904598d3023;2022;;Sean_Moore;null;Data Management;Volume;10943
+11478;6a38ab1d_f5b7_4a0e_855f_0350f3eefd11270;2020;;Andrew_Kim;null;Data Management;Volume;10933
+11477;1cdbb5fa_a336_4b58_bcd6_e173888584fa47;2021;;Erik_Schwartz;null;Data Management;Volume;10945
 11479;4c8a81b0_9ddf_4e32_adfe_00fdbc9f9fcc259;2020;;Mark_Price;null;Big Data,Data Management;Volume;10935
 12770;3bc0e661_dc2a_454a_9ff5_6515430ce9ff8;2021;;Tara_Cunningham;null;Data Management;Volume;12358
 11449;08d7cf5a_27a7_438e_ad01_c6724b828bfb88;2016;;Rachel_Jenkins;null;Computer Science;Volume;10922
-11448;08d7cf5a_27a7_438e_ad01_c6724b828bfb95;2017;;Rachel_Jenkins;null;null;Volume;10922
-12779;3f7605a7_7e53_4ff7_8895_42f09a5f435511;2020;;Jacob_Salazar;null;null;Volume;11137
+11448;08d7cf5a_27a7_438e_ad01_c6724b828bfb95;2017;;Rachel_Jenkins;null;Computer Science;Volume;10922
+12779;3f7605a7_7e53_4ff7_8895_42f09a5f435511;2020;;Jacob_Salazar;null;Big Data,Data Management;Volume;11137
 11441;9ec189b3_db0f_41d8_9c82_21ef5fa9b87e9;2018;;Victor_Jordan;null;Big Data,Data Management;Volume;10917
-12773;f905eaaf_beb0_4c14_a953_2f1c7436a305240;2021;;Nancy_Gordon;null;null;Volume;12360
-11440;1482c701_ad4c_42fb_8793_94bb0023c1bf43;2022;;Krystal_Bridges;null;null;Volume;10916
+12773;f905eaaf_beb0_4c14_a953_2f1c7436a305240;2021;;Nancy_Gordon;null;Data Management;Volume;12360
+11440;1482c701_ad4c_42fb_8793_94bb0023c1bf43;2022;;Krystal_Bridges;null;Data Management;Volume;10916
 12774;16b00383_ffbd_4f92_a413_01e8b6a5ead656;2021;;Kevin_Santos;null;Data Management;Volume;12361
-11443;5caff2ef_18cc_4adb_b665_648039a5993322;2015;;Mikayla_Anderson;null;null;Volume;10919
+11443;5caff2ef_18cc_4adb_b665_648039a5993322;2015;;Mikayla_Anderson;null;Big Data,Data Management;Volume;10919
 12771;4efb9ad7_9740_4922_b9c8_c29376ca222313;2021;;David_Bennett_MD;null;Data Management;Volume;11297
 11442;8dcbaea5_3cdb_48b3_9f93_45c12ca1bb9118;2017;;Diane_Galloway;null;Data Management,Big Data;Volume;10918
-12772;bd08f6cc_3503_4b7e_a948_9974c2d4ef6e52;2021;;Daisy_Schneider;null;null;Volume;12359
+12772;bd08f6cc_3503_4b7e_a948_9974c2d4ef6e52;2021;;Daisy_Schneider;null;Data Management;Volume;12359
 11445;5fb10eaf_a09b_4e33_a397_37d9210767e5215;2012;;Kaitlin_Mcintyre;null;Big Data,Data Management;Volume;10920
 12777;43b3f0f9_489a_4566_8164_02fafde3cd9812;2021;;Bianca_Simmons;null;Data Management;Volume;10983
-11444;a00bd5bd_16f9_4574_be8a_c271d36d98a717;2015;;Bradley_Mccarthy;null;null;Volume;10915
+11444;a00bd5bd_16f9_4574_be8a_c271d36d98a717;2015;;Bradley_Mccarthy;null;Big Data,Data Management;Volume;10915
 12778;1bfea781_26ce_4872_a225_58319ddced32104;2021;;Robert_Eaton;null;Data Management;Volume;12363
 11447;2633f5b2_c15c_49fe_80f5_07523e770c266;2018;;Mark_Payne;null;Computer Science;Volume;10921
 12775;51278f27_cfdd_4938_81e4_9d54ca7b3cd010;2021;;Elizabeth_Sherman;null;Data Management;Volume;11168
@@ -1268,40 +1268,40 @@ id;title;year;publisher;chair;city;area;type;venueId
 12780;b327185b_8625_4a08_bc71_186ced443b4867;2020;;Wendy_Wright;null;Data Management,Big Data;Volume;12364
 12781;eb4f9e56_d6af_4814_8bec_6f13b70c733b24;2020;;Heather_Krueger;null;Data Management;Volume;12365
 11450;dde2f643_6f46_48ec_82a6_6f398b3b0d0b9;2005;;Brooke_Jarvis;null;Mathematics,Computer Science;Volume;10923
-11459;1dfaa555_69de_4420_8883_a43b394191ef10;2022;;Veronica_Craig;null;null;Volume;10932
-11452;b440a04a_022d_4b81_9ed7_2fc8cb1f70a165;2017;;Angela_Byrd;null;null;Volume;10925
+11459;1dfaa555_69de_4420_8883_a43b394191ef10;2022;;Veronica_Craig;null;Data Management;Volume;10932
+11452;b440a04a_022d_4b81_9ed7_2fc8cb1f70a165;2017;;Angela_Byrd;null;Psychology,Data Management;Volume;10925
 12784;dd6277ff_dc70_4098_b57b_50e7cbadf7910;2019;;Erica_Jensen;null;Data Management;Volume;11102
-11451;f498f529_8b18_4bdb_93a9_f3123a14a83350_3;2016;;Samuel_Bautista;null;null;Volume;10924
+11451;f498f529_8b18_4bdb_93a9_f3123a14a83350_3;2016;;Samuel_Bautista;null;Psychology,Data Management;Volume;10924
 12785;7dd493ea_462e_4e22_b9a7_071f2a8c444d316;2019;;Eric_Zamora;null;Data Management,Data Processing;Volume;12368
-11454;9fe23755_f584_44d1_b0b7_4b6cb0f08f9a27;2021;;Curtis_Evans;null;null;Volume;10927
+11454;9fe23755_f584_44d1_b0b7_4b6cb0f08f9a27;2021;;Curtis_Evans;null;Data Management;Volume;10927
 12782;4f744757_ddcb_4ab9_9056_ae154ff32d8115;2020;;Paula_Perry;null;Data Management;Volume;12366
 11453;89097a03_8be6_4e2d_ae2c_a6df64c77a0612;2021;;Elizabeth_Coleman;null;Data Management;Volume;10926
-12783;39058e09_c13a_4545_a8a3_a75581460bc210;2020;;Nicole_Brown;null;null;Volume;12367
+12783;39058e09_c13a_4545_a8a3_a75581460bc210;2020;;Nicole_Brown;null;Data Management,Big Data;Volume;12367
 11456;d45c1b1e_6745_4ce0_8110_f3a53cf52d6e51;2020;;Donna_Ellison;null;Data Management;Volume;10929
 12788;9ca918de_17bc_4758_8294_c739d6d034e733;2019;;Eric_Brown;null;Data Management;Volume;12371
-11455;3f614fc9_6ab7_4088_8541_4701a8c10f9c;2020;;Katherine_Sloan;null;null;Volume;10928
+11455;3f614fc9_6ab7_4088_8541_4701a8c10f9c;2020;;Katherine_Sloan;null;Data Management;Volume;10928
 12789;8a7464af_f2a9_4b6f_a940_222340fa6f5d13;2019;;Danielle_Castro;null;Data Management;Volume;12372
 11458;5c1b6b09_1246_465e_b292_b96a4e4c179c86;2023;;William_Woods;null;Data Management;Volume;10931
-12786;ea9d4180_f603_445c_b59a_5aaada9d4d8348;2019;;James_Cline;null;null;Volume;12369
-11457;18bd75fb_03db_4a15_ba44_fe2fecdef51b96;2016;;Danielle_Rowland;null;null;Volume;10930
+12786;ea9d4180_f603_445c_b59a_5aaada9d4d8348;2019;;James_Cline;null;Data Management,Data Processing;Volume;12369
+11457;18bd75fb_03db_4a15_ba44_fe2fecdef51b96;2016;;Danielle_Rowland;null;Big Data,Data Management;Volume;10930
 12787;be44b587_410a_43f6_9adb_ad2c1cb6a2d5152;2019;;Beverly_Barnes;null;Data Management,Data Processing;Volume;12370
 11427;611f3016_e211_4bf2_adfc_3b8b183314b5152;2022;;Kathryn_Bartlett;null;Data Management;Volume;10906
-12759;1f6f3f05_6a23_42f0_8d31_98ab8089c1f264;2016;;Allen_Delgado;null;null;Volume;12351
+12759;1f6f3f05_6a23_42f0_8d31_98ab8089c1f264;2016;;Allen_Delgado;null;Computer Science;Volume;12351
 11426;18977992_f8e8_4922_8c81_8230172787bb49_2;2022;;Rebecca_Lane;null;Data Management;Volume;10905
-11429;9e4222ac_5a6b_41b6_a08f_5ba74c5c12a8263;2021;;Eric_Wright;null;null;Volume;10907
+11429;9e4222ac_5a6b_41b6_a08f_5ba74c5c12a8263;2021;;Eric_Wright;null;Data Management;Volume;10907
 12757;20298d29_1b7a_4631_8e1d_e0a5d34bcf58177;2020;;Anthony_Holmes;null;Computer Science;Volume;11317
 11428;3096eb5c_d18c_4877_94cd_28edd3a9c35718;2021;;David_Casey;null;Data Management;Volume;10896
 12758;1f6f3f05_6a23_42f0_8d31_98ab8089c1f266;2018;;Allen_Delgado;null;Computer Science;Volume;12351
 12751;9f15b6a9_a062_41be_a397_bcce86eabb4126;2020;;Janet_Flores;null;Data Management;Volume;12346
-12752;ebdc1fa7_c0b8_4019_9767_015d6a824ba615;2022;;Eric_Cox;null;null;Volume;10868
+12752;ebdc1fa7_c0b8_4019_9767_015d6a824ba615;2022;;Eric_Cox;null;Data Management;Volume;10868
 11421;8506a01a_40b8_4e6f_bbb8_ce2492139c1523;2022;;Alyssa_Gillespie;null;Data Management;Volume;10899
 11420;4c767dd1_3ca6_47ad_8c31_4e4d3fd5a8fd22;2022;;Miss_Stephanie_Green_PhD;null;Data Management;Volume;10900
 12750;7a7dc89b_e1a6_44df_a496_46c330a878403;2021;;Walter_Chandler;null;Computer Science;Volume;12345
-11423;bfadef3c_766f_411b_9dac_69780835ba2444_8;2022;;Kathy_Dorsey;null;null;Volume;10902
-12755;e117fa7f_05b7_4dd6_b64b_0a0a7c0393d824;2015;;Beverly_Hall;null;null;Volume;12349
+11423;bfadef3c_766f_411b_9dac_69780835ba2444_8;2022;;Kathy_Dorsey;null;Data Management;Volume;10902
+12755;e117fa7f_05b7_4dd6_b64b_0a0a7c0393d824;2015;;Beverly_Hall;null;Computer Science,Data Management;Volume;12349
 11422;20f49295_6ad9_4d39_ac66_a41cd69f0e199;2022;;Bob_Shaw;null;Data Management;Volume;10901
-12756;ffdc730d_94d4_4af1_998c_03fb9dabc20144;2019;;James_Benjamin;null;null;Volume;12350
-11425;91b19bbf_b6f0_46c2_bbec_6bcfb5463d4d27;2022;;Bryan_Thompson;null;null;Volume;10904
+12756;ffdc730d_94d4_4af1_998c_03fb9dabc20144;2019;;James_Benjamin;null;Computer Science;Volume;12350
+11425;91b19bbf_b6f0_46c2_bbec_6bcfb5463d4d27;2022;;Bryan_Thompson;null;Data Management;Volume;10904
 12753;a3454210_a0d5_451a_8456_ef58557c463229;2017;;Bradley_Garcia;null;Databases;Volume;12347
 11424;721ed878_9136_408b_b2a3_dce27b9fa39e12;2022;;Dr__Danielle_White;null;Data Management;Volume;10903
 12754;a23c14a3_67da_47c8_8cd7_1a5bc809a70030;2015;;William_Johnson;null;Data Modeling;Volume;12348
@@ -1318,28 +1318,28 @@ id;title;year;publisher;chair;city;area;type;venueId
 11431;3096eb5c_d18c_4877_94cd_28edd3a9c35720;2022;;David_Casey;null;Data Management;Volume;10896
 12761;b7740ad8_1758_42ad_9991_fe191312530040;2017;;Justin_Flores;null;Engineering;Volume;12353
 11434;f8396992_960f_42a7_abbd_29aa729bc7f734;2022;;James_Beasley;null;Data Management;Volume;10911
-12766;e6c392b4_b4fc_409c_8ff2_c490c04076118;2022;;Jennifer_Sanders;null;null;Volume;12355
+12766;e6c392b4_b4fc_409c_8ff2_c490c04076118;2022;;Jennifer_Sanders;null;Data Management;Volume;12355
 11433;6728fbd4_e064_4236_9408_da1f023e8eb4307;2022;;Jesse_Johnson;null;Data Management;Volume;10910
 12767;5dcfbefa_a392_4eda_b8d6_2a691b447ac647;2022;;Robert_Woods;null;Data Management;Volume;12356
 11436;101cd62f_b0ca_4e6f_88b1_f575644329af25;2022;;Aaron_Mcdaniel;null;Data Management;Volume;10913
-12764;087e3670_1f14_467c_856b_8438dd5f7d3e102_2;2017;;David_Allen;null;null;Volume;12354
+12764;087e3670_1f14_467c_856b_8438dd5f7d3e102_2;2017;;David_Allen;null;Data Management;Volume;12354
 11435;cf50a44e_a88d_48ee_b09a_83784921411c83;2022;;William_Schmidt;null;Data Management;Volume;10912
-12765;087e3670_1f14_467c_856b_8438dd5f7d3e100_1;2016;;David_Allen;null;null;Volume;12354
+12765;087e3670_1f14_467c_856b_8438dd5f7d3e100_1;2016;;David_Allen;null;Data Management;Volume;12354
 11405;6db1ea70_a63f_4b17_94ed_eaea27ecee25248;2022;;Brett_Waller;null;Data Management;Volume;10887
 11889;501c1070_b5d2_4ff0_ad6f_8769a0a1e13f2018;2018;;Dorothy_Adams;null;Computer Science;Volume;11200
 12737;0aed7a40_85f3_4c66_9e1b_c1556c57001b17;2022;;Cassie_Munoz;null;Data Management;Volume;10854
-11404;6db1ea70_a63f_4b17_94ed_eaea27ecee25229;2021;;Brett_Waller;null;null;Volume;10887
+11404;6db1ea70_a63f_4b17_94ed_eaea27ecee25229;2021;;Brett_Waller;null;Data Management;Volume;10887
 11888;501c1070_b5d2_4ff0_ad6f_8769a0a1e13f2019;2019;;Dorothy_Adams;null;Computer Science;Volume;11200
-12738;f99f77b7_b1b6_44d3_984a_f288e9884b9b13;2023;;Tanya_Allen;null;null;Volume;10996
+12738;f99f77b7_b1b6_44d3_984a_f288e9884b9b13;2023;;Tanya_Allen;null;Data Management;Volume;10996
 11407;137df871_0be4_4ea4_9f85_52b2b36070a3145_1;2014;;Bryan_Taylor;null;Data Management;Volume;10889
 12735;4b1fd7f5_3b44_452b_b185_dcd785a81edf183;2020;;Alicia_Hughes;null;Data Management,Geography;Volume;11153
 11406;7ec42d99_e63d_4245_b6e0_31783258f17b16;2021;;Karen_Gilbert;null;Data Management;Volume;10888
-12736;d3dd5449_daa1_4d57_9412_9add6037584f10;2023;;Kaylee_Beck;null;null;Volume;11160
+12736;d3dd5449_daa1_4d57_9412_9add6037584f10;2023;;Kaylee_Beck;null;Data Management;Volume;11160
 11409;25a71dc7_cafb_40da_a773_86dec5d4d68236_10;2020;;Katelyn_Ayala;null;Data Management;Volume;10891
-11408;eae0d6b9_74db_4d4b_877e_7f0aebe2867d8_6;2020;;Ryan_Lamb;null;null;Volume;10890
+11408;eae0d6b9_74db_4d4b_877e_7f0aebe2867d8_6;2020;;Ryan_Lamb;null;Data Management;Volume;10890
 12739;e5a3232d_4d61_4119_ba59_370625393cfb15;2022;;Veronica_Grant;null;Data Management;Volume;12338
 11881;38a8edf0_2998_4daf_93f7_16f34689e22816;2022;;Christopher_King;null;Computer Science;Volume;11211
-11880;95d0dda7_5d58_4afd_b59f_315447b8199222;2020;;Derek_Robinson;null;null;Volume;11210
+11880;95d0dda7_5d58_4afd_b59f_315447b8199222;2020;;Derek_Robinson;null;Computer Science;Volume;11210
 12730;4552f571_dd46_4bc5_a290_4faa81df1be037;2022;;Nancy_Lawson;null;Data Management;Volume;12335
 11883;1620da87_4387_4b9a_9bf4_22fdf74d4dc310;2018;;Emily_Baker;null;Computer Science,Mathematics;Volume;11212
 11882;2633f5b2_c15c_49fe_80f5_07523e770c2610;2022;;Mark_Payne;null;Computer Science;Volume;10921
@@ -1348,34 +1348,34 @@ id;title;year;publisher;chair;city;area;type;venueId
 12733;6a857ee6_6b97_4c6f_9239_9f63a59c0c4111;2022;;Ryan_Davis;null;Data Management;Volume;12337
 11400;910f05b9_f423_44fc_9fc1_c6b3d2481fe010;2017;;Christopher_Potts;null;Data Management;Volume;10869
 11884;8f5e0848_3fd6_4129_ab41_393d4529fd7c14;2020;;Andrew_Fitzpatrick;null;Computer Science;Volume;11213
-12734;4b1fd7f5_3b44_452b_b185_dcd785a81edf175;2019;;Alicia_Hughes;null;null;Volume;11153
+12734;4b1fd7f5_3b44_452b_b185_dcd785a81edf175;2019;;Alicia_Hughes;null;Data Management,Geography;Volume;11153
 11403;ac88e0cc_a51a_43d1_b09c_518195f3f8a246;2020;;Mrs__Holly_Benjamin;null;Data Management;Volume;10886
 11887;2633f5b2_c15c_49fe_80f5_07523e770c267;2019;;Mark_Payne;null;Computer Science;Volume;10921
 12731;0aed7a40_85f3_4c66_9e1b_c1556c57001b18;2023;;Cassie_Munoz;null;Data Management;Volume;10854
-11402;b41d7819_0c99_4ffa_8b84_e9a78da9b48718;2017;;Jeffrey_Wilcox;null;null;Volume;10871
-11886;d56ebe2f_b08f_4b5c_ae3a_63144701ed0488;2020;;Betty_Wagner;null;null;Volume;11214
+11402;b41d7819_0c99_4ffa_8b84_e9a78da9b48718;2017;;Jeffrey_Wilcox;null;Data Management;Volume;10871
+11886;d56ebe2f_b08f_4b5c_ae3a_63144701ed0488;2020;;Betty_Wagner;null;Computer Science;Volume;11214
 12732;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a915_10;2022;;Nicholas_Cline;null;Data Management;Volume;12303
 11890;48433268_b689_457a_8e57_36895fd4f04e100;2018;;Vanessa_Ellis;null;Computer Science;Volume;11194
-11416;3096eb5c_d18c_4877_94cd_28edd3a9c35717;2020;;David_Casey;null;null;Volume;10896
+11416;3096eb5c_d18c_4877_94cd_28edd3a9c35717;2020;;David_Casey;null;Data Management;Volume;10896
 12748;79644985_a91b_42a7_ac72_bb961c283f5e26;2021;;Tara_Bird;null;Computer Science;Volume;12343
-11415;adcb14d8_b24c_4018_80c1_8bb8f9f7964724;2021;;Maxwell_Miles;null;null;Volume;10895
-11899;a3da0b9b_c8ef_4c37_94d3_27c2d2dd4e9071_2;1977;;Alexander_Scott;null;null;Volume;11222
+11415;adcb14d8_b24c_4018_80c1_8bb8f9f7964724;2021;;Maxwell_Miles;null;Data Management;Volume;10895
+11899;a3da0b9b_c8ef_4c37_94d3_27c2d2dd4e9071_2;1977;;Alexander_Scott;null;Materials Science,Data Management;Volume;11222
 12749;7b19fb63_6e4e_4972_bd80_9e2b17941c958;2021;;Adam_Sanford;null;Data Management;Volume;12344
 11418;b5d743df_8523_464c_a1f4_10ead6be30a638;2020;;Susan_Andrade;null;Data Management;Volume;10898
-12746;51deae62_37a3_4ee1_8226_77f487033e542;2020;;Jonathan_Russell;null;null;Volume;12342
-11417;5b8fa84c_8f83_422e_96c7_c3fac38103ea20;2020;;Rachel_Lee;null;null;Volume;10897
+12746;51deae62_37a3_4ee1_8226_77f487033e542;2020;;Jonathan_Russell;null;Sociology,Physics;Volume;12342
+11417;5b8fa84c_8f83_422e_96c7_c3fac38103ea20;2020;;Rachel_Lee;null;Data Management;Volume;10897
 12747;323ef13a_5187_4861_9cd8_a11103342d5318;2020;;Dr__Jennifer_Chavez;null;Geography,Data Management;Volume;12341
 11419;8506a01a_40b8_4e6f_bbb8_ce2492139c1524;2023;;Alyssa_Gillespie;null;Data Management;Volume;10899
-11892;4c1bc8cf_5a6c_4b67_8d4a_dbc2ce7a06ae20;1984;;Amber_Reynolds;null;null;Volume;11216
+11892;4c1bc8cf_5a6c_4b67_8d4a_dbc2ce7a06ae20;1984;;Amber_Reynolds;null;Data Management;Volume;11216
 12740;068307b2_dd2f_4eaf_820d_b54b45a715cb41;2022;;Debra_Harrison;null;Data Management;Volume;12339
 11891;cf25f885_7230_4882_89ab_019a94b92e9015;2018;;Julie_Johnson;null;Computer Science;Volume;11215
-12741;03446d0e_493b_4f36_9ec4_e9279e4747aa29;2022;;Michael_Klein;null;null;Volume;12340
+12741;03446d0e_493b_4f36_9ec4_e9279e4747aa29;2022;;Michael_Klein;null;Data Management;Volume;12340
 11410;36020338_a0e3_4eba_aa2f_78a1815fd1a613;2018;;Wayne_Woodward;null;Data Management;Volume;10892
 11894;12e26c13_002d_43e8_8cf0_03235a888d2752_1;2005;;Kristine_Brown;null;Data Management;Volume;11218
 11893;ea8ee4cd_cdca_47a5_9aac_ffc71218835e36_6;1989;;David_Griffin;null;Data Management;Volume;11217
 11412;36020338_a0e3_4eba_aa2f_78a1815fd1a618;2022;;Wayne_Woodward;null;Data Management;Volume;10892
-11896;c3e5f1c8_9ba7_47e5_acde_53063a69d48311;2019;;Lisa_Garcia;null;null;Volume;11220
-12744;323ef13a_5187_4861_9cd8_a11103342d5319;2021;;Dr__Jennifer_Chavez;null;null;Volume;12341
+11896;c3e5f1c8_9ba7_47e5_acde_53063a69d48311;2019;;Lisa_Garcia;null;Computer Science;Volume;11220
+12744;323ef13a_5187_4861_9cd8_a11103342d5319;2021;;Dr__Jennifer_Chavez;null;Data Management;Volume;12341
 11411;d2b6f83d_a912_40d2_af6d_03ad01c81c5e82_8;2018;;Sharon_Garcia;null;Data Management;Volume;10893
 11895;1fe12134_2747_4fcc_8457_351f11d56cf269;1993;;Lawrence_Cruz;null;Data Management;Volume;11219
 12745;6bc10a15_943a_45d8_af37_996d0b52574e769;2021;;Gary_Hughes;null;Data Management;Volume;10947
@@ -1385,45 +1385,45 @@ id;title;year;publisher;chair;city;area;type;venueId
 11413;36020338_a0e3_4eba_aa2f_78a1815fd1a617;2022;;Wayne_Woodward;null;Data Management;Volume;10892
 11897;38e536b3_c893_4eab_8177_5cd8db8952e373;2019;;Jessica_Moore_MD;null;Computer Science;Volume;11193
 12743;03446d0e_493b_4f36_9ec4_e9279e4747aa28;2021;;Michael_Klein;null;Data Management;Volume;12340
-12271;ec9ef376_7a68_443b_8411_e92b1ad6b7981;1996;;Karen_Vazquez;null;null;Volume;12233
+12271;ec9ef376_7a68_443b_8411_e92b1ad6b7981;1996;;Karen_Vazquez;null;Big Data,Data Management;Volume;12233
 12270;33b50733_0be0_44b0_844a_63653da9139136;1996;;Mr__Jaime_Shepard;null;Data Management;Volume;12232
 12273;4f00a801_0c56_486e_8c85_33d8b7e279da33;1995;;Nicholas_Mason;null;Big Data,Data Management;Volume;12235
-13121;643216f8_659a_48b7_84aa_82007d205225157;2007;;James_Scott;null;null;Volume;12560
-12272;7d071626_1aa2_4dad_a259_bcccedccf44d183;1996;;Julie_Morales;null;null;Volume;12234
+13121;643216f8_659a_48b7_84aa_82007d205225157;2007;;James_Scott;null;Data Management;Volume;12560
+12272;7d071626_1aa2_4dad_a259_bcccedccf44d183;1996;;Julie_Morales;null;Big Data,Data Management;Volume;12234
 13122;8a257033_ea67_4623_90da_49cbbe0d6e5b6;2007;;Penny_Graham;null;Data Management;Volume;12587
 12275;1c130850_66f4_486c_839c_3dc39df267bd450_2;2002;;Angel_Nelson;null;Data Management;Volume;11023
 12274;b0bd78b2_6591_460e_af71_196409b62e2c55_14;1995;;Kimberly_Martinez;null;Data Management;Volume;12236
-13120;6a30d531_39be_49fe_a84a_aac55c7d3f8d26_4;2008;;Devin_Moore;null;null;Volume;12586
+13120;6a30d531_39be_49fe_a84a_aac55c7d3f8d26_4;2008;;Devin_Moore;null;Data Management;Volume;12586
 12277;895f40c9_c3f4_4b8e_9ff1_31b11193ad84110;1997;;Mark_Davis;null;Data Management;Volume;12211
-13125;92aaef6b_439e_4334_9d8a_097a24533ff716_2;2007;;Danielle_Bowen;null;null;Volume;12588
-12276;2d0a1f5d_3208_4c3f_b398_b73522e3573f11;1998;;Alexander_Key;null;null;Volume;12213
-13126;fcbcd035_5d1f_4d17_92b9_9deafc5c692b93;2006;;Shannon_Ortiz;null;null;Volume;12589
+13125;92aaef6b_439e_4334_9d8a_097a24533ff716_2;2007;;Danielle_Bowen;null;Data Management;Volume;12588
+12276;2d0a1f5d_3208_4c3f_b398_b73522e3573f11;1998;;Alexander_Key;null;Data Management;Volume;12213
+13126;fcbcd035_5d1f_4d17_92b9_9deafc5c692b93;2006;;Shannon_Ortiz;null;Data Management;Volume;12589
 13123;ec9ef376_7a68_443b_8411_e92b1ad6b79812;2007;;Karen_Vazquez;null;Big Data,Data Management;Volume;12233
-13124;a2e1e5d7_a667_4c7d_8f55_0a960ba5507a9_2;2007;;Anthony_Payne;null;null;Volume;12573
-13129;98bccbb5_2fdb_4932_805a_2a3a9cceab4d209_2;2005;;Christopher_Rogers;null;null;Volume;12592
-13127;96d45a63_770d_4b9e_a127_65d87bf1294919;2006;;Eric_Robinson;null;null;Volume;12590
-13128;b181ba74_e507_4d46_a2f9_d2ae419d71514_4;2006;;Jennifer_Terrell;null;null;Volume;12591
-13132;07be6afd_ad24_4e8f_ad9b_8f87c438e56c54_5;2005;;Danielle_Cook;null;null;Volume;12595
+13124;a2e1e5d7_a667_4c7d_8f55_0a960ba5507a9_2;2007;;Anthony_Payne;null;Data Management;Volume;12573
+13129;98bccbb5_2fdb_4932_805a_2a3a9cceab4d209_2;2005;;Christopher_Rogers;null;Data Processing,Data Management;Volume;12592
+13127;96d45a63_770d_4b9e_a127_65d87bf1294919;2006;;Eric_Robinson;null;Data Management;Volume;12590
+13128;b181ba74_e507_4d46_a2f9_d2ae419d71514_4;2006;;Jennifer_Terrell;null;Data Management;Volume;12591
+13132;07be6afd_ad24_4e8f_ad9b_8f87c438e56c54_5;2005;;Danielle_Cook;null;Big Data,Data Management;Volume;12595
 13133;fcbcd035_5d1f_4d17_92b9_9deafc5c692b91;2004;;Shannon_Ortiz;null;Data Management;Volume;12589
-13130;f93802b0_fc56_4fcc_ae4e_532be432076525;2005;;Justin_Jones;null;null;Volume;12593
-13131;b94fd040_83f4_4038_a271_21cf6fc1b644242;2005;;Holly_Reed;null;null;Volume;12594
-13136;b27b9d3b_9e15_44dc_abb7_5f06da35096d18;2004;;Jillian_Knapp;null;null;Volume;12596
-13137;8454ebad_02a1_4d3a_900e_1540fd8196a88;2004;;Roger_Hanson;null;null;Volume;12597
-13134;6c1b0ec7_15b8_4f2e_8113_82a5eb121bde123_5;2004;;Angela_Simmons;null;null;Volume;12283
-13135;4dc96079_a390_468e_85c9_da11a3304053165_3;2004;;Brian_Hicks;null;null;Volume;12374
+13130;f93802b0_fc56_4fcc_ae4e_532be432076525;2005;;Justin_Jones;null;Data Management;Volume;12593
+13131;b94fd040_83f4_4038_a271_21cf6fc1b644242;2005;;Holly_Reed;null;Data Management;Volume;12594
+13136;b27b9d3b_9e15_44dc_abb7_5f06da35096d18;2004;;Jillian_Knapp;null;Data Management;Volume;12596
+13137;8454ebad_02a1_4d3a_900e_1540fd8196a88;2004;;Roger_Hanson;null;Data Management;Volume;12597
+13134;6c1b0ec7_15b8_4f2e_8113_82a5eb121bde123_5;2004;;Angela_Simmons;null;Data Management,Big Data;Volume;12283
+13135;4dc96079_a390_468e_85c9_da11a3304053165_3;2004;;Brian_Hicks;null;Big Data,Data Management;Volume;12374
 13138;98bccbb5_2fdb_4932_805a_2a3a9cceab4d192_3;2003;;Christopher_Rogers;null;Data Management;Volume;12592
 13139;6c1b0ec7_15b8_4f2e_8113_82a5eb121bde121_4;2003;;Angela_Simmons;null;Big Data,Data Management;Volume;12283
-12251;c25bbeaa_7844_4854_9aa0_a3750dd9cf1310;2006;;Kayla_White;null;null;Volume;12217
+12251;c25bbeaa_7844_4854_9aa0_a3750dd9cf1310;2006;;Kayla_White;null;Data Management;Volume;12217
 12250;a11f119f_56cc_43a5_b005_6716c71eebac211_2;2007;;Jennifer_Woods;null;Data Management;Volume;12210
-13100;7d43d736_32f0_4c93_ab50_d0890e0d2a14194_2;2015;;Karen_Miller;null;null;Volume;10831
-12253;56cde9e1_007e_4232_b5ea_ac20f55c39e821_9;2011;;Richard_Wright;null;null;Volume;12218
+13100;7d43d736_32f0_4c93_ab50_d0890e0d2a14194_2;2015;;Karen_Miller;null;Data Management;Volume;10831
+12253;56cde9e1_007e_4232_b5ea_ac20f55c39e821_9;2011;;Richard_Wright;null;Data Processing,Data Management;Volume;12218
 12252;f99f77b7_b1b6_44d3_984a_f288e9884b9b5;2015;;Tanya_Allen;null;Big Data,Data Management;Volume;10996
 13109;95e54b20_e12b_4788_9db7_436c24f5bf7d112;2011;;Joanna_Gardner;null;Big Data,Data Management;Volume;12577
 12255;aa4e075d_c3c8_49ed_9dd3_704c0873b52d17;2008;;Mark_Ferguson;null;Data Management;Volume;12220
-13103;42defe25_0ffe_447f_b845_67d36db6fe9924_1;2013;;Andrea_Crane;null;null;Volume;12571
+13103;42defe25_0ffe_447f_b845_67d36db6fe9924_1;2013;;Andrea_Crane;null;Data Management,Big Data;Volume;12571
 12254;4cce60a8_2106_4240_bece_fb6488df6bd153_12;2010;;Javier_Hines;null;Data Processing,Data Management;Volume;12219
 13104;303c882a_02ca_441a_80ac_71dce571236a62_4;2013;;Peter_Carlson;null;Data Management;Volume;12572
-12257;31c3b4cd_2f3a_41e9_ae51_671746ccc1723;1999;;Nathan_Woods;null;null;Volume;12222
+12257;31c3b4cd_2f3a_41e9_ae51_671746ccc1723;1999;;Nathan_Woods;null;Data Management;Volume;12222
 13101;e450ce21_8540_4780_884f_7c96329cefe37_12;2014;;Adrienne_Schroeder;null;Data Management;Volume;12570
 12256;9a272984_d484_429f_b0b2_1597b1fc107e7_8;2007;;Andrea_Oconnor;null;Data Management;Volume;12221
 13102;cce02c1a_35d1_4088_a245_e642b7a01e0622;2014;;Karen_Gilmore;null;Big Data,Data Management;Volume;12569
@@ -1431,54 +1431,54 @@ id;title;year;publisher;chair;city;area;type;venueId
 13107;9e867a6d_79c2_4cef_b939_738283fc3e3a5_3;2011;;Mary_Anderson;null;Big Data,Data Management;Volume;12575
 12258;56753896_ea87_41d6_a80a_b4ddc837231811_1;2004;;Jessica_Todd;null;Data Management;Volume;12223
 13108;dd749982_4280_4ffb_a52d_7f46043ea631311_1;2011;;Zachary_Summers;null;Big Data,Data Management;Volume;12576
-13105;a2e1e5d7_a667_4c7d_8f55_0a960ba5507a14_3;2012;;Anthony_Payne;null;null;Volume;12573
+13105;a2e1e5d7_a667_4c7d_8f55_0a960ba5507a14_3;2012;;Anthony_Payne;null;Data Management;Volume;12573
 13106;5e250344_6740_4c5a_aa2f_a1a4995cf31750_4;2012;;Shirley_Raymond;null;Data Management;Volume;12574
 12260;9a272984_d484_429f_b0b2_1597b1fc107e2_10;2002;;Andrea_Oconnor;null;Big Data,Data Management;Volume;12221
 12262;592507fd_0739_4855_ae80_eb3dabbce52c33_1_2;2001;;Michael_Brown;null;Big Data,Data Management;Volume;12209
-13110;375dea9a_d98a_4358_886d_fe109e60ee1d30;2011;;Nichole_Mcconnell;null;null;Volume;12578
+13110;375dea9a_d98a_4358_886d_fe109e60ee1d30;2011;;Nichole_Mcconnell;null;Big Data,Data Management;Volume;12578
 12261;26d90084_ccf2_4fc6_8e4a_99855dbc476060_4;2001;;Jerry_Aguirre;null;Data Management;Volume;12225
 13111;14a94a52_4eca_4485_967b_e8a2904d7cb549;2011;;Holly_Hanson;null;Data Management;Volume;12579
 12264;75591639_d43b_4f5f_bd6a_ef973812af5e2;2000;;Casey_Le;null;Data Management;Volume;12227
 12263;9e813668_7b2e_4506_9e7e_4a285f318e46;2001;;Katherine_Ross;null;Data Management;Volume;12226
 12266;a83e1f69_9a4a_4cbd_9d0c_e71604badfed68_11;1999;;Erin_Mendoza;null;Big Data,Data Management;Volume;12229
-13114;16b00383_ffbd_4f92_a413_01e8b6a5ead645_6;2010;;Kevin_Santos;null;null;Volume;12361
+13114;16b00383_ffbd_4f92_a413_01e8b6a5ead645_6;2010;;Kevin_Santos;null;Data Processing,Data Management;Volume;12361
 12265;58701df8_323b_4333_99d3_21de28e11db720;2000;;Stephanie_Bruce;null;Data Management;Volume;12228
-13115;5e163e08_2d79_4c73_9f39_434e3dc2c3551359;2010;;Amanda_Reed;null;null;Volume;12582
-12268;7d43d736_32f0_4c93_ab50_d0890e0d2a1471_2;1997;;Karen_Miller;null;null;Volume;10831
-13112;c9183add_35b6_4500_ace2_a903a1cdc0e550;2011;;Hunter_Gray;null;null;Volume;12580
+13115;5e163e08_2d79_4c73_9f39_434e3dc2c3551359;2010;;Amanda_Reed;null;Data Management,Data Processing;Volume;12582
+12268;7d43d736_32f0_4c93_ab50_d0890e0d2a1471_2;1997;;Karen_Miller;null;Data Management;Volume;10831
+13112;c9183add_35b6_4500_ace2_a903a1cdc0e550;2011;;Hunter_Gray;null;Data Management;Volume;12580
 12267;b57dc872_5fe7_4ced_aa7d_c25e6425a7de48;1998;;Shawn_Figueroa;null;Big Data,Data Management;Volume;12230
 13113;8c1320ed_0d09_48ee_8c27_ed7835e9239946;2010;;Adam_Montes;null;Data Management;Volume;12581
 13118;09f6dd95_50da_48e6_b4be_176c05437728172;2009;;Sean_Larson;null;Data Management;Volume;12584
 12269;458166b3_de17_4bf3_bbbb_e53782de2f0f15;1997;;Jordan_Lopez;null;Big Data,Data Management;Volume;12231
-13119;09684f50_e503_47ba_a0b5_5235b04b1c7c122;2008;;Elizabeth_Cruz;null;null;Volume;12585
+13119;09684f50_e503_47ba_a0b5_5235b04b1c7c122;2008;;Elizabeth_Cruz;null;Data Management;Volume;12585
 13116;a1d7dae8_5279_48c9_95c8_920a0a64e17624_2;2010;;Sharon_Kelly;null;Big Data,Data Management;Volume;12583
 13117;643216f8_659a_48b7_84aa_82007d205225162;2010;;James_Scott;null;Big Data,Data Management;Volume;12560
 11380;910f05b9_f423_44fc_9fc1_c6b3d2481fe09;2016;;Christopher_Potts;null;Data Management;Volume;10869
 11382;b41d7819_0c99_4ffa_8b84_e9a78da9b48723;2022;;Jeffrey_Wilcox;null;Data Management;Volume;10871
 11381;910f05b9_f423_44fc_9fc1_c6b3d2481fe015;2022;;Christopher_Potts;null;Data Management;Volume;10869
-11384;d29bb04c_59e3_4f7a_9113_26615223c3fc42_4;2021;;Angela_Sanchez;null;null;Volume;10873
-11383;96df4f1a_0eaa_443b_9724_6065446b5f9470;2021;;Anne_Ortiz;null;null;Volume;10872
-11386;4edfcb61_9d1a_429f_a62d_5e205e24997913;2020;;Gregory_Hale;null;null;Volume;10875
+11384;d29bb04c_59e3_4f7a_9113_26615223c3fc42_4;2021;;Angela_Sanchez;null;Data Management;Volume;10873
+11383;96df4f1a_0eaa_443b_9724_6065446b5f9470;2021;;Anne_Ortiz;null;Data Management;Volume;10872
+11386;4edfcb61_9d1a_429f_a62d_5e205e24997913;2020;;Gregory_Hale;null;Psychology,Data Management;Volume;10875
 11385;0af9a05c_3f93_4bee_b183_09d59ce0d2ae88;2020;;Kayla_Chavez;null;Data Management,Computer Science;Volume;10874
 11388;35789fde_c9aa_4c6a_a90d_9d88f9f796e54;2019;;Kellie_Lee;null;Psychology,Data Management;Volume;10877
-11387;2c777a44_2c6d_47d2_b1e6_7044b32c8f4c37_2;2020;;Jennifer_Castillo;null;null;Volume;10876
-12237;ea8a6bc0_9ac8_4261_8163_02950638332659_11_12;2014;;Carl_Cunningham;null;null;Volume;12208
+11387;2c777a44_2c6d_47d2_b1e6_7044b32c8f4c37_2;2020;;Jennifer_Castillo;null;Data Management;Volume;10876
+12237;ea8a6bc0_9ac8_4261_8163_02950638332659_11_12;2014;;Carl_Cunningham;null;Data Management;Volume;12208
 11389;b41d7819_0c99_4ffa_8b84_e9a78da9b48720;2019;;Jeffrey_Wilcox;null;Data Management;Volume;10871
-12239;592507fd_0739_4855_ae80_eb3dabbce52c41_10;2009;;Michael_Brown;null;null;Volume;12209
-12238;592507fd_0739_4855_ae80_eb3dabbce52c22_4;1990;;Michael_Brown;null;null;Volume;12209
+12239;592507fd_0739_4855_ae80_eb3dabbce52c41_10;2009;;Michael_Brown;null;Data Management;Volume;12209
+12238;592507fd_0739_4855_ae80_eb3dabbce52c22_4;1990;;Michael_Brown;null;Data Management;Volume;12209
 11391;418f9478_b986_4e84_a38c_7ebba5d688eb48;2019;;Garrett_Harmon;null;Data Management;Volume;10879
-11390;e6216b43_2428_4aaf_8101_b40e1dfd28109;2019;;Christopher_Delacruz;null;null;Volume;10878
-11393;7b492226_1473_4547_ae61_93b13272f6e5118;2018;;Jeremy_Cole;null;null;Volume;10881
-12240;a11f119f_56cc_43a5_b005_6716c71eebac208_3;2006;;Jennifer_Woods;null;null;Volume;12210
-11392;e6c1bf53_107b_4771_9d0c_42ab1467717b35_2;2019;;Jessica_Davis;null;null;Volume;10880
-11395;910f05b9_f423_44fc_9fc1_c6b3d2481fe012;2019;;Christopher_Potts;null;null;Volume;10869
+11390;e6216b43_2428_4aaf_8101_b40e1dfd28109;2019;;Christopher_Delacruz;null;Data Management;Volume;10878
+11393;7b492226_1473_4547_ae61_93b13272f6e5118;2018;;Jeremy_Cole;null;Data Management;Volume;10881
+12240;a11f119f_56cc_43a5_b005_6716c71eebac208_3;2006;;Jennifer_Woods;null;Data Management;Volume;12210
+11392;e6c1bf53_107b_4771_9d0c_42ab1467717b35_2;2019;;Jessica_Davis;null;Data Management;Volume;10880
+11395;910f05b9_f423_44fc_9fc1_c6b3d2481fe012;2019;;Christopher_Potts;null;Data Management;Volume;10869
 12242;895f40c9_c3f4_4b8e_9ff1_31b11193ad8489;1992;;Mark_Davis;null;Data Management;Volume;12211
-11394;e7b43e87_f462_44e0_b6a3_a7e66e14f7542018;2018;;Timothy_Estrada;null;null;Volume;10882
-12241;fa1f0815_0811_4291_b4fc_8230a6c9bf5b685;1993;;Lisa_Ramirez;null;null;Volume;11122
+11394;e7b43e87_f462_44e0_b6a3_a7e66e14f7542018;2018;;Timothy_Estrada;null;Data Management;Volume;10882
+12241;fa1f0815_0811_4291_b4fc_8230a6c9bf5b685;1993;;Lisa_Ramirez;null;Data Management;Volume;11122
 11397;a564c929_d409_4c99_9892_19a944df5fbf38;2019;;Melissa_Peters;null;Data Management;Volume;10883
 12244;2d0a1f5d_3208_4c3f_b398_b73522e3573f5_Suppl_1;1992;;Alexander_Key;null;Data Management;Volume;12213
 11396;a564c929_d409_4c99_9892_19a944df5fbf;2019;;Melissa_Peters;null;Data Management;Volume;10883
-12243;7f4f53ae_508c_44c1_a65a_c9865a197e8c105;1992;;Alyssa_Johnson;null;Big Data,Data Management;Volume;12212
+12243;7f4f53ae_508c_44c1_a65a_c9865a197e8c105;1992;;Alyssa_Johnson;null;Data Management,Big Data;Volume;12212
 11399;d72d7ef7_93f2_45e7_a0de_f97f34bdacff98;2018;;Robert_Torres;null;Data Management;Volume;10885
 12246;85966522_3b9a_4c19_94c5_a7043e4cbe4338_5;2014;;Dawn_Kennedy;null;Data Management;Volume;12214
 11398;558a3215_8ffd_4b31_be7f_f653ca3b600d6;2018;;Jonathan_Hughes;null;Data Management;Volume;10884
@@ -1488,42 +1488,42 @@ id;title;year;publisher;chair;city;area;type;venueId
 12249;a11f119f_56cc_43a5_b005_6716c71eebac211_4;2007;;Jennifer_Woods;null;Data Management,Big Data;Volume;12210
 11360;02bf11d4_dd88_4e0e_b7c4_084d3fa17c2f145_Suppl_3;2020;;Peter_Faulkner;null;Data Management;Volume;10840
 12692;55752572_d3be_433f_ab1a_696fccc33d3793;2015;;Timothy_Peck;null;Data Management;Volume;12321
-12693;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a98_5;2015;;Nicholas_Cline;null;null;Volume;12303
+12693;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a98_5;2015;;Nicholas_Cline;null;Data Management;Volume;12303
 11362;3aed0973_7e3a_425e_8b44_0c31fdb5915c21_3;2020;;Mario_Burnett;null;Data Management;Volume;10857
 12690;2ae18de8_1e0b_4f92_9aa3_866ffc4f36e795;2016;;Kimberly_Lopez;null;Data Management;Volume;10851
-11361;59e71779_6ef3_462a_a8bf_6f9a1b7ed54a21;2020;;Terri_Riley;null;null;Volume;10827
+11361;59e71779_6ef3_462a_a8bf_6f9a1b7ed54a21;2020;;Terri_Riley;null;Data Management;Volume;10827
 12691;633d8545_faa6_48ee_a897_b4d5c704498235;2016;;Jessica_Gonzalez;null;Data Management;Volume;12299
 11364;36e5261f_bb6f_4ee4_9902_e03fb40aab4d56;2020;;Carol_Mays;null;Data Management;Volume;10858
 12696;f5279917_ce2b_489d_8c2f_8a8f80a3555999;2015;;Elizabeth_Dunn;null;Data Management;Volume;12304
-11363;7772097c_b1d3_46a7_bf87_67895f6ce34e187;2020;;Craig_Harrington;null;null;Volume;10853
-12697;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a97_4;2014;;Nicholas_Cline;null;null;Volume;12303
+11363;7772097c_b1d3_46a7_bf87_67895f6ce34e187;2020;;Craig_Harrington;null;Data Management;Volume;10853
+12697;512ee71f_a2f9_42bf_aa1d_2bf9ccb445a97_4;2014;;Nicholas_Cline;null;Data Management;Volume;12303
 11366;0dffbda3_6b73_4590_8ee5_cf275c9761db47;2019;;Derek_Cooley;null;Data Management;Volume;10860
-12694;4c9f7a4b_ccca_4b8a_86cc_a9eb7d09e64d29;2015;;Kayla_Mooney;null;null;Volume;12313
+12694;4c9f7a4b_ccca_4b8a_86cc_a9eb7d09e64d29;2015;;Kayla_Mooney;null;Data Management;Volume;12313
 11365;38d0873f_b21e_4365_b630_42c46122e64063;2019;;Madison_Brown;null;Data Management;Volume;10859
-12695;47244d26_b802_4df7_9e86_d4dc204ce61915;2015;;Amanda_Stewart;null;null;Volume;12302
+12695;47244d26_b802_4df7_9e86_d4dc204ce61915;2015;;Amanda_Stewart;null;Data Management;Volume;12302
 11368;0a415e7b_3f40_479e_af21_0fb617ea0ee891;2019;;Tracey_Rogers;null;Data Management;Volume;10862
-11367;aff2fa6b_c12d_4303_a722_6a26dcf1d70640;2019;;Erin_Jordan;null;null;Volume;10861
-12698;5a6a9ffb_e18a_48cd_bae4_f2f90e2fd59d10_3;2014;;Sharon_Gibbs;null;null;Volume;12322
+11367;aff2fa6b_c12d_4303_a722_6a26dcf1d70640;2019;;Erin_Jordan;null;Data Management;Volume;10861
+12698;5a6a9ffb_e18a_48cd_bae4_f2f90e2fd59d10_3;2014;;Sharon_Gibbs;null;Data Management;Volume;12322
 11369;5b038cf2_48f9_4e70_af31_2d49a688397320;2019;;Brandon_Jacobson;null;Data Management;Volume;10837
-12699;0ade427d_a9cf_4eeb_94af_9df9299d19ba7;2014;;Christina_Richardson;null;null;Volume;12323
-11371;70dc766b_a03c_4210_a802_116e78c8466d121;2018;;Deanna_Cox;null;null;Volume;10864
+12699;0ade427d_a9cf_4eeb_94af_9df9299d19ba7;2014;;Christina_Richardson;null;Data Management;Volume;12323
+11371;70dc766b_a03c_4210_a802_116e78c8466d121;2018;;Deanna_Cox;null;Data Management;Volume;10864
 11370;1f2e345a_d825_4ce5_ae6d_a0c8c7c7135765_6;2018;;Stacey_Smith;null;Data Management;Volume;10863
 11373;950b7e5b_1c37_4fe3_ac77_f54abb51af7430;2018;;Steven_Berry;null;Data Management;Volume;10866
 11372;63819b97_fb8b_41f1_b7c7_c2df2eb5f78d22;2018;;Hector_Sherman;null;Data Management;Volume;10865
 11375;7920d0b9_05f3_4e8e_a7e8_45b59be29d6307;2017;;Mary_Rhodes;null;Data Management;Volume;10867
-11374;0dffbda3_6b73_4590_8ee5_cf275c9761db46;2018;;Derek_Cooley;null;null;Volume;10860
+11374;0dffbda3_6b73_4590_8ee5_cf275c9761db46;2018;;Derek_Cooley;null;Data Management;Volume;10860
 11377;950b7e5b_1c37_4fe3_ac77_f54abb51af7429;2017;;Steven_Berry;null;Data Management;Volume;10866
 11376;ebdc1fa7_c0b8_4019_9767_015d6a824ba62017;2017;;Eric_Cox;null;Data Management;Volume;10868
 11379;f0ed97d4_5d9b_4cb1_892a_ae0f91b368bc17;2017;;Mary_George;null;Data Management;Volume;10870
-11378;910f05b9_f423_44fc_9fc1_c6b3d2481fe08;2015;;Christopher_Potts;null;null;Volume;10869
+11378;910f05b9_f423_44fc_9fc1_c6b3d2481fe08;2015;;Christopher_Potts;null;Data Management;Volume;10869
 13188;2002_IFIP_International_Conference_on_e_Business__e_Services__and_e_Society;2002;Longdom;Jessica_Graves;Philadelphia;Engineering,Sociology,Computer Science;Proceeding;13154
 13189;2006_International_Conference_on_Advanced_Learning_Technologies;2006;GavinPublishers;Margaret_Wang;Amsterdam;Computer Science;Proceeding;13155
 13194;2008_ICON;2008;IOSPress;Jacob_Williams;Basel;Computer Science;Proceeding;13160
 13195;2012_IEEE_International_Conference_on_Acoustics__Speech__and_Signal_Processing;2012;OpenAccessJournals;Daryl_Andrews;Munich;Computer Science;Proceeding;13161
 13192;2020_IEEE_International_Conference_on_High_Voltage_Engineering_and_Application;2020;Frontiers;Andrew_Duncan;Bridgeport;Materials Science;Proceeding;13158
 13193;2004_Parallel_and_Distributed_Computing_Systems_ISCA;2004;UniversidadeFederaldoEspiritoSanto;Kayla_Rivas;New York;Computer Science;Proceeding;13159
-13198;2016_International_Symposium_on_Telecommunications;2016;SciTechnol;Patricia_Jones;Nagoya;null;Proceeding;13164
-13199;2012_IEEE_Conference_on_Decision_and_Control;2012;UniversidadeFederaldoRioGrandedoSul;Katherine_Schmidt;Indianapoli;null;Proceeding;13165
+13198;2016_International_Symposium_on_Telecommunications;2016;SciTechnol;Patricia_Jones;Nagoya;Mathematics,Computer Science;Proceeding;13164
+13199;2012_IEEE_Conference_on_Decision_and_Control;2012;UniversidadeFederaldoRioGrandedoSul;Katherine_Schmidt;Indianapoli;Big Data,Mathematics,Computer Science;Proceeding;13165
 13196;2014_IET_Networks;2014;Bentham;Natasha_Macias;Nagoya;Computer Science;Proceeding;13162
 13197;2018_Italian_National_Conference_on_Sensors;2018;JohnHopkinsUniversityPress;Jesse_Herrera;Cologne;Computer Science,Data Management;Proceeding;13163
 13190;2009_International_Symposium_on_Information_Engineering_and_Electronic_Commerce;2009;DeGruyter;Kevin_Moore;Philadelphia;Computer Science;Proceeding;13156
@@ -1531,13 +1531,13 @@ id;title;year;publisher;chair;city;area;type;venueId
 13140;924b5177_20b5_464c_84b2_0f813c7a83b9304;2003;;Glenn_Dawson;null;Big Data,Data Management;Volume;12598
 13143;040b8cb2_de90_46ee_8899_412df4839ba4286;2015;;Kimberly_Carr;null;Data Management,Big Data;Volume;12444
 13144;2f01ed8b_0015_4859_8e99_ee9325e4b67522_2;2012;;Elizabeth_Brown;null;Data Management;Volume;12601
-13141;37d33bbd_c97b_4cd1_9bf1_e7e9ca9af72c16;2019;;Christie_Diaz;null;null;Volume;12599
+13141;37d33bbd_c97b_4cd1_9bf1_e7e9ca9af72c16;2019;;Christie_Diaz;null;Data Management;Volume;12599
 13142;795f129a_c7d1_40c3_a92b_a021da807ee550;2018;;Scott_Yoder;null;Data Management;Volume;12600
 13147;37ed6291_0865_452e_8781_0773f0fa47d020;2006;;Courtney_Brady;null;Data Management;Volume;12604
 13148;7f8e3d72_c59b_4ae7_b5be_384fb68ae48b75_1_4;2005;;Destiny_Hoffman;null;Big Data,Data Management;Volume;12605
 13145;c52db403_572e_4dba_8031_65f5451b6e2428_9;2007;;Angela_Hawkins_PhD;null;Big Data,Data Management;Volume;12602
 13146;44ae1c8e_19e8_4405_9dda_e55c93d86aa318_3;2006;;Kaylee_Olson;null;Data Management;Volume;12603
-13149;06c8f6c0_440f_4ba3_b908_7b92a23d0e03232_1_2;2004;;Andrew_Snyder;null;null;Volume;12606
+13149;06c8f6c0_440f_4ba3_b908_7b92a23d0e03232_1_2;2004;;Andrew_Snyder;null;Big Data,Data Management;Volume;12606
 13150;c162e574_0e58_4b9d_ab5d_b17a0040e4b522;2004;;Tony_Collins;null;Data Management;Volume;10834
 13151;11d0e58d_2fce_416e_945a_ea8815a278a121;2003;;Brenda_Riley;null;Data Management;Volume;12607
 13152;34af9fac_ff3e_46fe_a185_d337fb11a4fe284_3;2003;;Robert_Walker;null;Big Data,Data Management;Volume;12608

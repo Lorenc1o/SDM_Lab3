@@ -174,6 +174,10 @@ public class PreProcessing {
                             paper.setPublicationId(_end);
                             publications.setArea(paper.getArea());
                             publicationHashMap.replace(_end, publications);
+                        } else {
+                            Publications publications = publicationHashMap.get(_end);
+                            publications.setArea(paper.getArea());
+                            publicationHashMap.replace(_end, publications);
                         }
                         String venueId = (String) venueHashMap.keySet().toArray()[random.nextInt(venueHashMap.size())];
                         Venue venue = venueHashMap.get(venueId);
