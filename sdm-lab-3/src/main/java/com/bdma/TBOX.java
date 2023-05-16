@@ -20,10 +20,6 @@ public class TBOX {
     private static final String BASE_URI = "http://www.bdma.com/";
     public static final String RESOURCES_TBOX_OWL = "src/main/resources/tbox.owl";
 
-    public static void main(String[] args) {
-        createTBOX();
-    }
-
     public static void createTBOX() {
 
         OntModel model = ModelFactory.createOntologyModel( OntModelSpec.OWL_DL_MEM_RDFS_INF );

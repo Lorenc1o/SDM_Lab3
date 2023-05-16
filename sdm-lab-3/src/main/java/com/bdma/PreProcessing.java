@@ -13,7 +13,7 @@ public class PreProcessing {
     static String[] conferenceTypes = {"Symposium", "Workshop", "RegularConference"};
     static String[] periodicities = {"Weekly", "Monthly", "Yearly"};
 
-    public static void main(String[] args) {
+    public static void preProcessData() {
         Random random = new Random();
         try {
             BufferedReader nodesReader = new BufferedReader(new FileReader("src/main/resources/nodes.csv"));
