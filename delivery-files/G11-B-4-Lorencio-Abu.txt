@@ -1,0 +1,52 @@
+--1: Find all authors
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <http://www.bdma.com/>
+
+SELECT DISTINCT ?author
+WHERE {
+  ?author rdf:type :Author .
+}
+
+--2: Find all properties whose domain is Author
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <http://www.bdma.com/>
+
+SELECT DISTINCT ?property
+WHERE {
+  ?property rdfs:domain :Author .
+}
+
+--3: Find all properties whose domain is either Conference or Journal
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <http://www.bdma.com/>
+
+SELECT DISTINCT ?property
+WHERE {
+  {
+    ?property rdfs:domain :Conference .
+  } UNION {
+    ?property rdfs:domain :Journal .
+  }
+}
+
+--4: Find all the papers written by a given author that were published in database conferences
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX : <http://www.bdma.com/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT DISTINCT ?paper
+WHERE {
+  ?paper :hasAuthor :John_Daniel_Bossér .
+  ?paper :publishedAs ?proceeding .
+  ?proceeding :includedInConference ?conference .
+  ?conference :relatedTo ?area .
+  ?area :areaName "Computer Science"^^xsd:string .
+}
